@@ -1,0 +1,250 @@
+{
+ "_note": "Hand-listed Miswag items (numeric Miswag ids) linked to Shopify variants (owner-approved 2026-11-07). Used to take Miswag orders off Shopify and to send Shopify stock to these items. Reviewed: owner said follow Shopify (2026-11-08).",
+ "variations": {
+  "1756502843": {
+   "item": "1756459547",
+   "size": "137",
+   "shopify_variant": "43825164156975",
+   "title": "La Roche-Posay Vitamin C12 Serum 30ml"
+  },
+  "1756503686": {
+   "item": "1756460288",
+   "size": "120",
+   "shopify_variant": "47002320338991",
+   "title": "CeraVe Baby Moisturizing Lotion 237ml",
+   "note": "Miswag has two sizes on this item (Standard + 237ml); stock goes to Standard"
+  },
+  "1756503689": {
+   "item": "1756460291",
+   "size": "878",
+   "shopify_variant": "46751422087215",
+   "title": "CeraVe Balancing Air Foam Cleanser 237ml"
+  },
+  "1756503713": {
+   "item": "1756460315",
+   "size": "6743",
+   "shopify_variant": "45680389226543",
+   "title": "CeraVe Skin Renewing Vitamin C Serum 10%"
+  },
+  "1756503730": {
+   "item": "1756460332",
+   "size": "5008",
+   "shopify_variant": "43797775613999",
+   "title": "CeraVe Eye Repair Cream 14.2g"
+  },
+  "1756503731": {
+   "item": "1756460333",
+   "size": "11648",
+   "shopify_variant": "43796929347631",
+   "title": "CeraVe Hydrating Toner 200ml"
+  },
+  "1756503737": {
+   "item": "1756460339",
+   "size": "26894",
+   "shopify_variant": "43796929151023",
+   "title": "CeraVe Hydrating Body Wash 296ml"
+  },
+  "1756503765": {
+   "item": "1756460367",
+   "size": "288",
+   "shopify_variant": "43796927053871",
+   "title": "CeraVe Acne Control Gel 40ml"
+  },
+  "1756503768": {
+   "item": "1756460370",
+   "size": "6743",
+   "shopify_variant": "43796925513775",
+   "title": "CeraVe Skin Renewing Retinol Serum 30ml",
+   "note": "DRAFT in Shopify with 3 units; owner: follow Shopify stock"
+  },
+  "1756503773": {
+   "item": "1756460375",
+   "size": "6743",
+   "shopify_variant": "43796924989487",
+   "title": "CeraVe Resurfacing Retinol Serum 30ml"
+  },
+  "1756503778": {
+   "item": "1756460380",
+   "size": "6743",
+   "shopify_variant": "43796918272047",
+   "title": "CeraVe Hydrating Hyaluronic Acid Serum 30ml"
+  },
+  "1756503802": {
+   "item": "1756460404",
+   "size": "603",
+   "shopify_variant": "43796882096175",
+   "title": "CeraVe Oil Control Moisturizing Gel-Cream 89ml"
+  },
+  "1756503811": {
+   "item": "1756460413",
+   "size": "17155",
+   "shopify_variant": "43796849098799",
+   "title": "CeraVe Facial Moisturizing Lotion PM 60ml",
+   "note": "Miswag size unlabeled; mapped to 60ml: Shopify 60ml has 3 = what Miswag showed, 89ml has 0 (owner: follow Shopify)"
+  },
+  "1756503825": {
+   "item": "1756460427",
+   "size": "607",
+   "shopify_variant": "43796658028591",
+   "title": "CeraVe SA Smoothing Cream 453g"
+  },
+  "1756503831": {
+   "item": "1756460433",
+   "size": "490",
+   "shopify_variant": "43796657307695",
+   "title": "CeraVe Skin Renewing Night Cream 48g"
+  },
+  "1756503842": {
+   "item": "1756460444",
+   "size": "26897",
+   "shopify_variant": "43796645150767",
+   "title": "CeraVe Daily Moisturizing Lotion 87ml",
+   "note": "size 26897 has no label on Miswag; 87ml by elimination"
+  },
+  "1756503852": {
+   "item": "1756460454",
+   "size": "878",
+   "shopify_variant": "43796645183535",
+   "title": "CeraVe Daily Moisturizing Lotion 237ml"
+  },
+  "1756503858": {
+   "item": "1756460460",
+   "size": "26899",
+   "shopify_variant": "43796645216303",
+   "title": "CeraVe Daily Moisturizing Lotion 355ml"
+  },
+  "1756503865": {
+   "item": "1756460467",
+   "size": "879",
+   "shopify_variant": "43796645249071",
+   "title": "CeraVe Daily Moisturizing Lotion 473ml"
+  },
+  "1756503874": {
+   "item": "1756460476",
+   "size": "878",
+   "shopify_variant": "43780880597039",
+   "title": "CeraVe Hydrating Foaming Oil Cleanser 237ml"
+  },
+  "1756503884": {
+   "item": "1756460486",
+   "size": "879",
+   "shopify_variant": "43780880629807",
+   "title": "CeraVe Hydrating Foaming Oil Cleanser 473ml"
+  },
+  "1756503892": {
+   "item": "1756460492",
+   "size": "26899",
+   "shopify_variant": "43796590788655",
+   "title": "CeraVe Hydrating Foaming Oil Cleanser 355ml"
+  },
+  "1756503901": {
+   "item": "1756460501",
+   "size": "878",
+   "shopify_variant": "43780868669487",
+   "title": "CeraVe SA Smoothing Cleanser 237ml"
+  },
+  "1756503913": {
+   "item": "1756460511",
+   "size": "26899",
+   "shopify_variant": "45392404283439",
+   "title": "CeraVe SA Smoothing Cleanser 355ml"
+  },
+  "1756503927": {
+   "item": "1756460521",
+   "size": "878",
+   "shopify_variant": "43780600102959",
+   "title": "CeraVe Acne Control Cleanser 237ml"
+  },
+  "1756503936": {
+   "item": "1756460530",
+   "size": "26899",
+   "shopify_variant": "47020403032111",
+   "title": "CeraVe Acne Control Cleanser 355ml"
+  },
+  "1756503948": {
+   "item": "1756460542",
+   "size": "879",
+   "shopify_variant": "47020403064879",
+   "title": "CeraVe Acne Control Cleanser 473ml"
+  },
+  "1756503950": {
+   "item": "1756460544",
+   "size": "878",
+   "shopify_variant": "43780552622127",
+   "title": "CeraVe Hydrating Cream-to-Foam Cleanser 237ml"
+  },
+  "1756503951": {
+   "item": "1756460545",
+   "size": "879",
+   "shopify_variant": "43780552654895",
+   "title": "CeraVe Hydrating Cream-to-Foam Cleanser 473ml"
+  },
+  "1756503955": {
+   "item": "1756460549",
+   "size": "26899",
+   "shopify_variant": "43796603830319",
+   "title": "CeraVe Hydrating Cream-to-Foam Cleanser 355ml"
+  },
+  "1756503957": {
+   "item": "1756460551",
+   "size": "26897",
+   "shopify_variant": "43780468703279",
+   "title": "CeraVe Foaming Facial Cleanser 87ml",
+   "note": "size 26897 has no label on Miswag; 87ml by elimination"
+  },
+  "1756503959": {
+   "item": "1756460553",
+   "size": "878",
+   "shopify_variant": "43780468736047",
+   "title": "CeraVe Foaming Facial Cleanser 237ml"
+  },
+  "1756503965": {
+   "item": "1756460559",
+   "size": "26899",
+   "shopify_variant": "43780468768815",
+   "title": "CeraVe Foaming Facial Cleanser 355ml"
+  },
+  "1756503970": {
+   "item": "1756460564",
+   "size": "879",
+   "shopify_variant": "43780468801583",
+   "title": "CeraVe Foaming Facial Cleanser 473ml"
+  },
+  "1756503977": {
+   "item": "1756460571",
+   "size": "603",
+   "shopify_variant": "43796596359215",
+   "title": "CeraVe Hydrating Facial Cleanser 89ml"
+  },
+  "1756503985": {
+   "item": "1756460579",
+   "size": "878",
+   "shopify_variant": "45764267016239",
+   "title": "CeraVe Hydrating Facial Cleanser 237ml"
+  },
+  "1756503988": {
+   "item": "1756460582",
+   "size": "26899",
+   "shopify_variant": "43780444323887",
+   "title": "CeraVe Hydrating Facial Cleanser 355ml"
+  },
+  "1756503993": {
+   "item": "1756460587",
+   "size": "879",
+   "shopify_variant": "43780444356655",
+   "title": "CeraVe Hydrating Facial Cleanser 473ml"
+  },
+  "1756504010": {
+   "item": "1756460604",
+   "size": "26899",
+   "shopify_variant": "47003113848879",
+   "title": "CeraVe Anti-Dandruff Hydrating Shampoo 355ml"
+  },
+  "1756504016": {
+   "item": "1756460610",
+   "size": "26899",
+   "shopify_variant": "47003111325743",
+   "title": "CeraVe Gentle Hydrating Shampoo 355ml"
+  }
+ }
+}
