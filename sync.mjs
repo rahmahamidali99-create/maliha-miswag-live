@@ -8,6 +8,7 @@ import { shopifyClient, fetchProducts, fetchWholesaleIds } from './lib/shopify.m
 import { miswagClient } from './lib/miswag.mjs';
 import { isWholesale, isCeraVe } from './lib/rules.mjs';
 import { buildPayloads } from './lib/build.mjs';
+import { syncOrders } from './lib/orders.mjs';
 
 const args = Object.fromEntries(process.argv.slice(2).map((a) => { const [k, v] = a.replace(/^--/, '').split('='); return [k, v ?? true]; }));
 const LIVE = args.live === true;
@@ -46,6 +47,15 @@ const mapPath = new URL('./seed/image-map.json', import.meta.url);
 const imageMap = existsSync(mapPath) ? JSON.parse(readFileSync(mapPath, 'utf8')) : {};
 
 // ---- Shopify catalogue: active products only
+// ---- Miswag orders -> Shopify stock FIRST, so the stock read below already includes them.
+// Runs only once the Shopify app has write_inventory (owner-approved 2026-11-07); --orders=off skips it.
+let orders = { skipped: 'Shopify app has no write_inventory scope yet' };
+if (args.orders === 'off') orders = { skipped: '--orders=off' };
+else if (!ONLY && shop.canWriteInventory) {
+  try { orders = await syncOrders({ shop, miswag, state, live: LIVE, log: (m) => console.log('ORDERS', m) }); }
+  catch (e) { orders = { error: String(e.message || e).slice(0, 300) }; console.log('ORDERS ERROR', orders.error); }
+}
+
 const products = await fetchProducts(shop, 'status:active');
 const wholesaleIds = await fetchWholesaleIds(shop);
 
@@ -93,6 +103,7 @@ const summary = {
   skipped: Object.fromEntries(Object.entries(skipped).map(([k, v]) => [k, v.length])),
   warnings: issueCount,
   existing_miswag_items: miswagItems.length,
+  orders,
 };
 writeFileSync(new URL('payloads.json', DATA), JSON.stringify(payloads, null, 1));
 writeFileSync(new URL('report.json', DATA), JSON.stringify({ summary, skipped, products: out.map((r) => ({ ...r.meta, issues: r.issues, items: r.payloads.map((x) => x.external_id) })) }, null, 1));
@@ -172,6 +183,27 @@ async function pushToMiswag() {
         if (res && res.errors.every((e) => /no images/i.test(e))) log.publish_waiting_for_images = (log.publish_waiting_for_images || 0) + 1;
         else err(`publish ${id}`, { status: 200, json: res ?? 'no result' });
       } else { state.items[id].published = true; log.published++; }
+    }
+  }
+
+  // Hand-listed items (CeraVe + La Roche-Posay C12, numeric Miswag ids) linked in seed/hand-map.json:
+  // they get the real Shopify stock too (owner-approved 2026-11-07). Only stock is sent; the listings stay as the owner made them.
+  const handPath = new URL('./seed/hand-map.json', import.meta.url);
+  if (!ONLY && existsSync(handPath)) {
+    const hand = JSON.parse(readFileSync(handPath, 'utf8')).variations || {};
+    const ids = [...new Set(Object.values(hand).map((h) => `gid://shopify/ProductVariant/${h.shopify_variant}`))];
+    const qty = {};
+    for (let i = 0; i < ids.length; i += 50) {
+      const d = await shop.gql(`query($ids:[ID!]!){ nodes(ids:$ids){ ... on ProductVariant { id inventoryQuantity inventoryItem { tracked } } } }`, { ids: ids.slice(i, i + 50) });
+      for (const n of d.nodes) if (n) qty[n.id.split('/').pop()] = n.inventoryItem?.tracked ? Math.max(0, n.inventoryQuantity || 0) : 0;
+    }
+    state.hand ??= {};
+    log.hand_stock_updates = 0;
+    for (const [variation, h] of Object.entries(hand)) {
+      const q = qty[h.shopify_variant];
+      if (q === undefined || state.hand[variation] === q) continue;
+      const r = await miswag.call('PATCH', `/v1/items/${h.item}/stock`, { variations: [{ id: variation, sizes: [{ id: h.size, quantity: q }] }] });
+      if (r.status >= 300) err(`hand stock ${h.item}`, r); else { state.hand[variation] = q; log.hand_stock_updates++; }
     }
   }
 

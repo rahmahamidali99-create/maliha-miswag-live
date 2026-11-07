@@ -58,7 +58,7 @@ jobs:
           while [ $SECONDS -lt $end ]; do
             start=$SECONDS; n=$((n+1))
             node sync.mjs --live --all > run.log 2>&1 || true
-            echo "run $n $(date -u +%H:%M) $(grep -oE '"(stock_updates|price_updates|unpublished|published|created_or_updated|errors)": [0-9]+' data/last-run.json 2>/dev/null | tr -d '"' | tr '\n' ' ')"
+            echo "run $n $(date -u +%H:%M) $(grep -oE '"(stock_updates|price_updates|unpublished|published|created_or_updated|hand_stock_updates|new_shipments|deducted_lines|restored_lines|errors)": [0-9]+' data/last-run.json 2>/dev/null | tr -d '"' | tr '\n' ' ')"
             grep -q 'ABORT' run.log && { echo "sync aborted itself (safety check) - stopping"; exit 1; }
             left=$((120 - (SECONDS - start))); [ $left -gt 0 ] && sleep $left
           done
