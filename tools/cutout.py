@@ -49,6 +49,7 @@ def recolour(im):
     ai = np.array(remove(im.convert("RGB"), session=SESSION).getchannel("A")) > 40
     r = max(3, int(min(h, w) * 0.02))
     prod = binary_fill_holes(binary_closing(binary_fill_holes(ai | ~bg), np.ones((r, r)))) | ~bg
+    prod = drop_edge_fragments(prod, mn)
     a = gaussian_filter(prod.astype(np.float32), 1.0)
     out = rgb * a[..., None] + np.array(BG, np.float32) * (1 - a[..., None])
     ys, xs = np.where(prod)
@@ -59,6 +60,19 @@ def recolour(im):
     canvas = Image.new("RGB", (SIZE, SIZE), BG)
     canvas.paste(crop, ((SIZE - crop.width) // 2, (SIZE - crop.height) // 2))
     return canvas
+
+def drop_edge_fragments(prod, mn):
+    # A pale off-white piece touching the photo edge (a page corner, a swatch card) is not the product. Keeping it pushed the
+    # product off-centre (Lancôme concealer / Lash Idôle, 2026-11-07). The largest part is always kept.
+    from scipy.ndimage import label
+    lab, n = label(prod)
+    if n < 2: return prod
+    sizes = np.bincount(lab.ravel()); sizes[0] = 0
+    main = sizes.argmax()
+    edge = set(np.unique(np.concatenate([lab[0], lab[-1], lab[:, 0], lab[:, -1]]))) - {0, main}
+    for c in edge:
+        if mn[lab == c].mean() > 200: prod = prod & (lab != c)
+    return prod
 
 def place(cut):
     bb = cut.getchannel("A").point(lambda v: 255 if v > 20 else 0).getbbox()
