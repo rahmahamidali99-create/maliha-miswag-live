@@ -1,0 +1,7085 @@
+[
+ {
+  "id": "L4-658",
+  "alias": "men-blazers",
+  "name_en": "Men Blazers",
+  "name_ar": "ستر رسمية",
+  "description": "Men formal blazers",
+  "active": true,
+  "path": "fashion > men-clothing > men-jackets > men-blazers"
+ },
+ {
+  "id": "L4-659",
+  "alias": "men-coats",
+  "name_en": "Men Coats",
+  "name_ar": "معاطف",
+  "description": "Men Coats",
+  "active": true,
+  "path": "fashion > men-clothing > men-jackets > men-coats"
+ },
+ {
+  "id": "L4-660",
+  "alias": "men-casual-jackets",
+  "name_en": "Men Casual Jackets",
+  "name_ar": "جاكيت",
+  "description": "Men Casual Jackets",
+  "active": true,
+  "path": "fashion > men-clothing > men-jackets > men-casual-jackets"
+ },
+ {
+  "id": "L3-2",
+  "alias": "men-shirts",
+  "name_en": "Men Shirts",
+  "name_ar": "قميص رجالي",
+  "description": "اقمصة رجالية",
+  "active": true,
+  "path": "fashion > men-clothing > men-shirts"
+ },
+ {
+  "id": "L3-3",
+  "alias": "men-trousers",
+  "name_en": "Men Trousers",
+  "name_ar": "بناطيل قماش رجالية",
+  "description": "",
+  "active": true,
+  "path": "fashion > men-clothing > men-trousers"
+ },
+ {
+  "id": "L4-645",
+  "alias": "men-tshirts",
+  "name_en": "Men T-Shirts",
+  "name_ar": "تيشيرت رجالي",
+  "description": "includes all Men T-Shirts",
+  "active": true,
+  "path": "fashion > men-clothing > men-blouses > men-tshirts"
+ },
+ {
+  "id": "L4-647",
+  "alias": "menblouses",
+  "name_en": "Men Blouses",
+  "name_ar": "بلوز رجالي",
+  "description": "contains all Men Blouses\n",
+  "active": true,
+  "path": "fashion > men-clothing > men-blouses > menblouses"
+ },
+ {
+  "id": "L4-711",
+  "alias": "men-sports-bottoms",
+  "name_en": "Men's Sports Bottoms",
+  "name_ar": "بيجاما وشورت رياضي",
+  "description": "بيجاما وشورت رياضي",
+  "active": true,
+  "path": "fashion > men-clothing > men-sportswear > men-sports-bottoms"
+ },
+ {
+  "id": "L4-712",
+  "alias": "men-sports-tops",
+  "name_en": "Men's Sports Tops",
+  "name_ar": "تيشيرت وتوب رياضي",
+  "description": "تيشيرت وتوب رياضي",
+  "active": true,
+  "path": "fashion > men-clothing > men-sportswear > men-sports-tops"
+ },
+ {
+  "id": "L4-713",
+  "alias": "men-trascksuits",
+  "name_en": "Men's Tracksuits & Sport Sets",
+  "name_ar": "تراكسوت وسيت رياضي",
+  "description": "تراكسوت رياضي",
+  "active": true,
+  "path": "fashion > men-clothing > men-sportswear > men-trascksuits"
+ },
+ {
+  "id": "L4-131",
+  "alias": "men-boxer",
+  "name_en": "Men's Boxers",
+  "name_ar": "بوكسر",
+  "description": "",
+  "active": true,
+  "path": "fashion > men-clothing > men-underwear > men-boxer"
+ },
+ {
+  "id": "L4-538",
+  "alias": "men-tank-top",
+  "name_en": "Men's Tank Tops",
+  "name_ar": "فانيلة رجالية",
+  "description": "",
+  "active": true,
+  "path": "fashion > men-clothing > men-underwear > men-tank-top"
+ },
+ {
+  "id": "L3-7",
+  "alias": "men-homewear",
+  "name_en": "Men Home Wear",
+  "name_ar": "ملابس بيت رجالية",
+  "description": "",
+  "active": true,
+  "path": "fashion > men-clothing > men-homewear"
+ },
+ {
+  "id": "L4-648",
+  "alias": "women-blazers",
+  "name_en": "Womens Suit",
+  "name_ar": "ستر رسمية",
+  "description": "contains all blazers and suit",
+  "active": true,
+  "path": "fashion > women-clothing > women-jackets > women-blazers"
+ },
+ {
+  "id": "L4-649",
+  "alias": "women-coats",
+  "name_en": "Coats",
+  "name_ar": "معاطف",
+  "description": "Coats",
+  "active": true,
+  "path": "fashion > women-clothing > women-jackets > women-coats"
+ },
+ {
+  "id": "L4-650",
+  "alias": "women-casual-jackets",
+  "name_en": "Casual Jackets",
+  "name_ar": "جاكيتات",
+  "description": "Casual Jackets",
+  "active": true,
+  "path": "fashion > women-clothing > women-jackets > women-casual-jackets"
+ },
+ {
+  "id": "L3-9",
+  "alias": "women-tshirts",
+  "name_en": "Women's T-shirt",
+  "name_ar": "تيشيرت نسائي",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-tshirts"
+ },
+ {
+  "id": "L4-638",
+  "alias": "women-skirts",
+  "name_en": "Skirts",
+  "name_ar": "تنانير",
+  "description": "it includes all women skirts",
+  "active": true,
+  "path": "fashion > women-clothing > women-clothing-bottoms > women-skirts"
+ },
+ {
+  "id": "L4-639",
+  "alias": "women-pants",
+  "name_en": "Pants",
+  "name_ar": "بناطيل",
+  "description": "it includes all women pants",
+  "active": true,
+  "path": "fashion > women-clothing > women-clothing-bottoms > women-pants"
+ },
+ {
+  "id": "L4-656",
+  "alias": "women-tops-blouses",
+  "name_en": "Women Blouses",
+  "name_ar": "بلوز نسائي",
+  "description": "Women Blouses",
+  "active": true,
+  "path": "fashion > women-clothing > women-clothing-tops > women-tops-blouses"
+ },
+ {
+  "id": "L4-657",
+  "alias": "women-tops-shirts",
+  "name_en": "Women Shirts",
+  "name_ar": "قميص",
+  "description": "Women Shirts",
+  "active": true,
+  "path": "fashion > women-clothing > women-clothing-tops > women-tops-shirts"
+ },
+ {
+  "id": "L3-12",
+  "alias": "women-dresses",
+  "name_en": "Women Dresses",
+  "name_ar": "فساتين",
+  "description": "فساتين نسائية",
+  "active": true,
+  "path": "fashion > women-clothing > women-dresses"
+ },
+ {
+  "id": "L3-13",
+  "alias": "women-hijab-wear",
+  "name_en": "Hijab Wear",
+  "name_ar": "ملابس الحجاب",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-hijab-wear"
+ },
+ {
+  "id": "L4-665",
+  "alias": "women-sports-bottoms",
+  "name_en": "Women Sport Bottoms",
+  "name_ar": "سروال وستريج رياضي",
+  "description": "سروال وستريج رياضي",
+  "active": true,
+  "path": "fashion > women-clothing > women-sportswear > women-sports-bottoms"
+ },
+ {
+  "id": "L4-666",
+  "alias": "women-sports-tops",
+  "name_en": "Women Sports T-Shirt",
+  "name_ar": "تيشرت وتوب رياضي",
+  "description": "تيشرت رياضي",
+  "active": true,
+  "path": "fashion > women-clothing > women-sportswear > women-sports-tops"
+ },
+ {
+  "id": "L4-133",
+  "alias": "women-pyjamas",
+  "name_en": "Women Pyjamas",
+  "name_ar": "بيجاما نسائية",
+  "description": "بيجاما نسائية",
+  "active": true,
+  "path": "fashion > women-clothing > women-homewear > women-pyjamas"
+ },
+ {
+  "id": "L4-134",
+  "alias": "women-thawb",
+  "name_en": "Women Thawb",
+  "name_ar": "دشداشة وثوب نسائي",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-homewear > women-thawb"
+ },
+ {
+  "id": "L4-135",
+  "alias": "women-robe",
+  "name_en": "Women Robes",
+  "name_ar": "روب نسائي",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-homewear > women-robe"
+ },
+ {
+  "id": "L4-487",
+  "alias": "maternity-clothes",
+  "name_en": "Maternity Clothes",
+  "name_ar": "ملابس للحوامل",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-homewear > maternity-clothes"
+ },
+ {
+  "id": "L4-136",
+  "alias": "women-lingerie",
+  "name_en": "Lingerie",
+  "name_ar": "ملابس نوم نسائية",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-underwear > women-lingerie"
+ },
+ {
+  "id": "L4-137",
+  "alias": "women-shapewear",
+  "name_en": "Women Shapewear",
+  "name_ar": "مشدات نسائية",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-underwear > women-shapewear"
+ },
+ {
+  "id": "L4-138",
+  "alias": "women-bras",
+  "name_en": "Bras",
+  "name_ar": "صدرية نسائية",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-underwear > women-bras"
+ },
+ {
+  "id": "L4-139",
+  "alias": "women-panties",
+  "name_en": "Panties",
+  "name_ar": "لباس داخلي",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-underwear > women-panties"
+ },
+ {
+  "id": "L4-491",
+  "alias": "women-undies-set",
+  "name_en": "Women Undies Set",
+  "name_ar": "سيت ملابس داخلية نسائي",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-underwear > women-undies-set"
+ },
+ {
+  "id": "L4-492",
+  "alias": "women-tank-top",
+  "name_en": "Women's Tank Top",
+  "name_ar": "فانيلة نسائية",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-underwear > women-tank-top"
+ },
+ {
+  "id": "L4-153",
+  "alias": "men-formal-shoes",
+  "name_en": "Men's Formal Shoes",
+  "name_ar": "أحذية رسمية للرجال",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > men-footwear > men-formal-shoes"
+ },
+ {
+  "id": "L4-154",
+  "alias": "men-sport-shoes",
+  "name_en": "Men's Sneakers & Sports Shoes",
+  "name_ar": "أحذية رياضية للرجال",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > men-footwear > men-sport-shoes"
+ },
+ {
+  "id": "L4-155",
+  "alias": "men-sandals",
+  "name_en": "Men's Sandals & Flip-Flops",
+  "name_ar": "صندل وشحاطة للرجال",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > men-footwear > men-sandals"
+ },
+ {
+  "id": "L4-549",
+  "alias": "casual-comfort-shoes",
+  "name_en": "Men's Casual & Comfort Shoes",
+  "name_ar": "أحذية مشي مريحة للرجال",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > men-footwear > casual-comfort-shoes"
+ },
+ {
+  "id": "L4-673",
+  "alias": "men-boots",
+  "name_en": "Men Boots",
+  "name_ar": "بوت رجالي ",
+  "description": "contains all men boots",
+  "active": true,
+  "path": "fashion > shoes > men-footwear > men-boots"
+ },
+ {
+  "id": "L4-156",
+  "alias": "women-heels",
+  "name_en": "High Heels",
+  "name_ar": "أحذية كعب عالي",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > women-footwear > women-heels"
+ },
+ {
+  "id": "L4-157",
+  "alias": "women-flat-shoes",
+  "name_en": "Flat & Casual Shoes",
+  "name_ar": "أحذية مريحة وفلات",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > women-footwear > women-flat-shoes"
+ },
+ {
+  "id": "L4-158",
+  "alias": "women-sports-shoes",
+  "name_en": "Sneakers & Sports Shoes",
+  "name_ar": "أحذية رياضية",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > women-footwear > women-sports-shoes"
+ },
+ {
+  "id": "L4-159",
+  "alias": "women-sandals",
+  "name_en": "Women's Sandals & Flip-Flops",
+  "name_ar": "صندل وشحاطة للنساء",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > women-footwear > women-sandals"
+ },
+ {
+  "id": "L4-674",
+  "alias": "women-boots",
+  "name_en": "Women Boots",
+  "name_ar": "بوت نسائي",
+  "description": "بوت نسائي",
+  "active": true,
+  "path": "fashion > shoes > women-footwear > women-boots"
+ },
+ {
+  "id": "L4-705",
+  "alias": "women-slippers",
+  "name_en": "Women Slippers",
+  "name_ar": "بانتوف نسائي",
+  "description": "بانتوف نسائي",
+  "active": true,
+  "path": "fashion > shoes > women-footwear > women-slippers"
+ },
+ {
+  "id": "L4-160",
+  "alias": "boys-footwear",
+  "name_en": "Boys Footwear",
+  "name_ar": "أحذية ولادية",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > kids-footwear > boys-footwear"
+ },
+ {
+  "id": "L4-161",
+  "alias": "girls-footwear",
+  "name_en": "Girls Footwear",
+  "name_ar": "أحذية بناتية",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > kids-footwear > girls-footwear"
+ },
+ {
+  "id": "L4-162",
+  "alias": "newborn-footwear",
+  "name_en": "Newborn Footwear",
+  "name_ar": "أحذية أطفال حديثي الولادة",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > kids-footwear > newborn-footwear"
+ },
+ {
+  "id": "L4-628",
+  "alias": "unisex-kids-shoes",
+  "name_en": "Unisex Kids Shoes",
+  "name_ar": "أحذية أطفال لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > kids-footwear > unisex-kids-shoes"
+ },
+ {
+  "id": "L4-1",
+  "alias": "face-makeup-palettes",
+  "name_en": "Face Makeup Palettes",
+  "name_ar": "باليتات مكياج الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > face-makeup-palettes"
+ },
+ {
+  "id": "L4-2",
+  "alias": "primers-and-makeup-fixers",
+  "name_en": "Face Primers & Makeup Fixers",
+  "name_ar": "برايمر و مثبت مكياج",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > primers-and-makeup-fixers"
+ },
+ {
+  "id": "L4-3",
+  "alias": "face-foundations",
+  "name_en": "Foundation",
+  "name_ar": "فاونديشن",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > face-foundations"
+ },
+ {
+  "id": "L4-4",
+  "alias": "face-bb-cc-creams",
+  "name_en": "BB & CC Creams",
+  "name_ar": "كريم BB و CC",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > face-bb-cc-creams"
+ },
+ {
+  "id": "L4-5",
+  "alias": "face-powder",
+  "name_en": "Face Powder",
+  "name_ar": "باودر الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > face-powder"
+ },
+ {
+  "id": "L4-6",
+  "alias": "face-contour-and-bronze",
+  "name_en": "Contour & Bronze",
+  "name_ar": "كونتور وبرونزر",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > face-contour-and-bronze"
+ },
+ {
+  "id": "L4-7",
+  "alias": "concealers-and-correctors",
+  "name_en": "Concealers & Correctors",
+  "name_ar": "كونسيلر و مصحح",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > concealers-and-correctors"
+ },
+ {
+  "id": "L4-8",
+  "alias": "face-blush-and-tint",
+  "name_en": "Blush & Tint",
+  "name_ar": "أحمر خدود و تنت",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > face-blush-and-tint"
+ },
+ {
+  "id": "L4-9",
+  "alias": "face-highlighters",
+  "name_en": "Highlighters",
+  "name_ar": "إضاءة الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > face-makeup > face-highlighters"
+ },
+ {
+  "id": "L4-13",
+  "alias": "eyes-makeup-palettes",
+  "name_en": "Eyes Palettes",
+  "name_ar": "باليتات للعيون",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > eyes-makeup > eyes-makeup-palettes"
+ },
+ {
+  "id": "L4-14",
+  "alias": "eyes-makeup-primer",
+  "name_en": "Primer",
+  "name_ar": "برايمر",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > eyes-makeup > eyes-makeup-primer"
+ },
+ {
+  "id": "L4-15",
+  "alias": "eyes-makeup-shadow",
+  "name_en": "Shadow",
+  "name_ar": "ظلال العيون",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > eyes-makeup > eyes-makeup-shadow"
+ },
+ {
+  "id": "L4-16",
+  "alias": "eyes-makeup-kohl",
+  "name_en": "Kohl",
+  "name_ar": "كحل",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > eyes-makeup > eyes-makeup-kohl"
+ },
+ {
+  "id": "L4-17",
+  "alias": "eyes-makeup-eyeliners",
+  "name_en": "Eyeliners",
+  "name_ar": "آيلاينر",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > eyes-makeup > eyes-makeup-eyeliners"
+ },
+ {
+  "id": "L4-18",
+  "alias": "eyes-makeup-mascara",
+  "name_en": "Mascara",
+  "name_ar": "ماسكارا",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > eyes-makeup > eyes-makeup-mascara"
+ },
+ {
+  "id": "L4-798",
+  "alias": "eyeset",
+  "name_en": "Set",
+  "name_ar": "سيت",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > eyes-makeup > eyeset"
+ },
+ {
+  "id": "L4-19",
+  "alias": "lip-primer",
+  "name_en": "Lip Primers",
+  "name_ar": "برايمر الشفاه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > lips-makeup > lip-primer"
+ },
+ {
+  "id": "L4-20",
+  "alias": "lipstick-and-lipgloss",
+  "name_en": "Lipstick & Gloss",
+  "name_ar": "أحمر الشفاه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > lips-makeup > lipstick-and-lipgloss"
+ },
+ {
+  "id": "L4-21",
+  "alias": "lip-makeup-palettes",
+  "name_en": "Palettes",
+  "name_ar": "باليتات للشفاه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > lips-makeup > lip-makeup-palettes"
+ },
+ {
+  "id": "L4-22",
+  "alias": "lip-liners",
+  "name_en": "Lip Liners",
+  "name_ar": "تحديد الشفاه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > lips-makeup > lip-liners"
+ },
+ {
+  "id": "L4-23",
+  "alias": "lip-tint",
+  "name_en": "Lip Tint",
+  "name_ar": "تنت للشفاه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > lips-makeup > lip-tint"
+ },
+ {
+  "id": "L4-10",
+  "alias": "top-and-base-coats",
+  "name_en": "Base & Top Coats",
+  "name_ar": "طلاء أساس وعلوي",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > nails-makeup > top-and-base-coats"
+ },
+ {
+  "id": "L4-11",
+  "alias": "nail-lacquer",
+  "name_en": "Nail Polish",
+  "name_ar": "طلاء الأظافر",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > nails-makeup > nail-lacquer"
+ },
+ {
+  "id": "L4-12",
+  "alias": "stick-on-nails",
+  "name_en": "Stick-On Nails & Accessories",
+  "name_ar": "أظافر لاصقة وأكسسواراتها",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > nails-makeup > stick-on-nails"
+ },
+ {
+  "id": "L4-52",
+  "alias": "nail-polish-remover",
+  "name_en": "Nail Polish Removers",
+  "name_ar": "مزيل طلاء الأظافر",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > nails-makeup > nail-polish-remover"
+ },
+ {
+  "id": "L4-24",
+  "alias": "body-foundation",
+  "name_en": "Body Foundation",
+  "name_ar": "كريم أساس للجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > body-makeup > body-foundation"
+ },
+ {
+  "id": "L4-25",
+  "alias": "body-highlighter",
+  "name_en": "Body Highlighters",
+  "name_ar": "إضاءة للجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > body-makeup > body-highlighter"
+ },
+ {
+  "id": "L4-27",
+  "alias": "makeup-brushes",
+  "name_en": "Makeup Brushes",
+  "name_ar": "فرش مكياج",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > makeup-tools > makeup-brushes"
+ },
+ {
+  "id": "L4-28",
+  "alias": "makeup-applicator-sponge",
+  "name_en": "Makeup Applicator Sponges",
+  "name_ar": "إسفنجة مكياج",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > makeup-tools > makeup-applicator-sponge"
+ },
+ {
+  "id": "L4-29",
+  "alias": "misc-makeup-tools",
+  "name_en": "Other Makeup Tools",
+  "name_ar": "أدوات مكياج متنوعة",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > makeup-tools > misc-makeup-tools"
+ },
+ {
+  "id": "L4-522",
+  "alias": "cosmetics-mirrors",
+  "name_en": "Cosmetics Mirror",
+  "name_ar": "مرآة تجميل",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > makeup-tools > cosmetics-mirrors"
+ },
+ {
+  "id": "L4-33",
+  "alias": "facial-cleansers",
+  "name_en": "Facial Cleansers",
+  "name_ar": "غسولات وصابون الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > facial-cleansers"
+ },
+ {
+  "id": "L4-34",
+  "alias": "face-scrubs",
+  "name_en": "Facial Scrubs",
+  "name_ar": "مقشرات الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > face-scrubs"
+ },
+ {
+  "id": "L4-35",
+  "alias": "facial-toners",
+  "name_en": "Facial Toners",
+  "name_ar": "تونر الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > facial-toners"
+ },
+ {
+  "id": "L4-36",
+  "alias": "facial-moisturizers",
+  "name_en": "Facial Moisturizers",
+  "name_ar": "مرطبات بشرة الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > facial-moisturizers"
+ },
+ {
+  "id": "L4-37",
+  "alias": "face-sunscreen",
+  "name_en": "Sunscreens",
+  "name_ar": "واقي شمس",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > face-sunscreen"
+ },
+ {
+  "id": "L4-38",
+  "alias": "facial-masks",
+  "name_en": "Facial Masks",
+  "name_ar": "ماسكات الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > facial-masks"
+ },
+ {
+  "id": "L4-39",
+  "alias": "facial-serums",
+  "name_en": "Facial Serums",
+  "name_ar": "سيرومات ومعالجات",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > facial-serums"
+ },
+ {
+  "id": "L4-40",
+  "alias": "face-skincare-tools",
+  "name_en": "Skincare Tools",
+  "name_ar": "أدوات العناية ببشرة الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > face-skincare-tools"
+ },
+ {
+  "id": "L4-44",
+  "alias": "facial-skincare-sets",
+  "name_en": "Sets & Combos",
+  "name_ar": "سيتات",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > facial-skincare-sets"
+ },
+ {
+  "id": "L4-499",
+  "alias": "face-skincare-appliances",
+  "name_en": "Face Skincare Appliances",
+  "name_ar": "أجهزة العناية ببشرة الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > face-skincare > face-skincare-appliances"
+ },
+ {
+  "id": "L4-42",
+  "alias": "body-scrubs",
+  "name_en": "Body Scrubs",
+  "name_ar": "مقشرات الجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > body-skincare > body-scrubs"
+ },
+ {
+  "id": "L4-43",
+  "alias": "body-moisturizers",
+  "name_en": "Body Moisturizers",
+  "name_ar": "مرطبات الجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > body-skincare > body-moisturizers"
+ },
+ {
+  "id": "L4-45",
+  "alias": "bodycare-sets",
+  "name_en": "Sets",
+  "name_ar": "سيتات",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > body-skincare > bodycare-sets"
+ },
+ {
+  "id": "L4-46",
+  "alias": "body-sunscreen",
+  "name_en": "Body Sunscreen",
+  "name_ar": "واقي شمس للجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > body-skincare > body-sunscreen"
+ },
+ {
+  "id": "L4-47",
+  "alias": "oils-mask-treatments",
+  "name_en": "Oils, Masks & Treatments",
+  "name_ar": "زيوت ، معالجات و ماسكات",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > body-skincare > oils-mask-treatments"
+ },
+ {
+  "id": "L4-48",
+  "alias": "bodycare-tools",
+  "name_en": "Bodycare Tools",
+  "name_ar": "أدوات العناية بالجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > body-skincare > bodycare-tools"
+ },
+ {
+  "id": "L4-503",
+  "alias": "bodycare-appliances",
+  "name_en": "Bodycare Appliances",
+  "name_ar": "أجهزة العناية ببشرة الجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > body-skincare > bodycare-appliances"
+ },
+ {
+  "id": "L4-49",
+  "alias": "hand-moisturizers",
+  "name_en": "Hand Moisturizers",
+  "name_ar": "مرطبات الأيدي والأظافر",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > hands-and-nails-skincare > hand-moisturizers"
+ },
+ {
+  "id": "L4-50",
+  "alias": "hand-scrubs",
+  "name_en": "Hand Scrubs",
+  "name_ar": "مقشرات الأيدي و الأظافر",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > hands-and-nails-skincare > hand-scrubs"
+ },
+ {
+  "id": "L4-51",
+  "alias": "hand-care-masks",
+  "name_en": "Hands & Nails Masks",
+  "name_ar": "ماسكات العناية بالأيدي والأظافر",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > hands-and-nails-skincare > hand-care-masks"
+ },
+ {
+  "id": "L4-53",
+  "alias": "hand-treatments",
+  "name_en": "Oils & Treatments",
+  "name_ar": "زيوت ومعالجات",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > hands-and-nails-skincare > hand-treatments"
+ },
+ {
+  "id": "L4-55",
+  "alias": "nailcare-tools",
+  "name_en": "Nail Care Tools",
+  "name_ar": "أدوات العناية بالأظافر",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > hands-and-nails-skincare > nailcare-tools"
+ },
+ {
+  "id": "L4-504",
+  "alias": "hands-and-nails-care-appliances",
+  "name_en": "bodycare-appliances",
+  "name_ar": "أجهزة العناية بالأيدي والأظافر",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > hands-and-nails-skincare > hands-and-nails-care-appliances"
+ },
+ {
+  "id": "L3-29",
+  "alias": "hair-dyes",
+  "name_en": "Hair Dyes",
+  "name_ar": "اصباغ شعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-dyes"
+ },
+ {
+  "id": "L4-61",
+  "alias": "hair-care-sets",
+  "name_en": "Hair Care Sets",
+  "name_ar": "سيتات العناية بالشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-care > hair-care-sets"
+ },
+ {
+  "id": "L4-65",
+  "alias": "hair-treatments-and-masks",
+  "name_en": "Hair Treatments & Masks",
+  "name_ar": "معالجات وماسكات الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-care > hair-treatments-and-masks"
+ },
+ {
+  "id": "L4-66",
+  "alias": "hair-oils-and-serums",
+  "name_en": "Hair Oils & Serums",
+  "name_ar": "زيوت وسيرومات الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-care > hair-oils-and-serums"
+ },
+ {
+  "id": "L4-67",
+  "alias": "hair-styling-pomade-spray",
+  "name_en": "Hair Styling Products",
+  "name_ar": "مستحضرات تصفيف وتثبيت الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-styling-products > hair-styling-pomade-spray"
+ },
+ {
+  "id": "L4-68",
+  "alias": "heat-protection-products",
+  "name_en": "Heat Protection Products",
+  "name_ar": "منتجات حماية الشعر من الحرارة",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-styling-products > heat-protection-products"
+ },
+ {
+  "id": "L3-32",
+  "alias": "hair-fragrance",
+  "name_en": "Hair Fragrance",
+  "name_ar": "معطرات الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-fragrance"
+ },
+ {
+  "id": "L4-81",
+  "alias": "women-fragrance",
+  "name_en": "Women Fragrance",
+  "name_ar": "عطور نسائية",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > perfumes > women-fragrance"
+ },
+ {
+  "id": "L4-82",
+  "alias": "men-fragrance",
+  "name_en": "Men Fragrance",
+  "name_ar": "عطور رجالية",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > perfumes > men-fragrance"
+ },
+ {
+  "id": "L4-83",
+  "alias": "unisex-perfume",
+  "name_en": "Unisex Perfumes",
+  "name_ar": "عطور لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > perfumes > unisex-perfume"
+ },
+ {
+  "id": "L4-87",
+  "alias": "kids-fragrance",
+  "name_en": "Kids Perfumes",
+  "name_ar": "عطور الأطفال",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > perfumes > kids-fragrance"
+ },
+ {
+  "id": "L4-783",
+  "alias": "perfume-sets",
+  "name_en": "Perfume Sets",
+  "name_ar": "السيتات العطرية ",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > perfumes > perfume-sets"
+ },
+ {
+  "id": "L4-84",
+  "alias": "women-deodorants",
+  "name_en": "Women Deodorants",
+  "name_ar": "معطرات الجسم للنساء",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > body-mists > women-deodorants"
+ },
+ {
+  "id": "L4-85",
+  "alias": "men-deodorants",
+  "name_en": "Men Deodorants",
+  "name_ar": "معطرات الجسم للرجال",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > body-mists > men-deodorants"
+ },
+ {
+  "id": "L4-86",
+  "alias": "unisex-deodorants",
+  "name_en": "Unisex Deodorants",
+  "name_ar": "معطرات لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > body-mists > unisex-deodorants"
+ },
+ {
+  "id": "L4-92",
+  "alias": "shavers-and-grommers",
+  "name_en": "Shavers & Grooming",
+  "name_ar": "أجهزة ومكائن الحلاقة",
+  "description": "",
+  "active": true,
+  "path": "beauty > shaving-and-hair-removal > shaving-and-grooming > shavers-and-grommers"
+ },
+ {
+  "id": "L4-93",
+  "alias": "shaving-products",
+  "name_en": "Shaving Products",
+  "name_ar": "مستحضرات الحلاقة",
+  "description": "",
+  "active": true,
+  "path": "beauty > shaving-and-hair-removal > shaving-and-grooming > shaving-products"
+ },
+ {
+  "id": "L4-94",
+  "alias": "after-shave-products",
+  "name_en": "After-shaving products",
+  "name_ar": "منتجات العناية بعد الحلاقة",
+  "description": "",
+  "active": true,
+  "path": "beauty > shaving-and-hair-removal > shaving-and-grooming > after-shave-products"
+ },
+ {
+  "id": "L4-97",
+  "alias": "shaving-blades",
+  "name_en": "Shaving Blades",
+  "name_ar": "شفرات الحلاقة",
+  "description": "",
+  "active": true,
+  "path": "beauty > shaving-and-hair-removal > shaving-and-grooming > shaving-blades"
+ },
+ {
+  "id": "L4-95",
+  "alias": "hair-removal-devices",
+  "name_en": "Hair Removal Devices",
+  "name_ar": "أجهزة إزالة الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > shaving-and-hair-removal > hair-removal > hair-removal-devices"
+ },
+ {
+  "id": "L4-96",
+  "alias": "hair-removal-products",
+  "name_en": "Hair Removal Products",
+  "name_ar": "منتجات ازالة الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > shaving-and-hair-removal > hair-removal > hair-removal-products"
+ },
+ {
+  "id": "L4-108",
+  "alias": "hair-removal-tools",
+  "name_en": "Hair Removal Tools",
+  "name_ar": "أدوات إزالة الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > shaving-and-hair-removal > hair-removal > hair-removal-tools"
+ },
+ {
+  "id": "L4-98",
+  "alias": "shower-gel",
+  "name_en": "Shower Gel",
+  "name_ar": "غسولات الجسم",
+  "description": "",
+  "active": true,
+  "path": "beauty > bathing > bathing-and-shower > shower-gel"
+ },
+ {
+  "id": "L4-99",
+  "alias": "shower-soap",
+  "name_en": "Soap",
+  "name_ar": "صابون",
+  "description": "",
+  "active": true,
+  "path": "beauty > bathing > bathing-and-shower > shower-soap"
+ },
+ {
+  "id": "L4-100",
+  "alias": "bathing-accessories",
+  "name_en": "Bathing Accessories",
+  "name_ar": "مستلزمات الإستحمام",
+  "description": "",
+  "active": true,
+  "path": "beauty > bathing > bathing-and-shower > bathing-accessories"
+ },
+ {
+  "id": "L4-101",
+  "alias": "massage-tools-and-devices",
+  "name_en": "Massage Tools & Devices",
+  "name_ar": "أجهزة وأدوات المساج",
+  "description": "",
+  "active": true,
+  "path": "beauty > bathing > massage-and-relaxation > massage-tools-and-devices"
+ },
+ {
+  "id": "L4-102",
+  "alias": "massage-oils-and-salts",
+  "name_en": "Massage Salts & Oils",
+  "name_ar": "زيوت وأملاح المساج",
+  "description": "",
+  "active": true,
+  "path": "beauty > bathing > massage-and-relaxation > massage-oils-and-salts"
+ },
+ {
+  "id": "L3-39",
+  "alias": "men-watches",
+  "name_en": "Men Watches",
+  "name_ar": "ساعات رجالية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > watches-and-clocks > men-watches"
+ },
+ {
+  "id": "L3-40",
+  "alias": "women-watches",
+  "name_en": "Women Watches",
+  "name_ar": "ساعات نسائية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > watches-and-clocks > women-watches"
+ },
+ {
+  "id": "L4-500",
+  "alias": "sunglasses-for-men",
+  "name_en": "Sunglasses For Men",
+  "name_ar": "نظارات شمسية رجالية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > glasses > sunglasses > sunglasses-for-men"
+ },
+ {
+  "id": "L4-501",
+  "alias": "sunglasses-for-women",
+  "name_en": "Sunglasses For Women",
+  "name_ar": "نظارات شمسية نسائية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > glasses > sunglasses > sunglasses-for-women"
+ },
+ {
+  "id": "L4-502",
+  "alias": "unisex-sunglasses",
+  "name_en": "Unisex Sunglasses",
+  "name_ar": "نظارات شمسية لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > glasses > sunglasses > unisex-sunglasses"
+ },
+ {
+  "id": "L4-109",
+  "alias": "men-bracelets",
+  "name_en": "Men Bracelets",
+  "name_ar": "سوارات رجالية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > men-accessories > men-bracelets"
+ },
+ {
+  "id": "L4-110",
+  "alias": "men-rings",
+  "name_en": "Men Rings",
+  "name_ar": "محابس رجالية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > men-accessories > men-rings"
+ },
+ {
+  "id": "L4-111",
+  "alias": "men-necklaces",
+  "name_en": "Men Necklaces",
+  "name_ar": "قلائد رجالية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > men-accessories > men-necklaces"
+ },
+ {
+  "id": "L4-112",
+  "alias": "men-hats",
+  "name_en": "Hats for Men",
+  "name_ar": "قبعات رجالية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > men-accessories > men-hats"
+ },
+ {
+  "id": "L4-113",
+  "alias": "men-scarves-and-gloves",
+  "name_en": "Scarves & Gloves",
+  "name_ar": "سكارفات وقفازات",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > men-accessories > men-scarves-and-gloves"
+ },
+ {
+  "id": "L4-644",
+  "alias": "men-belt",
+  "name_en": "Men's Belt",
+  "name_ar": "حزام رجالي",
+  "description": "it includes all Men's Belt",
+  "active": true,
+  "path": "accessories-and-watches > accessories > men-accessories > men-belt"
+ },
+ {
+  "id": "L4-115",
+  "alias": "women-bracelets",
+  "name_en": "Women Bracelets",
+  "name_ar": "سوارات نسائية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > women-accessories > women-bracelets"
+ },
+ {
+  "id": "L4-116",
+  "alias": "women-necklaces",
+  "name_en": "Women Necklaces",
+  "name_ar": "قلائد نسائية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > women-accessories > women-necklaces"
+ },
+ {
+  "id": "L4-117",
+  "alias": "women-rings",
+  "name_en": "Women Rings",
+  "name_ar": "محابس نسائية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > women-accessories > women-rings"
+ },
+ {
+  "id": "L4-118",
+  "alias": "women-earrings",
+  "name_en": "Earrings & Body Piercings",
+  "name_ar": "أقراط الأذن و الجسم",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > women-accessories > women-earrings"
+ },
+ {
+  "id": "L4-120",
+  "alias": "women-hats",
+  "name_en": "Hats for Women",
+  "name_ar": "قبعات للنساء",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > women-accessories > women-hats"
+ },
+ {
+  "id": "L4-596",
+  "alias": "women-belt",
+  "name_en": "Women's Belt",
+  "name_ar": "حزام نسائي",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > women-accessories > women-belt"
+ },
+ {
+  "id": "L4-805",
+  "alias": "crown-tiara",
+  "name_en": "Crowns ",
+  "name_ar": "تاج",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > women-accessories > crown-tiara"
+ },
+ {
+  "id": "L4-124",
+  "alias": "kids-earrings",
+  "name_en": "Kids Earrings",
+  "name_ar": "أقراط للأطفال",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > kids-accessories > kids-earrings"
+ },
+ {
+  "id": "L4-126",
+  "alias": "kids-necklaces",
+  "name_en": "Kids' Necklaces",
+  "name_ar": "قلائد",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > kids-accessories > kids-necklaces"
+ },
+ {
+  "id": "L4-128",
+  "alias": "1579602204",
+  "name_en": null,
+  "name_ar": null,
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > keychains-and-medalions > 1579602204"
+ },
+ {
+  "id": "L4-129",
+  "alias": "1579602245",
+  "name_en": null,
+  "name_ar": null,
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > keychains-and-medalions > 1579602245"
+ },
+ {
+  "id": "L4-121",
+  "alias": "accessory-stickers",
+  "name_en": "Stickers",
+  "name_ar": "لصقات",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > stickers-and-broches > accessory-stickers"
+ },
+ {
+  "id": "L4-122",
+  "alias": "broches",
+  "name_en": "Brooches",
+  "name_ar": "بروشات",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > stickers-and-broches > broches"
+ },
+ {
+  "id": "L3-52",
+  "alias": "smartphones",
+  "name_en": "Smartphones",
+  "name_ar": "موبايلات",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > smartphones"
+ },
+ {
+  "id": "L3-53",
+  "alias": "tablets",
+  "name_en": "Tablets",
+  "name_ar": "اجهزة لوحية",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > tablets"
+ },
+ {
+  "id": "L4-464",
+  "alias": "digital-cameras",
+  "name_en": "Digital Cameras",
+  "name_ar": "كاميرات رقمية",
+  "description": "",
+  "active": true,
+  "path": "electronics > photography > photography-cameras-and-tools > digital-cameras"
+ },
+ {
+  "id": "L4-466",
+  "alias": "instant-photography-cameras",
+  "name_en": "Instant Cameras",
+  "name_ar": "كاميرات فورية",
+  "description": "",
+  "active": true,
+  "path": "electronics > photography > photography-cameras-and-tools > instant-photography-cameras"
+ },
+ {
+  "id": "L4-173",
+  "alias": "camera-tripods",
+  "name_en": "Camera Tripods",
+  "name_ar": "حامل وستاند للكاميرات",
+  "description": "",
+  "active": true,
+  "path": "electronics > photography > photography-accessories > camera-tripods"
+ },
+ {
+  "id": "L4-467",
+  "alias": "instant-films-and-paper",
+  "name_en": "Instant Films & Paper Sheets",
+  "name_ar": "أفلام وأوراق التصوير الفوري",
+  "description": "",
+  "active": true,
+  "path": "electronics > photography > photography-accessories > instant-films-and-paper"
+ },
+ {
+  "id": "L4-468",
+  "alias": "instant-photo-printers",
+  "name_en": "Instant Photo Printers",
+  "name_ar": "طابعات التصوير الفوري",
+  "description": "",
+  "active": true,
+  "path": "electronics > photography > photography-accessories > instant-photo-printers"
+ },
+ {
+  "id": "L4-799",
+  "alias": "backpacks-and-laptop-bags1",
+  "name_en": "Backpacks & Laptop Bags",
+  "name_ar": "حقائب الظهر واللابتوب",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > laptops > backpacks-and-laptop-bags1"
+ },
+ {
+  "id": "L4-800",
+  "alias": "laptop-accessories",
+  "name_en": "Laptop Accessories",
+  "name_ar": "ملحقات اللابتوب",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > laptops > laptop-accessories"
+ },
+ {
+  "id": "L4-802",
+  "alias": "laptops-1",
+  "name_en": "Laptops",
+  "name_ar": "لابتوب",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > laptops > laptops-1"
+ },
+ {
+  "id": "L4-562",
+  "alias": "computer-ram",
+  "name_en": "RAM",
+  "name_ar": "ذاكرة عشوائية",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > computer-ram"
+ },
+ {
+  "id": "L4-566",
+  "alias": "computer-case",
+  "name_en": "Computer Case",
+  "name_ar": "كيس كومبيوتر",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > computer-case"
+ },
+ {
+  "id": "L4-575",
+  "alias": "internal-hard-drives",
+  "name_en": "Storage Drive",
+  "name_ar": " أجهزة تخزين بيانات اس اس دي",
+  "description": "Storage Drive",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > internal-hard-drives"
+ },
+ {
+  "id": "L4-586",
+  "alias": "motherboard",
+  "name_en": "Motherboard",
+  "name_ar": "مذربورد",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > motherboard"
+ },
+ {
+  "id": "L4-587",
+  "alias": "computer-power-supply",
+  "name_en": "Computer Power Supply",
+  "name_ar": "مجهز طاقة",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > computer-power-supply"
+ },
+ {
+  "id": "L4-588",
+  "alias": "graphic-card",
+  "name_en": "Graphic Card",
+  "name_ar": "كرت شاشة",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > graphic-card"
+ },
+ {
+  "id": "L4-593",
+  "alias": "desktop-computers",
+  "name_en": "Desktop Computers",
+  "name_ar": "كومبيوتر مكتبي",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > desktop-computers"
+ },
+ {
+  "id": "L4-687",
+  "alias": "cpu",
+  "name_en": "Computer processors",
+  "name_ar": "معالجات الكمبيوتر",
+  "description": "معالجات الكمبيوتر",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > cpu"
+ },
+ {
+  "id": "L4-797",
+  "alias": "computer-coolers-fans",
+  "name_en": "Computer Coolers and Fans",
+  "name_ar": "تبريد و مراوح الكمبيوتر",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > personal-computers > computer-coolers-fans"
+ },
+ {
+  "id": "L4-808",
+  "alias": "pc-monitor-stand",
+  "name_en": "PC Monitor Stand",
+  "name_ar": "ستاند شاشات الحاسبات",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > pc-monitors > pc-monitor-stand"
+ },
+ {
+  "id": "L4-569",
+  "alias": "computer-fans",
+  "name_en": "Computer Fans",
+  "name_ar": "ملحقات التبريد",
+  "description": "ملحقات التبريد",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-accessories > computer-fans"
+ },
+ {
+  "id": "L4-570",
+  "alias": "mouse-pad",
+  "name_en": "Mouse Pads",
+  "name_ar": "لوحة ماوس",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-accessories > mouse-pad"
+ },
+ {
+  "id": "L4-571",
+  "alias": "webcam",
+  "name_en": "Webcams",
+  "name_ar": "كاميرا ويب",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-accessories > webcam"
+ },
+ {
+  "id": "L4-572",
+  "alias": "computer-networking-accessories",
+  "name_en": "Computer Network Accessories",
+  "name_ar": "ملحقات الشبكات",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-accessories > computer-networking-accessories"
+ },
+ {
+  "id": "L4-573",
+  "alias": "cables-chargers",
+  "name_en": "Cables & Chargers",
+  "name_ar": "اسلاك وشواحن",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-accessories > cables-chargers"
+ },
+ {
+  "id": "L4-574",
+  "alias": "computer-miscellaneous",
+  "name_en": "Computer Miscellaneous",
+  "name_ar": "ملحقات متنوعة",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-accessories > computer-miscellaneous"
+ },
+ {
+  "id": "L4-605",
+  "alias": "microphones",
+  "name_en": "Microphones",
+  "name_ar": "مايكروفون",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-accessories > microphones"
+ },
+ {
+  "id": "L4-179",
+  "alias": "wired-headsets",
+  "name_en": "Wired Headsets",
+  "name_ar": "سماعات سلكية",
+  "description": "سماعات سلكية",
+  "active": true,
+  "path": "electronics > audio-video-electronics > headsets > wired-headsets"
+ },
+ {
+  "id": "L4-180",
+  "alias": "wireless-headsets",
+  "name_en": "Wireless Headsets",
+  "name_ar": "سماعات لاسلكية",
+  "description": "سماعات لاسلكية",
+  "active": true,
+  "path": "electronics > audio-video-electronics > headsets > wireless-headsets"
+ },
+ {
+  "id": "L4-186",
+  "alias": "wireless-speaker",
+  "name_en": "Wireless Speaker",
+  "name_ar": "سماعات مكبرة لاسلكية",
+  "description": "",
+  "active": true,
+  "path": "electronics > audio-video-electronics > speakers > wireless-speaker"
+ },
+ {
+  "id": "L4-540",
+  "alias": "wired-speaker",
+  "name_en": "Wired Speaker",
+  "name_ar": "سماعات مكبرة سلكية",
+  "description": "",
+  "active": true,
+  "path": "electronics > audio-video-electronics > speakers > wired-speaker"
+ },
+ {
+  "id": "L4-470",
+  "alias": "cctv-cameras",
+  "name_en": "CCTV Cameras",
+  "name_ar": "كاميرات المراقبة",
+  "description": "",
+  "active": true,
+  "path": "electronics > security-systems > cctv-systems > cctv-cameras"
+ },
+ {
+  "id": "L4-471",
+  "alias": "cctv-dvrs",
+  "name_en": "DVR & NVR Devices",
+  "name_ar": "أجهزة DVR و NVR",
+  "description": "",
+  "active": true,
+  "path": "electronics > security-systems > cctv-systems > cctv-dvrs"
+ },
+ {
+  "id": "L3-66",
+  "alias": "networking-devices",
+  "name_en": "Network Devices",
+  "name_ar": "أجهزة الشبكات",
+  "description": "",
+  "active": true,
+  "path": "electronics > networking-and-internet > networking-devices"
+ },
+ {
+  "id": "L3-67",
+  "alias": "hard-drives",
+  "name_en": "Hard Drives",
+  "name_ar": "الأقراص الصلبة",
+  "description": "",
+  "active": true,
+  "path": "electronics > data-storage-devices > hard-drives"
+ },
+ {
+  "id": "L4-188",
+  "alias": "external-hard-drives",
+  "name_en": "External Hard Drives",
+  "name_ar": "أجهزة تخزين بيانات محمولة",
+  "description": "أجهزة تخزين بيانات محمولة",
+  "active": true,
+  "path": "electronics > data-storage-devices > portable-storage-devices > external-hard-drives"
+ },
+ {
+  "id": "L4-189",
+  "alias": "memory-cards",
+  "name_en": "Memory Cards",
+  "name_ar": "بطاقات الذاكرة",
+  "description": "",
+  "active": true,
+  "path": "electronics > data-storage-devices > portable-storage-devices > memory-cards"
+ },
+ {
+  "id": "L4-191",
+  "alias": "thumb-drives",
+  "name_en": "Thumb Drives",
+  "name_ar": "ذاكرة فلاش",
+  "description": "",
+  "active": true,
+  "path": "electronics > data-storage-devices > portable-storage-devices > thumb-drives"
+ },
+ {
+  "id": "L3-69",
+  "alias": "digital-printers",
+  "name_en": "Digital Printers",
+  "name_ar": "طابعات رقمية",
+  "description": "",
+  "active": true,
+  "path": "electronics > printing-and-photocopiers > digital-printers"
+ },
+ {
+  "id": "L4-195",
+  "alias": "bed-linens",
+  "name_en": "Bedroom Linens",
+  "name_ar": "فرشات غرفة النوم",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > linens > bed-linens"
+ },
+ {
+  "id": "L4-196",
+  "alias": "curtains",
+  "name_en": "Curtains",
+  "name_ar": "الستائر",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > linens > curtains"
+ },
+ {
+  "id": "L4-197",
+  "alias": "blankets",
+  "name_en": "Blankets",
+  "name_ar": "أغطية ولحافات",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > linens > blankets"
+ },
+ {
+  "id": "L4-472",
+  "alias": "towels",
+  "name_en": "Towels",
+  "name_ar": "مناشف",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > linens > towels"
+ },
+ {
+  "id": "L4-473",
+  "alias": "carpets",
+  "name_en": "Carpets",
+  "name_ar": "السجاد",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > linens > carpets"
+ },
+ {
+  "id": "L4-542",
+  "alias": "pillows",
+  "name_en": "Pillows",
+  "name_ar": "وسائد",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > linens > pillows"
+ },
+ {
+  "id": "L4-640",
+  "alias": "bathroom-mats",
+  "name_en": "Bathroom Mats",
+  "name_ar": "دواسات الحمام",
+  "description": "It included all bathroom mats/rugs",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > bathroom > bathroom-mats"
+ },
+ {
+  "id": "L4-641",
+  "alias": "bathroom-accessories",
+  "name_en": "Bathroom Accessories",
+  "name_ar": "اكسسوارات الحمام",
+  "description": "it includes all bathroom accessories",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > bathroom > bathroom-accessories"
+ },
+ {
+  "id": "L4-200",
+  "alias": "wall-mounted-lighting",
+  "name_en": "Wall Mounted Lighting",
+  "name_ar": "إنارة جدارية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > lighting > wall-mounted-lighting"
+ },
+ {
+  "id": "L4-201",
+  "alias": "ceiling-mounted-lighting",
+  "name_en": "Ceiling Mounted Lighting",
+  "name_ar": "إنارة سقفية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > lighting > ceiling-mounted-lighting"
+ },
+ {
+  "id": "L4-202",
+  "alias": "table-and-stand-lamps",
+  "name_en": "Table & Stand Lamps",
+  "name_ar": "إنارة منضدية وستاند",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > lighting > table-and-stand-lamps"
+ },
+ {
+  "id": "L4-203",
+  "alias": "bulbs",
+  "name_en": "Bulbs",
+  "name_ar": "مصابيح",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > lighting > bulbs"
+ },
+ {
+  "id": "L4-204",
+  "alias": "outdoor-lighting",
+  "name_en": "Outdoor Lighting",
+  "name_ar": "الإنارة الخارجية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > lighting > outdoor-lighting"
+ },
+ {
+  "id": "L4-205",
+  "alias": "air-fresheners",
+  "name_en": "Air Freshener",
+  "name_ar": "معطرات جو",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > air-fresheners > air-fresheners"
+ },
+ {
+  "id": "L4-206",
+  "alias": "scented-candles",
+  "name_en": "Scented Candles",
+  "name_ar": "شموع معطّرة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > air-fresheners > scented-candles"
+ },
+ {
+  "id": "L4-207",
+  "alias": "bakhoor",
+  "name_en": "Bakhoor",
+  "name_ar": "البخور",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > air-fresheners > bakhoor"
+ },
+ {
+  "id": "L4-208",
+  "alias": "scent-diffusers",
+  "name_en": "Scent Diffuser",
+  "name_ar": "مبخرة عطرية وملحقاتها",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > air-fresheners > scent-diffusers"
+ },
+ {
+  "id": "L4-312",
+  "alias": "fabric-fresheners",
+  "name_en": "Fabric Fresheners",
+  "name_ar": "معطرات الأقمشة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > air-fresheners > fabric-fresheners"
+ },
+ {
+  "id": "L4-809",
+  "alias": "air-freshener-device",
+  "name_en": "air freshener device",
+  "name_ar": "جهاز معطر جو",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > air-fresheners > air-freshener-device"
+ },
+ {
+  "id": "L4-810",
+  "alias": "sprays",
+  "name_en": "Sprays",
+  "name_ar": "بخاخات ",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > air-fresheners > sprays"
+ },
+ {
+  "id": "L4-493",
+  "alias": "home-boxes",
+  "name_en": "Boxes & Baskets",
+  "name_ar": "صناديق، علب و سلال",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-miscellaneous-supplies > home-boxes"
+ },
+ {
+  "id": "L4-494",
+  "alias": "clothes-shoes-storage",
+  "name_en": "Clothes & Shoes Storage",
+  "name_ar": "ملحقات خزن الملابس و الأحذية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-miscellaneous-supplies > clothes-shoes-storage"
+ },
+ {
+  "id": "L4-591",
+  "alias": "home-miscellaneous-supplies-variety",
+  "name_en": "Home Miscellaneous Supplies Variety",
+  "name_ar": "ملحقات منزلية متنوعة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-miscellaneous-supplies > home-miscellaneous-supplies-variety"
+ },
+ {
+  "id": "L4-212",
+  "alias": "cooking-pots",
+  "name_en": "Cooking Pots",
+  "name_ar": "أواني الطبخ",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > cookware > cooking-pots"
+ },
+ {
+  "id": "L4-213",
+  "alias": "frying-pans",
+  "name_en": "Frying Pans",
+  "name_ar": "أواني القلي",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > cookware > frying-pans"
+ },
+ {
+  "id": "L4-214",
+  "alias": "oven-pans",
+  "name_en": "Oven Pans",
+  "name_ar": "صينية وقوالب الفرن",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > cookware > oven-pans"
+ },
+ {
+  "id": "L4-215",
+  "alias": "jugs-and-pots",
+  "name_en": "Jugs & Small Pots",
+  "name_ar": "إبريق ودلّة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > cookware > jugs-and-pots"
+ },
+ {
+  "id": "L4-222",
+  "alias": "cookware-sets",
+  "name_en": "Cookware Sets",
+  "name_ar": "سيتات الطبخ",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > cookware > cookware-sets"
+ },
+ {
+  "id": "L4-595",
+  "alias": "disposable-kitchenware",
+  "name_en": "Disposable Kitchenware",
+  "name_ar": "أواني إستخدام واحد",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > cookware > disposable-kitchenware"
+ },
+ {
+  "id": "L4-216",
+  "alias": "baking-tools",
+  "name_en": "Baking Tools",
+  "name_ar": "أدوات الخبز والحلويات",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-tools > baking-tools"
+ },
+ {
+  "id": "L4-218",
+  "alias": "knives-and-choppers",
+  "name_en": "Knives & Chopping Tools",
+  "name_ar": "سكاكين وأدوات التقطيع",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-tools > knives-and-choppers"
+ },
+ {
+  "id": "L4-219",
+  "alias": "serving-spoons",
+  "name_en": "Serving Spoons",
+  "name_ar": "ملاعق تحضير وتقديم",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-tools > serving-spoons"
+ },
+ {
+  "id": "L4-220",
+  "alias": "peelers-and-mashers",
+  "name_en": "Peeler, Mashers & Whisks",
+  "name_ar": "أجهزة هرس و تقطيع الطعام",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-tools > peelers-and-mashers"
+ },
+ {
+  "id": "L4-221",
+  "alias": "misc-kitchen-tools",
+  "name_en": "Other Kitchen Tools",
+  "name_ar": "أدوات مطبخ أخرى",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-tools > misc-kitchen-tools"
+ },
+ {
+  "id": "L4-488",
+  "alias": "bowls-strainers",
+  "name_en": "Bowls & Strainers",
+  "name_ar": "أوعية ومصفاة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-tools > bowls-strainers"
+ },
+ {
+  "id": "L4-612",
+  "alias": "coffee-making-tools",
+  "name_en": "Coffee Making Tools",
+  "name_ar": "أدوات تحضير القهوة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-tools > coffee-making-tools"
+ },
+ {
+  "id": "L4-223",
+  "alias": "dining-plates",
+  "name_en": "Dining & Serving Plates",
+  "name_ar": "أطباق وصحون التقديم",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > dining-and-glassware > dining-plates"
+ },
+ {
+  "id": "L4-224",
+  "alias": "glassware-and-cups",
+  "name_en": "Glassware & Cups",
+  "name_ar": "أقداح وأكواب",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > dining-and-glassware > glassware-and-cups"
+ },
+ {
+  "id": "L4-225",
+  "alias": "spoons-forks-and-knives",
+  "name_en": "Spoons, Forks & Knives",
+  "name_ar": "ملاعق، شوك وسكاكين",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > dining-and-glassware > spoons-forks-and-knives"
+ },
+ {
+  "id": "L4-226",
+  "alias": "dining-and-serving-decorations",
+  "name_en": "Serving Decorations & Accessories",
+  "name_ar": "مستلزمات المائدة الأخرى",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > dining-and-glassware > dining-and-serving-decorations"
+ },
+ {
+  "id": "L4-536",
+  "alias": "dining-and-serving-sets",
+  "name_en": "Dining and Serving Set",
+  "name_ar": "سيت المائدة والتقديم",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > dining-and-glassware > dining-and-serving-sets"
+ },
+ {
+  "id": "L4-630",
+  "alias": "dining-trays",
+  "name_en": "Dining Trays",
+  "name_ar": "صينية تقديم",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > dining-and-glassware > dining-trays"
+ },
+ {
+  "id": "L4-227",
+  "alias": "glass-metal-food-storage-containers",
+  "name_en": "Glass & Metal Food Storage Containers",
+  "name_ar": "أوعية حفظ الطعام الزجاجية والمعدنية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > food-storage > glass-metal-food-storage-containers"
+ },
+ {
+  "id": "L4-228",
+  "alias": "plastic-wood-food-storage-containers",
+  "name_en": "Plastic & Wood Food Storage Containers",
+  "name_ar": "أوعية حفظ الطعام البلاستيكية والخشبية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > food-storage > plastic-wood-food-storage-containers"
+ },
+ {
+  "id": "L4-229",
+  "alias": "plastic-food-wrapping",
+  "name_en": "Plastic Wraps",
+  "name_ar": "تغليف الطعام",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > food-storage > plastic-food-wrapping"
+ },
+ {
+  "id": "L4-497",
+  "alias": "drink-container",
+  "name_en": "Liquids Containers",
+  "name_ar": "حفظ السوائل",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > food-storage > drink-container"
+ },
+ {
+  "id": "L3-82",
+  "alias": "kitchen-supplies",
+  "name_en": "Kitchen Supplies",
+  "name_ar": "ملحقات المطبخ",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > kitchen > kitchen-supplies"
+ },
+ {
+  "id": "L3-83",
+  "alias": "gardening-tools",
+  "name_en": "Gardening Tools",
+  "name_ar": "أدوات البستنة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > garden-and-outdoor > gardening-tools"
+ },
+ {
+  "id": "L3-84",
+  "alias": "garden-water-sprinklers",
+  "name_en": "Water Sprinklers",
+  "name_ar": "مرشات المياه",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > garden-and-outdoor > garden-water-sprinklers"
+ },
+ {
+  "id": "L3-85",
+  "alias": "garden-supplies",
+  "name_en": "Garden Supplies",
+  "name_ar": "ملحقات وأدوات الحديقة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > garden-and-outdoor > garden-supplies"
+ },
+ {
+  "id": "L4-234",
+  "alias": "cooker-heaters-oven",
+  "name_en": "Cookers, Ovens & Heaters",
+  "name_ar": "طباخ، فرن وهيتر",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > cooking-appliances > cooker-heaters-oven"
+ },
+ {
+  "id": "L4-237",
+  "alias": "electric-fryers",
+  "name_en": "Electric Fryers",
+  "name_ar": "قلايات كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > cooking-appliances > electric-fryers"
+ },
+ {
+  "id": "L4-239",
+  "alias": "electric-cooking-pans",
+  "name_en": "Electric Cooking Pans",
+  "name_ar": "أواني وأجهزة طبخ كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > cooking-appliances > electric-cooking-pans"
+ },
+ {
+  "id": "L4-243",
+  "alias": "air-vents-and-filters",
+  "name_en": "Air Vents & Filters",
+  "name_ar": "مفرغات ومرشحات الهواء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > cooking-appliances > air-vents-and-filters"
+ },
+ {
+  "id": "L4-761",
+  "alias": "Electricpressurecooker",
+  "name_en": "Electric pressure cooker ",
+  "name_ar": "قدر ضغط كهربائي ",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > cooking-appliances > Electricpressurecooker"
+ },
+ {
+  "id": "L4-244",
+  "alias": "food-processors",
+  "name_en": "Food Processors",
+  "name_ar": "محضرات الطعام",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > food-preparation-appliances > food-processors"
+ },
+ {
+  "id": "L4-245",
+  "alias": "food-blenders",
+  "name_en": "Food Blenders",
+  "name_ar": "خلاطات كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > food-preparation-appliances > food-blenders"
+ },
+ {
+  "id": "L4-250",
+  "alias": "electric-mashers",
+  "name_en": "Electric Mashers & Choppers",
+  "name_ar": "أجهزة هرس وتقطيع الطعام",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > food-preparation-appliances > electric-mashers"
+ },
+ {
+  "id": "L4-251",
+  "alias": "electric-food-processing-sets",
+  "name_en": "Multi-purpose Processors",
+  "name_ar": "أجهزة تحضير متعددة المهام",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > food-preparation-appliances > electric-food-processing-sets"
+ },
+ {
+  "id": "L4-252",
+  "alias": "food-mixers",
+  "name_en": "Food Mixers",
+  "name_ar": "خفّاقة كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > food-preparation-appliances > food-mixers"
+ },
+ {
+  "id": "L4-253",
+  "alias": "electric-patissiers",
+  "name_en": "Electric Patissiers",
+  "name_ar": "عجانة كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > food-preparation-appliances > electric-patissiers"
+ },
+ {
+  "id": "L4-759",
+  "alias": "electricsportmixers",
+  "name_en": "electric sport mixers",
+  "name_ar": "خلاطات رياضية كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > food-preparation-appliances > electricsportmixers"
+ },
+ {
+  "id": "L3-88",
+  "alias": "dishwashers",
+  "name_en": "Dishwashers",
+  "name_ar": "غسالات الصحون",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > dishwashers"
+ },
+ {
+  "id": "L4-240",
+  "alias": "electric-grills-and-press",
+  "name_en": "Grills & Press",
+  "name_ar": "شوايات وكابسات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > ovens-and-microwave > electric-grills-and-press"
+ },
+ {
+  "id": "L4-241",
+  "alias": "electic-oven",
+  "name_en": "Electric Ovens",
+  "name_ar": "أفران كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > ovens-and-microwave > electic-oven"
+ },
+ {
+  "id": "L4-242",
+  "alias": "microwave-ovens",
+  "name_en": "Microwave Ovens",
+  "name_ar": "أفران مايكروويف",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > ovens-and-microwave > microwave-ovens"
+ },
+ {
+  "id": "L4-249",
+  "alias": "toasters",
+  "name_en": "Toasters",
+  "name_ar": "محمصة الخبز",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > ovens-and-microwave > toasters"
+ },
+ {
+  "id": "L4-807",
+  "alias": "built-in-ovens",
+  "name_en": "Built in Ovens",
+  "name_ar": "أفران و طباخات مدمجة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > ovens-and-microwave > built-in-ovens"
+ },
+ {
+  "id": "L4-246",
+  "alias": "electric-juicers",
+  "name_en": "Juicers",
+  "name_ar": "عصارات كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > coffe-makers-and-juicers > electric-juicers"
+ },
+ {
+  "id": "L4-247",
+  "alias": "coffee-grinders",
+  "name_en": "Coffee Grinders",
+  "name_ar": "مطحنة القهوة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > coffe-makers-and-juicers > coffee-grinders"
+ },
+ {
+  "id": "L4-248",
+  "alias": "coffee-machines",
+  "name_en": "Coffee Machines",
+  "name_ar": "أجهزة إعداد القهوة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > coffe-makers-and-juicers > coffee-machines"
+ },
+ {
+  "id": "L3-91",
+  "alias": "water-boilers",
+  "name_en": "Water Boilers",
+  "name_ar": "غلايات الماء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > water-boilers"
+ },
+ {
+  "id": "L3-92",
+  "alias": "Televisions",
+  "name_en": "Televisions",
+  "name_ar": "شاشات التلفاز",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > tv-video-and-audio > Televisions"
+ },
+ {
+  "id": "L3-93",
+  "alias": "home-sound-systems",
+  "name_en": "Sound Systems",
+  "name_ar": "أنظمة الصوت و السماعات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > tv-video-and-audio > home-sound-systems"
+ },
+ {
+  "id": "L3-95",
+  "alias": "media-streaming-devices",
+  "name_en": "Media Streaming Devices",
+  "name_ar": "مستقبلات القنوات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > tv-video-and-audio > media-streaming-devices"
+ },
+ {
+  "id": "L4-261",
+  "alias": "manual-washing-machines",
+  "name_en": "Manual Washing Machines",
+  "name_ar": "غسالات عادية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > laundry-machines > manual-washing-machines"
+ },
+ {
+  "id": "L4-262",
+  "alias": "automatic-washing-machines",
+  "name_en": "Automatic Washing Machines",
+  "name_ar": "غسالات اوتوماتيك",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > laundry-machines > automatic-washing-machines"
+ },
+ {
+  "id": "L4-474",
+  "alias": "electric-laundry-dryer",
+  "name_en": "Laundry Dryers",
+  "name_ar": "مجففة ملابس",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > laundry-machines > electric-laundry-dryer"
+ },
+ {
+  "id": "L4-774",
+  "alias": "topcarryingwashingmachines",
+  "name_en": "top carrying washing machines",
+  "name_ar": "غسالات حمل علوي",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > laundry-machines > topcarryingwashingmachines"
+ },
+ {
+  "id": "L4-775",
+  "alias": "frontloadwashingmachines",
+  "name_en": "front load washing machines",
+  "name_ar": "غسالات حمل امامي",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > laundry-machines > frontloadwashingmachines"
+ },
+ {
+  "id": "L4-254",
+  "alias": "vaccums",
+  "name_en": "Vacuum Cleaners",
+  "name_ar": "مكانس كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > vaccums-and-cleaning-appliances > vaccums"
+ },
+ {
+  "id": "L4-255",
+  "alias": "hand-held-vaccums",
+  "name_en": "Handheld Vacuums",
+  "name_ar": "مكانس كهربائية يدوية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > vaccums-and-cleaning-appliances > hand-held-vaccums"
+ },
+ {
+  "id": "L4-762",
+  "alias": "broomsandrobots",
+  "name_en": "brooms and robots ",
+  "name_ar": "مكانس آلية والروبوت",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > vaccums-and-cleaning-appliances > broomsandrobots"
+ },
+ {
+  "id": "L4-256",
+  "alias": "electric-hand-iron",
+  "name_en": "Small Irons",
+  "name_ar": "مكواة كهربائية صغيرة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > ironing > electric-hand-iron"
+ },
+ {
+  "id": "L4-257",
+  "alias": "electric-steam-iron",
+  "name_en": "Vertical Steam Irons",
+  "name_ar": "مكواة عمودية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > ironing > electric-steam-iron"
+ },
+ {
+  "id": "L4-776",
+  "alias": "handheldsteamer",
+  "name_en": "handheld steamer",
+  "name_ar": "أجهزة كوي يدوية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > ironing > handheldsteamer"
+ },
+ {
+  "id": "L4-777",
+  "alias": "standsteamer",
+  "name_en": "stand steamer",
+  "name_ar": "أجهزة كوي عمودية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > ironing > standsteamer"
+ },
+ {
+  "id": "L3-99",
+  "alias": "satellite-receivers",
+  "name_en": "Satellite Receivers",
+  "name_ar": "مستقبلات القنوات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > tv-video-and-audio > satellite-receivers"
+ },
+ {
+  "id": "L4-258",
+  "alias": "electric-heaters",
+  "name_en": "Electric Heaters",
+  "name_ar": "مدفأة كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > heating-appliances > electric-heaters"
+ },
+ {
+  "id": "L4-259",
+  "alias": "electric-heater-fans",
+  "name_en": "Fan Heaters",
+  "name_ar": "مروحة تدفئة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > heating-appliances > electric-heater-fans"
+ },
+ {
+  "id": "L4-606",
+  "alias": "oil-heaters",
+  "name_en": "Oil Heaters",
+  "name_ar": "مدفئة نفطية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > heating-appliances > oil-heaters"
+ },
+ {
+  "id": "L4-266",
+  "alias": "wall-mounted-air-conditioners",
+  "name_en": "Wall-Mounted ACs",
+  "name_ar": "أجهزة تبريد جدارية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > wall-mounted-air-conditioners"
+ },
+ {
+  "id": "L4-267",
+  "alias": "vertical-air-conditioners",
+  "name_en": "Vertical ACs",
+  "name_ar": "أجهزة تبريد عمودية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > vertical-air-conditioners"
+ },
+ {
+  "id": "L4-719",
+  "alias": "air-cooler",
+  "name_en": "Air Cooler",
+  "name_ar": "مبردات الهواء",
+  "description": "مبردات الهواء",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > air-cooler"
+ },
+ {
+  "id": "L4-720",
+  "alias": "air-conditioner-accessories",
+  "name_en": "Air Conditioner accessories",
+  "name_ar": "ملحقات التبريد",
+  "description": "ملحقات التبريد",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > air-conditioner-accessories"
+ },
+ {
+  "id": "L4-754",
+  "alias": "wallmountedairconditions",
+  "name_en": "wall mounted air conditions",
+  "name_ar": "أجهزة تبريد جدارية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > wallmountedairconditions"
+ },
+ {
+  "id": "L4-755",
+  "alias": "wallmountedenverterandamperecontrolairconditions",
+  "name_en": "wall mounted enverter and ampere control air conditions",
+  "name_ar": "أجهزة تبريد جدارية انفيرتر و تحكم امبيرية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > wallmountedenverterandamperecontrolairconditions"
+ },
+ {
+  "id": "L4-757",
+  "alias": "verticalinverterandamperecontrolairconditions",
+  "name_en": "Vertical inverter and ampere control Air Conditions",
+  "name_ar": "أجهزة تبريد عمودية انفيرتر و تحكم امبيرية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > verticalinverterandamperecontrolairconditions"
+ },
+ {
+  "id": "L4-758",
+  "alias": "windowtypeairconditione",
+  "name_en": "Window Type Air Conditione",
+  "name_ar": "مكيف شباكي",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > windowtypeairconditione"
+ },
+ {
+  "id": "L4-806",
+  "alias": "ceiling-air-conditioners",
+  "name_en": "Ceiling Air Conditioners",
+  "name_ar": "أجهزة تبريد سقفية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-conditioners > ceiling-air-conditioners"
+ },
+ {
+  "id": "L4-270",
+  "alias": "nursing-bottles",
+  "name_en": "Nursing Bottles",
+  "name_ar": "قناني الرضاعة",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > nursing-and-breastfeeding > nursing-bottles"
+ },
+ {
+  "id": "L4-271",
+  "alias": "nursing-supplies",
+  "name_en": "Nursing Supplies",
+  "name_ar": "مستلزمات وملحقات الرضاعة",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > nursing-and-breastfeeding > nursing-supplies"
+ },
+ {
+  "id": "L4-272",
+  "alias": "breastfeeding-supplies",
+  "name_en": "Breastfeeding Supplies",
+  "name_ar": "مستلزمات الرضاعة الطبيعية",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > nursing-and-breastfeeding > breastfeeding-supplies"
+ },
+ {
+  "id": "L4-273",
+  "alias": "nursing-bottle-sanitizers",
+  "name_en": "Nursing Bottles Sanitizers",
+  "name_ar": "أجهزة تعقيم وتحضير قناني الرضاعة",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > nursing-and-breastfeeding > nursing-bottle-sanitizers"
+ },
+ {
+  "id": "L4-276",
+  "alias": "baby-pacifiers",
+  "name_en": "Pacifiers",
+  "name_ar": "لهايات",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > nursing-and-breastfeeding > baby-pacifiers"
+ },
+ {
+  "id": "L4-514",
+  "alias": "baby-nursing-sets",
+  "name_en": "Nursing Sets",
+  "name_ar": "سيتات منتجات الرضاعة",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > nursing-and-breastfeeding > baby-nursing-sets"
+ },
+ {
+  "id": "L4-623",
+  "alias": "baby-teethers",
+  "name_en": "Baby Teethers",
+  "name_ar": "عضاضات",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > nursing-and-breastfeeding > baby-teethers"
+ },
+ {
+  "id": "L4-277",
+  "alias": "baby-feeding-sets",
+  "name_en": "Baby Feeding Sets",
+  "name_ar": "سيتات أدوات الطعام",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > baby-feeding-supplies > baby-feeding-sets"
+ },
+ {
+  "id": "L4-278",
+  "alias": "baby-feeding-spoons-and-plates",
+  "name_en": "Plates & Spoons",
+  "name_ar": "صحون وملاعق",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > baby-feeding-supplies > baby-feeding-spoons-and-plates"
+ },
+ {
+  "id": "L4-279",
+  "alias": "baby-cups",
+  "name_en": "Cups",
+  "name_ar": "أكواب",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > baby-feeding-supplies > baby-cups"
+ },
+ {
+  "id": "L4-280",
+  "alias": "baby-feeding-bips",
+  "name_en": "Bips",
+  "name_ar": "صدرية",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > baby-feeding-supplies > baby-feeding-bips"
+ },
+ {
+  "id": "L4-281",
+  "alias": "baby-water-bottles",
+  "name_en": "Water Bottles",
+  "name_ar": "مطارات الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > baby-feeding-supplies > baby-water-bottles"
+ },
+ {
+  "id": "L4-515",
+  "alias": "baby-diapers",
+  "name_en": "Diapers",
+  "name_ar": "حفاظات أطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-diapers-and-accessories > baby-diapers"
+ },
+ {
+  "id": "L4-516",
+  "alias": "diapers-disposal",
+  "name_en": "Diapers Disposal Bags",
+  "name_ar": "أكياس التخلص من الحفاظات",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-diapers-and-accessories > diapers-disposal"
+ },
+ {
+  "id": "L4-275",
+  "alias": "baby-bathing-tools",
+  "name_en": "Bathing Tools",
+  "name_ar": "أدوات استحمام الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-bathing > baby-bathing-tools"
+ },
+ {
+  "id": "L4-286",
+  "alias": "baby-shampoo",
+  "name_en": "Baby Shampoo",
+  "name_ar": "شامبو",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-bathing > baby-shampoo"
+ },
+ {
+  "id": "L4-288",
+  "alias": "baby-shower-gel",
+  "name_en": "Shower Gel",
+  "name_ar": "سائل استحمام",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-bathing > baby-shower-gel"
+ },
+ {
+  "id": "L4-289",
+  "alias": "baby-soap",
+  "name_en": "Soap",
+  "name_ar": "صابون الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-bathing > baby-soap"
+ },
+ {
+  "id": "L4-291",
+  "alias": "baby-loofah",
+  "name_en": "Loofah",
+  "name_ar": "ليفة أطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-bathing > baby-loofah"
+ },
+ {
+  "id": "L4-541",
+  "alias": "kids-toilet-seat",
+  "name_en": "Toilet Seats",
+  "name_ar": "مقاعد الحمام",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-bathing > kids-toilet-seat"
+ },
+ {
+  "id": "L4-292",
+  "alias": "baby-creams-and-lotions",
+  "name_en": "Creams & Lotions",
+  "name_ar": "كريم ولوشن الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-skincare > baby-creams-and-lotions"
+ },
+ {
+  "id": "L4-293",
+  "alias": "baby-diapers-creams",
+  "name_en": "Diaper Creams",
+  "name_ar": "كريم الحفاظات",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-skincare > baby-diapers-creams"
+ },
+ {
+  "id": "L4-294",
+  "alias": "baby-oils",
+  "name_en": "Baby Oils",
+  "name_ar": "زيوت الجسم",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-skincare > baby-oils"
+ },
+ {
+  "id": "L4-299",
+  "alias": "baby-sunscreens",
+  "name_en": "Baby Sunscreens",
+  "name_ar": "واقي شمس للأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-skincare > baby-sunscreens"
+ },
+ {
+  "id": "L4-490",
+  "alias": "baby-wipes",
+  "name_en": "Baby Wipes",
+  "name_ar": "مناديل مبللة",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-skincare > baby-wipes"
+ },
+ {
+  "id": "L4-274",
+  "alias": "baby-grooming-tools",
+  "name_en": "Baby Grooming Tools",
+  "name_ar": "أدوات النظافة والعناية",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-care-necessities > baby-grooming-tools"
+ },
+ {
+  "id": "L4-489",
+  "alias": "baby-care-products",
+  "name_en": "Baby Care Products",
+  "name_ar": "منتجات العناية المتنوعة",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-care-necessities > baby-care-products"
+ },
+ {
+  "id": "L4-520",
+  "alias": "baby-care-appliances",
+  "name_en": "Baby Care Appliances",
+  "name_ar": "أجهزة العناية بالطفل",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-care-necessities > baby-care-appliances"
+ },
+ {
+  "id": "L4-624",
+  "alias": "baby-diaper-bags",
+  "name_en": "Babies Diaper Bags",
+  "name_ar": "حقائب مستلزمات الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-care-necessities > baby-diaper-bags"
+ },
+ {
+  "id": "L4-268",
+  "alias": "cots-and-cradles",
+  "name_en": "Cots & Cradles",
+  "name_ar": "أسرة الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > strollers-and-chairs > cots-cradles-bouncers > cots-and-cradles"
+ },
+ {
+  "id": "L4-269",
+  "alias": "bouncers",
+  "name_en": "Bouncer Chairs",
+  "name_ar": "كراسي هزازة",
+  "description": "",
+  "active": true,
+  "path": "kids > strollers-and-chairs > cots-cradles-bouncers > bouncers"
+ },
+ {
+  "id": "L4-717",
+  "alias": "baby-pillows",
+  "name_en": "Baby Pillows",
+  "name_ar": "وسائد الأطفال",
+  "description": "contains all baby pillows",
+  "active": true,
+  "path": "kids > strollers-and-chairs > cots-cradles-bouncers > baby-pillows"
+ },
+ {
+  "id": "L3-112",
+  "alias": "car-seats",
+  "name_en": "Car Seats & Accessories",
+  "name_ar": "كرسي السيارة والأكسسوارات",
+  "description": "",
+  "active": true,
+  "path": "kids > strollers-and-chairs > car-seats"
+ },
+ {
+  "id": "L3-113",
+  "alias": "strollers",
+  "name_en": "Strollers",
+  "name_ar": "عربات الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > strollers-and-chairs > strollers"
+ },
+ {
+  "id": "L3-114",
+  "alias": "feeding-chairs",
+  "name_en": "Feeding Chairs",
+  "name_ar": "كرسي الطعام",
+  "description": "",
+  "active": true,
+  "path": "kids > strollers-and-chairs > feeding-chairs"
+ },
+ {
+  "id": "L3-115",
+  "alias": "baby-walkers",
+  "name_en": "Walking Support",
+  "name_ar": "المساعدة على المشي",
+  "description": "",
+  "active": true,
+  "path": "kids > strollers-and-chairs > baby-walkers"
+ },
+ {
+  "id": "L3-116",
+  "alias": "multi-purpose-gloves",
+  "name_en": "Multipurpose Gloves",
+  "name_ar": "كفوف تنظيف",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > cleaning-tools > multi-purpose-gloves"
+ },
+ {
+  "id": "L3-117",
+  "alias": "cleaning-cloth",
+  "name_en": "All-Purpose Cloth and Sponges",
+  "name_ar": "قطع قماش وإسفنج للتنظيف",
+  "description": "قطع قماش وإسفنج للتنظيف",
+  "active": true,
+  "path": "cleaning-supplies > cleaning-tools > cleaning-cloth"
+ },
+ {
+  "id": "L3-118",
+  "alias": "floor-cleaning-mops",
+  "name_en": "Cleaning Mops",
+  "name_ar": "ممسحة التنظيف",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > cleaning-tools > floor-cleaning-mops"
+ },
+ {
+  "id": "L4-634",
+  "alias": "dishwasher-cleaner",
+  "name_en": "Dishwasher cleaner",
+  "name_ar": "منظفات غسالات الصحون",
+  "description": "منظفات غسالات الصحون: اقراص، سائل، اقراص",
+  "active": true,
+  "path": "cleaning-supplies > dish-washing > dishwasher-supplies > dishwasher-cleaner"
+ },
+ {
+  "id": "L4-305",
+  "alias": "dishwashing-liquids",
+  "name_en": "Detergent Liquids",
+  "name_ar": "سائل جلي الصحون",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > dish-washing > dish-washing-products > dishwashing-liquids"
+ },
+ {
+  "id": "L4-310",
+  "alias": "multipurpose-liquid-cleaner",
+  "name_en": "Multipurpose Liquid Cleaner",
+  "name_ar": "سائل تنظيف",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > multipurpose-detergents > multipurpose-liquid-cleaner"
+ },
+ {
+  "id": "L4-311",
+  "alias": "multipurpose-spray-cleaner",
+  "name_en": "Multipurpose Spray Cleaner",
+  "name_ar": "بخاخ",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > multipurpose-detergents > multipurpose-spray-cleaner"
+ },
+ {
+  "id": "L4-313",
+  "alias": "multipurpose-gel-cleaner",
+  "name_en": "Multipurpose Gel Cleaner",
+  "name_ar": "جل",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > multipurpose-detergents > multipurpose-gel-cleaner"
+ },
+ {
+  "id": "L3-122",
+  "alias": "wood-detergents",
+  "name_en": "Wood Cleaners",
+  "name_ar": "منظفات الأخشاب",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > wood-detergents"
+ },
+ {
+  "id": "L4-316",
+  "alias": "1580116423",
+  "name_en": "Spray",
+  "name_ar": "بخاخ",
+  "description": "بخاخ منظف حمام",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > bathroom-detergents > 1580116423"
+ },
+ {
+  "id": "L4-317",
+  "alias": "toilet-cleansing",
+  "name_en": "Toilet Cleansing Products",
+  "name_ar": "أقراص تنظيف الحمام",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > bathroom-detergents > toilet-cleansing"
+ },
+ {
+  "id": "L4-319",
+  "alias": "1580116466",
+  "name_en": "Disinfectants and sterilizers",
+  "name_ar": "مطهرات ومعقمات",
+  "description": "مطهرات ومعقمات الحمام",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > bathroom-detergents > 1580116466"
+ },
+ {
+  "id": "L4-320",
+  "alias": "1580116513",
+  "name_en": "Liquid bathroom cleaner",
+  "name_ar": "سوائل تنظيف الحمام",
+  "description": "سوائل تنظيف الحمام",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > bathroom-detergents > 1580116513"
+ },
+ {
+  "id": "L3-124",
+  "alias": "floor-detergents",
+  "name_en": "Floor Cleaners",
+  "name_ar": "منظفات الأرضيات",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > floor-detergents"
+ },
+ {
+  "id": "L4-323",
+  "alias": "laundry-powder",
+  "name_en": "Powder Detergents",
+  "name_ar": "مسحوق غسيل الملابس",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > laundry > laundry-detergents > laundry-powder"
+ },
+ {
+  "id": "L4-324",
+  "alias": "laundry-liquids",
+  "name_en": "Liquid Detergents",
+  "name_ar": "سائل غسيل الملابس",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > laundry > laundry-detergents > laundry-liquids"
+ },
+ {
+  "id": "L3-126",
+  "alias": "laundry-spot-removers",
+  "name_en": "Stain Removers",
+  "name_ar": "مزيلات البقع",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > laundry > laundry-spot-removers"
+ },
+ {
+  "id": "L3-127",
+  "alias": "fabric-softeners",
+  "name_en": "Fabric Softeners",
+  "name_ar": "منعمات الأقمشة",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > laundry > fabric-softeners"
+ },
+ {
+  "id": "L3-132",
+  "alias": "tash-bins",
+  "name_en": "Trash Bins",
+  "name_ar": "سلة المهملات",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-garbage > tash-bins"
+ },
+ {
+  "id": "L3-133",
+  "alias": "trash-bags",
+  "name_en": "Trash Bags",
+  "name_ar": "أكياس المهملات",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-garbage > trash-bags"
+ },
+ {
+  "id": "L4-330",
+  "alias": "coloring-pencils",
+  "name_en": "Coloring Pencils",
+  "name_ar": "ألوان خشبية",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > colored-pencils-pastel > coloring-pencils"
+ },
+ {
+  "id": "L4-331",
+  "alias": "pastel-colors",
+  "name_en": "Pastel Colors",
+  "name_ar": "ألوان باستيل",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > colored-pencils-pastel > pastel-colors"
+ },
+ {
+  "id": "L4-332",
+  "alias": "watercoloring-palette",
+  "name_en": "Watercolor Palette",
+  "name_ar": "باليت ألوان مائية",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > water-colors > watercoloring-palette"
+ },
+ {
+  "id": "L4-333",
+  "alias": "watercoloring-tubes",
+  "name_en": "Watercolor Tubes",
+  "name_ar": "عصارات ألوان مائية",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > water-colors > watercoloring-tubes"
+ },
+ {
+  "id": "L4-558",
+  "alias": "watercoloring-pens",
+  "name_en": "Watercoloring Pens",
+  "name_ar": "أقلام تلوين مائية",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > water-colors > watercoloring-pens"
+ },
+ {
+  "id": "L4-334",
+  "alias": "marker-pens",
+  "name_en": "Marker Pens",
+  "name_ar": "أقلام ماركر",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > coloring-markers > marker-pens"
+ },
+ {
+  "id": "L4-335",
+  "alias": "colored-markers",
+  "name_en": "Colored Markers",
+  "name_ar": "أقلام ماجك ملونة",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > coloring-markers > colored-markers"
+ },
+ {
+  "id": "L4-336",
+  "alias": "ink-sketching-pens",
+  "name_en": "Ink & Sketching Pens",
+  "name_ar": "أقلام حبر وتخطيط",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > coloring-markers > ink-sketching-pens"
+ },
+ {
+  "id": "L4-338",
+  "alias": "acrylic-paint",
+  "name_en": "Acrylic Paint",
+  "name_ar": "ألوان أكريليك",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > acrylic-oil-paints > acrylic-paint"
+ },
+ {
+  "id": "L4-339",
+  "alias": "oil-paint",
+  "name_en": "Oil Paint",
+  "name_ar": "ألوان زيتية",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > acrylic-oil-paints > oil-paint"
+ },
+ {
+  "id": "L3-138",
+  "alias": "canvas",
+  "name_en": "Canvas",
+  "name_ar": "ألواح الرسم",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sketchbooks-canvases > canvas"
+ },
+ {
+  "id": "L4-349",
+  "alias": "watercolor-brushes",
+  "name_en": "Watercoloring brushes",
+  "name_ar": "فرش الألوان المائية",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > brushes-tools > painting-brushes > watercolor-brushes"
+ },
+ {
+  "id": "L4-350",
+  "alias": "acrylic-brushes",
+  "name_en": "Acrylic Brushes",
+  "name_ar": "فرش الألوان الأكريليك",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > brushes-tools > painting-brushes > acrylic-brushes"
+ },
+ {
+  "id": "L4-351",
+  "alias": "multipurpose-brushes",
+  "name_en": "Multipurpose Brushes",
+  "name_ar": "فرش متعددة الإستخدامات",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > brushes-tools > painting-brushes > multipurpose-brushes"
+ },
+ {
+  "id": "L3-142",
+  "alias": "1579513253",
+  "name_en": null,
+  "name_ar": null,
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > brushes-tools > 1579513253"
+ },
+ {
+  "id": "L3-143",
+  "alias": "sculpting-material",
+  "name_en": "Sculpting Material",
+  "name_ar": "مواد النحت",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sculpting-crafts > sculpting-material"
+ },
+ {
+  "id": "L3-144",
+  "alias": "sculpting-tools",
+  "name_en": "Sculpting Tools",
+  "name_ar": "معدات النحت",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sculpting-crafts > sculpting-tools"
+ },
+ {
+  "id": "L3-145",
+  "alias": "sculpting-figures-molds",
+  "name_en": "Sculpting Figures & Molds",
+  "name_ar": "قوالب ونماذج",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sculpting-crafts > sculpting-figures-molds"
+ },
+ {
+  "id": "L4-353",
+  "alias": "pets-brushes-combs",
+  "name_en": "Pets Brushes & Combs",
+  "name_ar": "أمشاط وفرش الحيوانات الأليفة",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-pets > pets-brushes-combs"
+ },
+ {
+  "id": "L4-354",
+  "alias": "pets-cleaning-tools",
+  "name_en": "Pets Cleaning Tools",
+  "name_ar": "أدوات تنظيف الحيوانات الاليفة",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-pets > pets-cleaning-tools"
+ },
+ {
+  "id": "L4-355",
+  "alias": "pets-bathing",
+  "name_en": "Pets Bathing",
+  "name_ar": "منتجات إستحمام الحيوانات الأليفة",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-pets > pets-bathing"
+ },
+ {
+  "id": "L4-356",
+  "alias": "dogs-oral-hygiene",
+  "name_en": "Dogs Oral Hygiene",
+  "name_ar": "العناية بأسنان الكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-dogs > dogs-oral-hygiene"
+ },
+ {
+  "id": "L4-357",
+  "alias": "dogs-brushes-combs",
+  "name_en": "Dogs Brushes & Combs",
+  "name_ar": "أمشاط وفرش الكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-dogs > dogs-brushes-combs"
+ },
+ {
+  "id": "L4-358",
+  "alias": "dogs-cleaning-tools",
+  "name_en": "Dogs Cleaning Tools",
+  "name_ar": "أدوات نظافة الكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-dogs > dogs-cleaning-tools"
+ },
+ {
+  "id": "L4-359",
+  "alias": "dogs-bathing",
+  "name_en": "Dogs Bathing",
+  "name_ar": "منتجات إستحمام الكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-dogs > dogs-bathing"
+ },
+ {
+  "id": "L4-362",
+  "alias": "cats-brushes-combs",
+  "name_en": "Cats Brushes & Combs",
+  "name_ar": "أمشاط وفرش القطط",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-cats > cats-brushes-combs"
+ },
+ {
+  "id": "L4-363",
+  "alias": "cats-cleaning-tools",
+  "name_en": "Cats Brushes & Combs",
+  "name_ar": "أدوات نظافة القطط",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-cats > cats-cleaning-tools"
+ },
+ {
+  "id": "L4-364",
+  "alias": "cats-bathing",
+  "name_en": "Cats Bathing",
+  "name_ar": "منتجات إستحمام القطط",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-cats > cats-bathing"
+ },
+ {
+  "id": "L4-365",
+  "alias": "cats-sand",
+  "name_en": "Cats Sand",
+  "name_ar": "رمل القطط",
+  "description": "",
+  "active": true,
+  "path": "pets > cleaning-grooming > cleaning-cats > cats-sand"
+ },
+ {
+  "id": "L3-149",
+  "alias": "pets-food",
+  "name_en": "Pets Food & Snacks",
+  "name_ar": "أغذية الحيوانات الأليفة",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > pets-food"
+ },
+ {
+  "id": "L4-366",
+  "alias": "dogs-milk",
+  "name_en": "Dogs Food",
+  "name_ar": "حليب للكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > dogs-food > dogs-milk"
+ },
+ {
+  "id": "L4-367",
+  "alias": "dogs-dry-food",
+  "name_en": "Dogs Dry Food",
+  "name_ar": "طعام كلاب جاف",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > dogs-food > dogs-dry-food"
+ },
+ {
+  "id": "L4-368",
+  "alias": "dogs-wet-food",
+  "name_en": "Dogs Wet Food",
+  "name_ar": "طعام كلاب رطب",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > dogs-food > dogs-wet-food"
+ },
+ {
+  "id": "L4-369",
+  "alias": "dogs-snacks",
+  "name_en": "Dogs Snacks",
+  "name_ar": "وجبات خفيفة للكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > dogs-food > dogs-snacks"
+ },
+ {
+  "id": "L4-370",
+  "alias": "cats-milk",
+  "name_en": "Cats Milk",
+  "name_ar": "حليب القطط",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > cats-food > cats-milk"
+ },
+ {
+  "id": "L4-371",
+  "alias": "cats-dry-food",
+  "name_en": "Cats Dry Food",
+  "name_ar": "طعام جاف للقطط",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > cats-food > cats-dry-food"
+ },
+ {
+  "id": "L4-372",
+  "alias": "cats-wet-food",
+  "name_en": "Cats Wet Food",
+  "name_ar": "طعام رطب للقطط",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > cats-food > cats-wet-food"
+ },
+ {
+  "id": "L4-373",
+  "alias": "cats-snacks",
+  "name_en": "Cats Snacks",
+  "name_ar": "وجبات خفيفة للقطط",
+  "description": "",
+  "active": true,
+  "path": "pets > food-snacks > cats-food > cats-snacks"
+ },
+ {
+  "id": "L4-374",
+  "alias": "pets-lint-roll",
+  "name_en": "Pets Lint Roll",
+  "name_ar": "رول وبر للحيوانات الأليفة",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > pets-accessories > pets-lint-roll"
+ },
+ {
+  "id": "L4-375",
+  "alias": "pets-food-bowl",
+  "name_en": "Pets Bowl",
+  "name_ar": "وعاء طعام للحيوانات الأليفة",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > pets-accessories > pets-food-bowl"
+ },
+ {
+  "id": "L4-377",
+  "alias": "dogs-muzzle",
+  "name_en": "Dogs Muzzle",
+  "name_ar": "كمامة للكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-dogs > dogs-muzzle"
+ },
+ {
+  "id": "L4-378",
+  "alias": "dogs-harness",
+  "name_en": "Dogs Harness",
+  "name_ar": "حزام للكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-dogs > dogs-harness"
+ },
+ {
+  "id": "L4-379",
+  "alias": "dogs-colar-leash",
+  "name_en": "Dogs  Collar & Leash",
+  "name_ar": "طوق وسلسلة للكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-dogs > dogs-colar-leash"
+ },
+ {
+  "id": "L4-380",
+  "alias": "dogs-bowl",
+  "name_en": "Dogs Bowl",
+  "name_ar": "وعاء طعام للكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-dogs > dogs-bowl"
+ },
+ {
+  "id": "L4-553",
+  "alias": "dog-beds-cages-gates",
+  "name_en": "Dogs Beds, Cages & Gates",
+  "name_ar": "منام وأقفاص الكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-dogs > dog-beds-cages-gates"
+ },
+ {
+  "id": "L4-381",
+  "alias": "cats-collar",
+  "name_en": "Cats Collar",
+  "name_ar": "طوق للقطط",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-cats > cats-collar"
+ },
+ {
+  "id": "L4-382",
+  "alias": "cats-bowl",
+  "name_en": "Cats Bowl",
+  "name_ar": "وعاء طعام للقطط",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-cats > cats-bowl"
+ },
+ {
+  "id": "L4-551",
+  "alias": "litter-box",
+  "name_en": "Litter Box & Litter Accessories",
+  "name_ar": "صندوق الرمل وملحقاته",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-cats > litter-box"
+ },
+ {
+  "id": "L4-552",
+  "alias": "cat-bed",
+  "name_en": "Beds",
+  "name_ar": "منام",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-cats > cat-bed"
+ },
+ {
+  "id": "L4-626",
+  "alias": "cats-pets-carrier",
+  "name_en": "Cats & Pets Carriers",
+  "name_ar": "صناديق نقل الحيوانات",
+  "description": "",
+  "active": true,
+  "path": "pets > accessories-tools > accessories-cats > cats-pets-carrier"
+ },
+ {
+  "id": "L3-156",
+  "alias": "toys-dogs",
+  "name_en": "Dogs Toys",
+  "name_ar": "ألعاب الكلاب",
+  "description": "",
+  "active": true,
+  "path": "pets > pets-toys > toys-dogs"
+ },
+ {
+  "id": "L3-157",
+  "alias": "toys-cats",
+  "name_en": "Cats Toys",
+  "name_ar": "ألعاب القطط",
+  "description": "",
+  "active": true,
+  "path": "pets > pets-toys > toys-cats"
+ },
+ {
+  "id": "L4-386",
+  "alias": "sanitary-pads",
+  "name_en": "Sanitary Pads",
+  "name_ar": "فوط نسائية إعتيادية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > female-care > female-pads > sanitary-pads"
+ },
+ {
+  "id": "L4-387",
+  "alias": "panty-liners",
+  "name_en": "Panty Liners",
+  "name_ar": "فوط يومية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > female-care > female-pads > panty-liners"
+ },
+ {
+  "id": "L3-159",
+  "alias": "intimate-care",
+  "name_en": "Intimate Care Products",
+  "name_ar": "مستحضرات العناية الشخصية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > female-care > intimate-care"
+ },
+ {
+  "id": "L3-160",
+  "alias": "toothpaste",
+  "name_en": "Toothpaste",
+  "name_ar": "معجون الأسنان",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > oral-hygiene > toothpaste"
+ },
+ {
+  "id": "L4-510",
+  "alias": "manual-tooth-brushes",
+  "name_en": "Manual Tooth Brushes",
+  "name_ar": "فرش الأسنان اليدوية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > oral-hygiene > tooth-brushes > manual-tooth-brushes"
+ },
+ {
+  "id": "L4-511",
+  "alias": "electric-tooth-brushes",
+  "name_en": "Electric Tooth Brushes",
+  "name_ar": "فرش الأسنان الكهربائية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > oral-hygiene > tooth-brushes > electric-tooth-brushes"
+ },
+ {
+  "id": "L3-162",
+  "alias": "mouthwash",
+  "name_en": "Mouthwash",
+  "name_ar": "غسول للفم",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > oral-hygiene > mouthwash"
+ },
+ {
+  "id": "L3-163",
+  "alias": "breath-refreshers",
+  "name_en": "Breath Refreshers",
+  "name_ar": "منتجات العناية برائحة الفم",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > oral-hygiene > breath-refreshers"
+ },
+ {
+  "id": "L4-388",
+  "alias": "floss",
+  "name_en": "Floss",
+  "name_ar": "خيط تنظيف الأسنان",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > oral-hygiene > teeth-cleaning-care > floss"
+ },
+ {
+  "id": "L4-390",
+  "alias": "orthodontics-denture-care",
+  "name_en": "Orthodontics & Denture Care",
+  "name_ar": "مستلزمات التقويم وطقم الأسنان",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > oral-hygiene > teeth-cleaning-care > orthodontics-denture-care"
+ },
+ {
+  "id": "L3-166",
+  "alias": "condoms",
+  "name_en": "Condom",
+  "name_ar": "واقي ذكري",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > sexual-health > condoms"
+ },
+ {
+  "id": "L3-168",
+  "alias": "slimming-fitness",
+  "name_en": "Slimming & Fitness",
+  "name_ar": "التنحيف والرشاقة",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > slimming-fitness"
+ },
+ {
+  "id": "L4-477",
+  "alias": "bodybuilding-supplements",
+  "name_en": "Bodybuilding Supplement",
+  "name_ar": "مكملات غذائية لبناء الأجسام",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > bodybuildingsupplements > bodybuilding-supplements"
+ },
+ {
+  "id": "L3-170",
+  "alias": "vitamins-supplements",
+  "name_en": "Vitamins & Supplements",
+  "name_ar": "فيتامينات ومكملات غذائية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > vitamins-supplements"
+ },
+ {
+  "id": "L3-171",
+  "alias": "braces-corsets",
+  "name_en": "Braces & Corsets",
+  "name_ar": "مشدات ودواعم",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > braces-corsets"
+ },
+ {
+  "id": "L3-172",
+  "alias": "medical-pillows",
+  "name_en": "Medical Pillows & Pads",
+  "name_ar": "وسائد طبية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > medical-pillows"
+ },
+ {
+  "id": "L4-822",
+  "alias": "medicalsuctiondevices",
+  "name_en": "Medical Suction Devices",
+  "name_ar": "أجهزة سحب السوائل",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > home-medical-devices > medicalsuctiondevices"
+ },
+ {
+  "id": "L4-823",
+  "alias": "oxygenconcentrators",
+  "name_en": "Oxygen Concentrators",
+  "name_ar": " أجهزة توليد الأوكسجين",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > home-medical-devices > oxygenconcentrators"
+ },
+ {
+  "id": "L4-824",
+  "alias": "medicalbeds",
+  "name_en": "Medical Beds",
+  "name_ar": "الأسرّة الطبية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > home-medical-devices > medicalbeds"
+ },
+ {
+  "id": "L4-825",
+  "alias": "medicaltrolleys",
+  "name_en": " Medical Trolleys",
+  "name_ar": " العربات الطبية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > home-medical-devices > medicaltrolleys"
+ },
+ {
+  "id": "L4-826",
+  "alias": "showertoiletchairs",
+  "name_en": "Shower & Toilet Chairs",
+  "name_ar": "الأجهزة والمعدات الطبية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > home-medical-devices > showertoiletchairs"
+ },
+ {
+  "id": "L4-396",
+  "alias": "bandaids",
+  "name_en": "Bandaids",
+  "name_ar": "لصقات جروح",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > personal-care-necessities > bandaids"
+ },
+ {
+  "id": "L4-397",
+  "alias": "cotton-swabs",
+  "name_en": "Cotton Swabs",
+  "name_ar": "أعواد تنظيف قطنية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > personal-care-necessities > cotton-swabs"
+ },
+ {
+  "id": "L4-398",
+  "alias": "heat-patches-pain-soothing",
+  "name_en": "Patches & Pain Soothing Products",
+  "name_ar": "لصقات ومسكنات لآلام الجسم",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > personal-care-necessities > heat-patches-pain-soothing"
+ },
+ {
+  "id": "L4-495",
+  "alias": "general-personal-necessities",
+  "name_en": "General Personal Necessities",
+  "name_ar": "مستلزمات عامة",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > personal-care-necessities > general-personal-necessities"
+ },
+ {
+  "id": "L4-391",
+  "alias": "fitness-tools",
+  "name_en": "Fitness Tools",
+  "name_ar": "مستلزمات اللياقة البدنية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > fitness-equipment > fitness-tools"
+ },
+ {
+  "id": "L4-392",
+  "alias": "scales",
+  "name_en": "Scales",
+  "name_ar": "أجهزة قياس الوزن",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > fitness-equipment > scales"
+ },
+ {
+  "id": "L4-393",
+  "alias": "sport-equipment",
+  "name_en": "Sport Equipment",
+  "name_ar": "أجهزة و معدات رياضية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > fitness-equipment > sport-equipment"
+ },
+ {
+  "id": "L4-594",
+  "alias": "water-bottles-shakers",
+  "name_en": "Water Bottles & Shakers",
+  "name_ar": "قناني مياه وشيكر",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > fitness-equipment > water-bottles-shakers"
+ },
+ {
+  "id": "L4-793",
+  "alias": "bicycles-and-scooters",
+  "name_en": "Bicycles and Scooters",
+  "name_ar": "بايسكل و سكوتر",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > fitness-bodybuilding > fitness-equipment > bicycles-and-scooters"
+ },
+ {
+  "id": "L4-409",
+  "alias": "coffee-powder",
+  "name_en": "Coffee Powder",
+  "name_ar": "باودر قهوة",
+  "description": "",
+  "active": true,
+  "path": "grocery-and-food > drinks > coffee > coffee-powder"
+ },
+ {
+  "id": "L4-509",
+  "alias": "coffee-beans",
+  "name_en": "Coffee Beans",
+  "name_ar": "حبوب القهوة",
+  "description": "",
+  "active": true,
+  "path": "grocery-and-food > drinks > coffee > coffee-beans"
+ },
+ {
+  "id": "L4-410",
+  "alias": "loose-leaf-tea",
+  "name_en": "Loose Leaf Tea",
+  "name_ar": "شاي فل",
+  "description": "",
+  "active": true,
+  "path": "grocery-and-food > drinks > tea > loose-leaf-tea"
+ },
+ {
+  "id": "L4-411",
+  "alias": "tea-bag-sachet",
+  "name_en": "Tea Bags & Sachets",
+  "name_ar": "أكياس الشاي",
+  "description": "",
+  "active": true,
+  "path": "grocery-and-food > drinks > tea > tea-bag-sachet"
+ },
+ {
+  "id": "L3-192",
+  "alias": "building-blocks-toy",
+  "name_en": "Building Blocks Toy",
+  "name_ar": "المكعبات",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > building-blocks-toy-figures > building-blocks-toy"
+ },
+ {
+  "id": "L4-427",
+  "alias": "1580128888",
+  "name_en": null,
+  "name_ar": null,
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > toys-collection > board-card-games > 1580128888"
+ },
+ {
+  "id": "L4-428",
+  "alias": "1580128894",
+  "name_en": null,
+  "name_ar": null,
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > toys-collection > board-card-games > 1580128894"
+ },
+ {
+  "id": "L4-803",
+  "alias": "playing-cards",
+  "name_en": "Playing Cards",
+  "name_ar": "ورق لعب",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > toys-collection > board-card-games > playing-cards"
+ },
+ {
+  "id": "L3-194",
+  "alias": "toys",
+  "name_en": "Toys",
+  "name_ar": "العاب",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > toys-collection > toys"
+ },
+ {
+  "id": "L3-195",
+  "alias": "gaming-consoles",
+  "name_en": "Gaming Consoles",
+  "name_ar": "أجهزة ألعاب الفيديو",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > video-gaming > gaming-consoles"
+ },
+ {
+  "id": "L3-196",
+  "alias": "gaming-accessories",
+  "name_en": "Video Game Accessories",
+  "name_ar": "ملحقات العاب الفيديو",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > video-gaming > gaming-accessories"
+ },
+ {
+  "id": "L4-778",
+  "alias": "video-games-ps4",
+  "name_en": "PS4 Video Games",
+  "name_ar": "ألعاب بلاي ستيشن 4",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > video-gaming > video-games > video-games-ps4"
+ },
+ {
+  "id": "L4-779",
+  "alias": "video-games-ps5",
+  "name_en": "PS5 Video Games",
+  "name_ar": "ألعاب بلاي ستيشن 5",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > video-gaming > video-games > video-games-ps5"
+ },
+ {
+  "id": "L4-780",
+  "alias": "video-games-ns",
+  "name_en": "Nintendo Switch Video Games",
+  "name_ar": "ألعاب نينتيندو سويتش",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > video-gaming > video-games > video-games-ns"
+ },
+ {
+  "id": "L4-781",
+  "alias": "video-games-xbox",
+  "name_en": "Xbox Video Games",
+  "name_ar": "ألعاب أكسبوكس",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > video-gaming > video-games > video-games-xbox"
+ },
+ {
+  "id": "L4-436",
+  "alias": "movies-shows-figurines",
+  "name_en": "Movies & Shows Figurines",
+  "name_ar": "مجسمات مسلسلات وأفلام",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > figurines > movies-shows-figurines"
+ },
+ {
+  "id": "L4-437",
+  "alias": "artist-musician-figurines",
+  "name_en": "Artists & Musicians Figurines",
+  "name_ar": "مجسمات الفنانين وفرق موسيقية",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > figurines > artist-musician-figurines"
+ },
+ {
+  "id": "L4-438",
+  "alias": "anime-figurines",
+  "name_en": "Anime Figurines",
+  "name_ar": "مجسمات الأنيمي",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > figurines > anime-figurines"
+ },
+ {
+  "id": "L4-439",
+  "alias": "video-games-figurines",
+  "name_en": "Video Games Figurines",
+  "name_ar": "مجسمات ألعاب الفديو",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > figurines > video-games-figurines"
+ },
+ {
+  "id": "L4-559",
+  "alias": "scientific-figures",
+  "name_en": "Scientific Figures",
+  "name_ar": "مجسمات علمية",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > figurines > scientific-figures"
+ },
+ {
+  "id": "L4-707",
+  "alias": "other-figures",
+  "name_en": "Other Figures",
+  "name_ar": "مجسمات اخرى",
+  "description": "مجسمات اخرى",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > figurines > other-figures"
+ },
+ {
+  "id": "L4-441",
+  "alias": "shows-movies-posters-decor",
+  "name_en": "Shows & Movies Posters & Decor",
+  "name_ar": "بوسترات وديكور المسلسلات والأفلام",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-posters-decor > shows-movies-posters-decor"
+ },
+ {
+  "id": "L4-442",
+  "alias": "artist-musician-posters-decor",
+  "name_en": "Artists & Musicians Posters & Decor",
+  "name_ar": "بوسترات وديكور الفنانين والفرق موسيقية",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-posters-decor > artist-musician-posters-decor"
+ },
+ {
+  "id": "L4-443",
+  "alias": "anime-posters-decor",
+  "name_en": "Anime Posters & Decor",
+  "name_ar": "بوسترات وديكور الأنيمي",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-posters-decor > anime-posters-decor"
+ },
+ {
+  "id": "L4-444",
+  "alias": "video-game-posters-decor",
+  "name_en": "Video Games Posters & Decor",
+  "name_ar": "بوسترات وديكور ألعاب الفديو",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-posters-decor > video-game-posters-decor"
+ },
+ {
+  "id": "L4-434",
+  "alias": "albums",
+  "name_en": "Albums",
+  "name_ar": "ألبومات",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-albums-notebooks > albums"
+ },
+ {
+  "id": "L4-435",
+  "alias": "fandoms-notebooks",
+  "name_en": "Fandoms Notebooks",
+  "name_ar": "دفاتر",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-albums-notebooks > fandoms-notebooks"
+ },
+ {
+  "id": "L4-429",
+  "alias": "shows-movies-accessories",
+  "name_en": "Shows & Movies Accessories",
+  "name_ar": "إكسسوارات المسلسلات والأفلام",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-accessories > shows-movies-accessories"
+ },
+ {
+  "id": "L4-431",
+  "alias": "artists-musicians-accessories",
+  "name_en": "Artists & Musicians Accessories",
+  "name_ar": "إكسسوارات الفنانين والفرق الموسيقية",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-accessories > artists-musicians-accessories"
+ },
+ {
+  "id": "L4-432",
+  "alias": "anime-accessories",
+  "name_en": "Anime Accessories",
+  "name_ar": "إكسسوارات الأنيمي",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-accessories > anime-accessories"
+ },
+ {
+  "id": "L4-453",
+  "alias": "global-book",
+  "name_en": "Global Books",
+  "name_ar": "كتب عالمية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > global-book-novel > global-book"
+ },
+ {
+  "id": "L4-454",
+  "alias": "global-novel",
+  "name_en": "Global Novels",
+  "name_ar": "روايات عالمية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > global-book-novel > global-novel"
+ },
+ {
+  "id": "L4-455",
+  "alias": "arabic-book",
+  "name_en": "Arabic Books",
+  "name_ar": "كتب عربية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > arabic-book-novel > arabic-book"
+ },
+ {
+  "id": "L4-456",
+  "alias": "arabic-novel",
+  "name_en": "Arabic Novels",
+  "name_ar": "روايات عربية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > arabic-book-novel > arabic-novel"
+ },
+ {
+  "id": "L4-457",
+  "alias": "iraqi-book",
+  "name_en": "Iraqi Books",
+  "name_ar": "كتب عراقية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > iraqi-book-novel > iraqi-book"
+ },
+ {
+  "id": "L4-458",
+  "alias": "iraqi-novel",
+  "name_en": "Iraqi Novels",
+  "name_ar": "روايات عراقية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > iraqi-book-novel > iraqi-novel"
+ },
+ {
+  "id": "L4-459",
+  "alias": "ruler",
+  "name_en": "Rulers",
+  "name_ar": "مسطرة",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > ruler-engineering-drawing > ruler"
+ },
+ {
+  "id": "L4-460",
+  "alias": "engineering-drawing-tool",
+  "name_en": "Engineering Drawing Tools",
+  "name_ar": "أدوات هندسية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > ruler-engineering-drawing > engineering-drawing-tool"
+ },
+ {
+  "id": "L3-207",
+  "alias": "pencil-case",
+  "name_en": "Pencil Case",
+  "name_ar": "محفظة",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > pencil-case"
+ },
+ {
+  "id": "L3-211",
+  "alias": "women-bags",
+  "name_en": "Women's Bag",
+  "name_ar": "حقائب نسائية",
+  "description": "",
+  "active": true,
+  "path": "fashion > bags > women-bags"
+ },
+ {
+  "id": "L4-652",
+  "alias": "back-packs",
+  "name_en": "Backpacks",
+  "name_ar": "حقائب الظهر",
+  "description": "Backpacks",
+  "active": true,
+  "path": "fashion > bags > backpacks-and-laptop-bags > back-packs"
+ },
+ {
+  "id": "L4-654",
+  "alias": "laptop-bags-cases",
+  "name_en": "Laptop Bags",
+  "name_ar": "حقائب اللابتوب",
+  "description": "Laptop Bags",
+  "active": true,
+  "path": "fashion > bags > backpacks-and-laptop-bags > laptop-bags-cases"
+ },
+ {
+  "id": "L3-213",
+  "alias": "luggage-travel-bags",
+  "name_en": "Luggage & Travel Bags",
+  "name_ar": "حقائب الأمتعة والسفر",
+  "description": "",
+  "active": true,
+  "path": "fashion > bags > luggage-travel-bags"
+ },
+ {
+  "id": "L3-214",
+  "alias": "unisex-handbags",
+  "name_en": "Unisex Bags",
+  "name_ar": "حقائب لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "fashion > bags > unisex-handbags"
+ },
+ {
+  "id": "L4-30",
+  "alias": "eyebrow-palettes",
+  "name_en": "Eyebrow Palettes",
+  "name_ar": "باليتات الحواجب",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > brows-makeup > eyebrow-palettes"
+ },
+ {
+  "id": "L4-31",
+  "alias": "brow-liners-and-fillers",
+  "name_en": "Eyebrow Liners",
+  "name_ar": "رسم وتحديد الحواجب",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > brows-makeup > brow-liners-and-fillers"
+ },
+ {
+  "id": "L4-32",
+  "alias": "brow-mascara",
+  "name_en": "Eyebrow Mascara",
+  "name_ar": "ماسكارا الحواجب",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > brows-makeup > brow-mascara"
+ },
+ {
+  "id": "L4-56",
+  "alias": "feet-moisturizers",
+  "name_en": "Feet Moisturizers",
+  "name_ar": "مرطبات الأرجل",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > feet-skincare > feet-moisturizers"
+ },
+ {
+  "id": "L4-57",
+  "alias": "feet-scrubs",
+  "name_en": "Feet Peelers & Scrubs",
+  "name_ar": "مقشرات الأرجل",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > feet-skincare > feet-scrubs"
+ },
+ {
+  "id": "L4-58",
+  "alias": "feet-masks",
+  "name_en": "Feet Masks",
+  "name_ar": "ماسكات العناية بالأرجل",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > feet-skincare > feet-masks"
+ },
+ {
+  "id": "L4-59",
+  "alias": "footcare-treatments",
+  "name_en": "Oils & Treatments",
+  "name_ar": "زيوت ومعالجات",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > feet-skincare > footcare-treatments"
+ },
+ {
+  "id": "L4-60",
+  "alias": "footcare-tools",
+  "name_en": "Foot Care Tools",
+  "name_ar": "أدوات العناية بالأرجل",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > feet-skincare > footcare-tools"
+ },
+ {
+  "id": "L4-505",
+  "alias": "footcare-appliances",
+  "name_en": "Hands & Nails Care Appliances",
+  "name_ar": "أجهزة العناية ببشرة القدم",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > feet-skincare > footcare-appliances"
+ },
+ {
+  "id": "L4-69",
+  "alias": "hair-shampoo",
+  "name_en": "Shampoo",
+  "name_ar": "شامبو الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > shampoo-and-conditioner > hair-shampoo"
+ },
+ {
+  "id": "L4-70",
+  "alias": "hair-conditioners",
+  "name_en": "Conditioners",
+  "name_ar": "مكيّفات الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > shampoo-and-conditioner > hair-conditioners"
+ },
+ {
+  "id": "L4-63",
+  "alias": "face-makeup-removers",
+  "name_en": "Face Makeup Removers",
+  "name_ar": "مزيلات مكياج الوجه",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > makeup-removers > face-makeup-removers"
+ },
+ {
+  "id": "L4-64",
+  "alias": "eyes-makeup-remover",
+  "name_en": "Eyes Makeup Removers",
+  "name_ar": "مزيلات مكياج العيون",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > makeup-removers > eyes-makeup-remover"
+ },
+ {
+  "id": "L4-517",
+  "alias": "makeup-remover-wipes-cotton",
+  "name_en": "Makeup Remover Wipes & Cotton",
+  "name_ar": "قطن و مناديل مزيلة للمكياج",
+  "description": "",
+  "active": true,
+  "path": "beauty > makeup > makeup-removers > makeup-remover-wipes-cotton"
+ },
+ {
+  "id": "L4-71",
+  "alias": "hair-dryers",
+  "name_en": "Hair Dryers",
+  "name_ar": "مجففات الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-dryers-and-stylers > hair-dryers"
+ },
+ {
+  "id": "L4-75",
+  "alias": "hair-styling-sets",
+  "name_en": "Sets",
+  "name_ar": "سيتات",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-dryers-and-stylers > hair-styling-sets"
+ },
+ {
+  "id": "L4-76",
+  "alias": "hair-thermal-brushes",
+  "name_en": "Thermal Brushes",
+  "name_ar": "فرش حرارية",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-dryers-and-stylers > hair-thermal-brushes"
+ },
+ {
+  "id": "L4-77",
+  "alias": "hair-stylers-and-curlers",
+  "name_en": "Curlers, Press & Stylers",
+  "name_ar": "كاويات ومصففات الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-dryers-and-stylers > hair-stylers-and-curlers"
+ },
+ {
+  "id": "L4-78",
+  "alias": "hair-brushes",
+  "name_en": "Hair Brushes",
+  "name_ar": "فرش تصفيف الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-brushes-and-combs > hair-brushes"
+ },
+ {
+  "id": "L4-79",
+  "alias": "hair-combs",
+  "name_en": "Hair Combs",
+  "name_ar": "أمشاط",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-brushes-and-combs > hair-combs"
+ },
+ {
+  "id": "L4-80",
+  "alias": "hair-styling-accessories",
+  "name_en": "Hair Styling Accessories",
+  "name_ar": "أكسسوارات تصفيف وقص الشعر",
+  "description": "",
+  "active": true,
+  "path": "beauty > hair > hair-brushes-and-combs > hair-styling-accessories"
+ },
+ {
+  "id": "L4-89",
+  "alias": "arabian-perfumes",
+  "name_en": "Arabian Perfumes",
+  "name_ar": "عطور عربية",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > arabian-fragrances > arabian-perfumes"
+ },
+ {
+  "id": "L4-90",
+  "alias": "musk-perfumes",
+  "name_en": "Musk",
+  "name_ar": "عطور المسك",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > arabian-fragrances > musk-perfumes"
+ },
+ {
+  "id": "L4-91",
+  "alias": "makhmaria-perfumes",
+  "name_en": "Makhmaria",
+  "name_ar": "مخمرية",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > arabian-fragrances > makhmaria-perfumes"
+ },
+ {
+  "id": "L4-103",
+  "alias": "false-lashes",
+  "name_en": "False Lashes",
+  "name_ar": "رموش",
+  "description": "",
+  "active": true,
+  "path": "beauty > lenses-and-lashes > false-lashes-glue > false-lashes"
+ },
+ {
+  "id": "L4-104",
+  "alias": "lash-glue",
+  "name_en": "Lash Glue",
+  "name_ar": "صمغ",
+  "description": "",
+  "active": true,
+  "path": "beauty > lenses-and-lashes > false-lashes-glue > lash-glue"
+ },
+ {
+  "id": "L3-227",
+  "alias": "lashes-and-lenses-care",
+  "name_en": "Lenses & Lashes Accessories",
+  "name_ar": "مستلزمات الرموش والعدسات",
+  "description": "",
+  "active": true,
+  "path": "beauty > lenses-and-lashes > lashes-and-lenses-care"
+ },
+ {
+  "id": "L3-229",
+  "alias": "men-socks",
+  "name_en": "Men Socks",
+  "name_ar": "جوارب رجالية",
+  "description": "",
+  "active": true,
+  "path": "fashion > men-clothing > men-socks"
+ },
+ {
+  "id": "L3-233",
+  "alias": "women-socks",
+  "name_en": "Women Socks",
+  "name_ar": "جوارب نسائية",
+  "description": "",
+  "active": true,
+  "path": "fashion > women-clothing > women-socks"
+ },
+ {
+  "id": "L4-141",
+  "alias": "boys-clothing-above-8yrs",
+  "name_en": "Boys Clothing Above 8 Years",
+  "name_ar": "ملابس أولاد فوق عمر 8 سنوات",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-clothing-above-8yrs"
+ },
+ {
+  "id": "L4-142",
+  "alias": "boys-underwear",
+  "name_en": "Boys Underwear",
+  "name_ar": "ملابس داخلية للأولاد",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-underwear"
+ },
+ {
+  "id": "L4-143",
+  "alias": "boys-socks",
+  "name_en": "Boys Socks",
+  "name_ar": "جوارب الأولاد",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-socks"
+ },
+ {
+  "id": "L4-543",
+  "alias": "boys-swimming-attire",
+  "name_en": "Swimming Attire",
+  "name_ar": "ملابس سباحة",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-swimming-attire"
+ },
+ {
+  "id": "L4-643",
+  "alias": "boys-school-uniform",
+  "name_en": "Boys School Uniform",
+  "name_ar": "ملابس مدرسية",
+  "description": "it contains all boys school uniform",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-school-uniform"
+ },
+ {
+  "id": "L4-689",
+  "alias": "boys-sweaters-hoodies-blouses",
+  "name_en": "Boys Sweaters, Blouses & Hoodies",
+  "name_ar": "سويتر، بلوز وهودي للأولاد",
+  "description": "سويتر، بلوز وهودي للأولاد",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-sweaters-hoodies-blouses"
+ },
+ {
+  "id": "L4-691",
+  "alias": "boys-homewear",
+  "name_en": "boys-homewear",
+  "name_ar": "ملابس بيت للأولاد",
+  "description": "ملابس بيت للأولاد",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-homewear"
+ },
+ {
+  "id": "L4-692",
+  "alias": "boys-jeans-pants",
+  "name_en": "Boys Jeans & Pants",
+  "name_ar": "جينز وبنطلون للأولاد",
+  "description": "جينز وبنطلون للأولاد",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-jeans-pants"
+ },
+ {
+  "id": "L4-693",
+  "alias": "boys-shirts-tshirts",
+  "name_en": "Boys T-shirts & Shirts",
+  "name_ar": "تيشيرت وقميص للأولاد",
+  "description": "تيشيرت وقميص للأولاد",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-shirts-tshirts"
+ },
+ {
+  "id": "L4-703",
+  "alias": "boys-clothing-sets",
+  "name_en": "Boys Clothing Sets",
+  "name_ar": "سيت ملابس للأولاد ",
+  "description": "سيت ملابس ولادي ",
+  "active": true,
+  "path": "fashion > kids-clothing > boys-clothing > boys-clothing-sets"
+ },
+ {
+  "id": "L4-144",
+  "alias": "girls-clothing-below-8yrs",
+  "name_en": "Girls Clothing Under 8 Years",
+  "name_ar": "ملابس بنات تحت عمر 8 سنوات",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-clothing-below-8yrs"
+ },
+ {
+  "id": "L4-146",
+  "alias": "girls-underwear",
+  "name_en": "Girls Underwear",
+  "name_ar": "ملابس داخلية للبنات",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-underwear"
+ },
+ {
+  "id": "L4-147",
+  "alias": "girls-socks",
+  "name_en": "Girls Socks",
+  "name_ar": "جوارب البنات",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-socks"
+ },
+ {
+  "id": "L4-599",
+  "alias": "girls-school-uniform",
+  "name_en": "Girls School Uniform",
+  "name_ar": "ملابس مدرسية",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-school-uniform"
+ },
+ {
+  "id": "L4-695",
+  "alias": "girls-sweaters-hoodies-blouses",
+  "name_en": "Girls Sweaters, Hoodies & Blouses ",
+  "name_ar": "سويتر، هودي وبلوز للبنات",
+  "description": "سويتر، هودي وبلوز للبنات",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-sweaters-hoodies-blouses"
+ },
+ {
+  "id": "L4-697",
+  "alias": "girls-homewear",
+  "name_en": "Girls Homewear",
+  "name_ar": "ملابس بيت للبنات",
+  "description": "ملابس بيت للبنات",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-homewear"
+ },
+ {
+  "id": "L4-698",
+  "alias": "girls-jeans-pants",
+  "name_en": "Girls Jeans & Pants",
+  "name_ar": "جينز وبنطلون للبنات",
+  "description": "جينز وبنطلون للبنات",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-jeans-pants"
+ },
+ {
+  "id": "L4-699",
+  "alias": "girls-shirts-tshirts",
+  "name_en": "Girls Shirts & T-Shirts",
+  "name_ar": "تيشيرت وقميص للبنات",
+  "description": "تيشيرت وقميص للبنات",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-shirts-tshirts"
+ },
+ {
+  "id": "L4-700",
+  "alias": "girls-dresses",
+  "name_en": "Girls Dresses ",
+  "name_ar": "ثوب للبنات",
+  "description": "ثوب للبنات",
+  "active": true,
+  "path": "fashion > kids-clothing > girls-clothing > girls-dresses"
+ },
+ {
+  "id": "L4-148",
+  "alias": "kids-unisex-clothing-below-8yrs",
+  "name_en": "Kids Unisex Clothing Below 8 Years",
+  "name_ar": "ملابس أطفال تحت عمر 8 سنوات",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > kids-unisex-clothing > kids-unisex-clothing-below-8yrs"
+ },
+ {
+  "id": "L4-149",
+  "alias": "kids-unisex-clothing-above-8yrs",
+  "name_en": "Kids Unisex Clothing Above 8 Years",
+  "name_ar": "ملابس أطفال فوق عمر 8 سنوات",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > kids-unisex-clothing > kids-unisex-clothing-above-8yrs"
+ },
+ {
+  "id": "L4-150",
+  "alias": "newborn-clothing-sets",
+  "name_en": "Newborn Clothing Sets",
+  "name_ar": "سيتات ملابس حديثي الولادة",
+  "description": "",
+  "active": true,
+  "path": "fashion > kids-clothing > newborn-clothing > newborn-clothing-sets"
+ },
+ {
+  "id": "L4-151",
+  "alias": "newborn-pyjamas",
+  "name_en": "Newborn Pyjamas",
+  "name_ar": "بيجاما حديثي الولادة",
+  "description": "بيجاما حديثي الولادة",
+  "active": true,
+  "path": "fashion > kids-clothing > newborn-clothing > newborn-pyjamas"
+ },
+ {
+  "id": "L4-163",
+  "alias": "men-wallet",
+  "name_en": "Men Wallet",
+  "name_ar": "محفظة رجالية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > wallet > men-wallet"
+ },
+ {
+  "id": "L4-164",
+  "alias": "women-wallet",
+  "name_en": "Women Wallet",
+  "name_ar": "محفظة نسائية",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > wallet > women-wallet"
+ },
+ {
+  "id": "L3-239",
+  "alias": "school-bags",
+  "name_en": "Schools Bags",
+  "name_ar": "حقائب مدرسية",
+  "description": "",
+  "active": true,
+  "path": "fashion > bags > school-bags"
+ },
+ {
+  "id": "L3-240",
+  "alias": "men-bags",
+  "name_en": "Men Bags",
+  "name_ar": "حقائب رجالية",
+  "description": "",
+  "active": true,
+  "path": "fashion > bags > men-bags"
+ },
+ {
+  "id": "L4-177",
+  "alias": "mouse-and-pointing-devices",
+  "name_en": "Mouse",
+  "name_ar": "ماوس",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-input-devices > mouse-and-pointing-devices"
+ },
+ {
+  "id": "L4-178",
+  "alias": "keyboards",
+  "name_en": "Keyboards",
+  "name_ar": "لوحات المفاتيح",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > computer-input-devices > keyboards"
+ },
+ {
+  "id": "L4-182",
+  "alias": "screen-protectors",
+  "name_en": "Screen Protectors",
+  "name_ar": "لصقات حماية الشاشة",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > screen-protectors"
+ },
+ {
+  "id": "L4-498",
+  "alias": "smartphone- accessories-miscellaneous",
+  "name_en": "Miscellaneous Accessories",
+  "name_ar": "ملحقات متنوعة",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > smartphone- accessories-miscellaneous"
+ },
+ {
+  "id": "L4-506",
+  "alias": "power-banks",
+  "name_en": "Power Banks",
+  "name_ar": "أجهزة الشحن المحمولة",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > power-banks"
+ },
+ {
+  "id": "L4-508",
+  "alias": "car-mobile-accessories",
+  "name_en": "Car Mobile Accessories",
+  "name_ar": "أكسسوارات الموبايل للسيارة",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > car-mobile-accessories"
+ },
+ {
+  "id": "L4-772",
+  "alias": "mobile-chargers-new",
+  "name_en": "Mobile Chargers",
+  "name_ar": "شواحن الموبايل",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > mobile-chargers-new"
+ },
+ {
+  "id": "L4-773",
+  "alias": "mobile-cables-new",
+  "name_en": "Mobile Cables",
+  "name_ar": "كيبلات الموبايل",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > mobile-cables-new"
+ },
+ {
+  "id": "L4-795",
+  "alias": "tablet-pens",
+  "name_en": "Tablet Smart Pens",
+  "name_ar": "اقلام الاجهزة اللوحية",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > tablet-pens"
+ },
+ {
+  "id": "L4-796",
+  "alias": "tablet-accessories",
+  "name_en": "Tablet Accessories",
+  "name_ar": "ملحقات اجهزة لوحية متنوعة",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > tablet-accessories"
+ },
+ {
+  "id": "L4-801",
+  "alias": "electronic-accessories-organizer",
+  "name_en": "Electronic Accessories Bag and Cable Organizer",
+  "name_ar": "حقائب اكسسوارات الالكترونيات",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > mobile-accessories > electronic-accessories-organizer"
+ },
+ {
+  "id": "L3-245",
+  "alias": "networking-accessories",
+  "name_en": "Networking Accessories",
+  "name_ar": "ملحقات أجهزة الشبكات",
+  "description": "",
+  "active": true,
+  "path": "electronics > networking-and-internet > networking-accessories"
+ },
+ {
+  "id": "L4-209",
+  "alias": "clocks",
+  "name_en": "Clocks",
+  "name_ar": "ساعات جدارية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-decor > clocks"
+ },
+ {
+  "id": "L4-210",
+  "alias": "table-clocks-and-alarms",
+  "name_en": "Table Clocks & Alarms",
+  "name_ar": "ساعات منضدية ومنبهات",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-decor > table-clocks-and-alarms"
+ },
+ {
+  "id": "L4-211",
+  "alias": "wall-paintings",
+  "name_en": "Paintings",
+  "name_ar": "لوحات",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-decor > wall-paintings"
+ },
+ {
+  "id": "L4-550",
+  "alias": "decor-figures-accessories",
+  "name_en": "",
+  "name_ar": "مجسمات وإكسسوارات الديكور",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-decor > decor-figures-accessories"
+ },
+ {
+  "id": "L4-702",
+  "alias": "seasonal-decorations",
+  "name_en": "Seasonal Decorations",
+  "name_ar": "ديكورات موسمية",
+  "description": "ديكورات موسمية",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > home-decor > seasonal-decorations"
+ },
+ {
+  "id": "L4-231",
+  "alias": "hardware-tools-boxes-and-sets",
+  "name_en": "Tools Sets & Boxes",
+  "name_ar": "سيتات وصناديق العدد",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > hardware-and-tools > hardware-tools > hardware-tools-boxes-and-sets"
+ },
+ {
+  "id": "L4-232",
+  "alias": "hand-tools",
+  "name_en": "Hand Tools",
+  "name_ar": "أدوات وعدد يدوية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > hardware-and-tools > hardware-tools > hand-tools"
+ },
+ {
+  "id": "L4-233",
+  "alias": "power-tools",
+  "name_en": "Power Tools",
+  "name_ar": "أدوات وعدد كهربائية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > hardware-and-tools > hardware-tools > power-tools"
+ },
+ {
+  "id": "L4-631",
+  "alias": "hardware-products",
+  "name_en": "Hardware Products",
+  "name_ar": "لوازم ومنتجات العدد اليدوية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > hardware-and-tools > hardware-tools > hardware-products"
+ },
+ {
+  "id": "L3-249",
+  "alias": "construction-supplies",
+  "name_en": "Construction Supplies",
+  "name_ar": "مستلزمات إنشائية",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > hardware-and-tools > construction-supplies"
+ },
+ {
+  "id": "L3-250",
+  "alias": "electric-socket-extensions",
+  "name_en": "Socket Extensions",
+  "name_ar": "موزعات الكهرباء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > electric-socket-extensions"
+ },
+ {
+  "id": "L3-251",
+  "alias": "electric-sockets",
+  "name_en": "Sockets",
+  "name_ar": "قوابس الكهرباء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > electric-sockets"
+ },
+ {
+  "id": "L3-252",
+  "alias": "flash-lights",
+  "name_en": "Flash Lights",
+  "name_ar": "مصابيح يدوية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > flash-lights"
+ },
+ {
+  "id": "L3-253",
+  "alias": "electric-power-regulators",
+  "name_en": "Power Regulators & Protectors",
+  "name_ar": "أجهزة التنظيم والحماية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > electric-power-regulators"
+ },
+ {
+  "id": "L4-763",
+  "alias": "smallbatteries",
+  "name_en": "small batteries",
+  "name_ar": "بطاريات صغيرة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > batteries > smallbatteries"
+ },
+ {
+  "id": "L3-255",
+  "alias": "electric-power-supplies",
+  "name_en": "Power Supply & Backup",
+  "name_ar": "أجهزة إمداد الطاقة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > electric-power-supplies"
+ },
+ {
+  "id": "L4-284",
+  "alias": "baby-food-processors",
+  "name_en": "Baby Food Processors",
+  "name_ar": "أجهزة تحضير الطعام",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > small-baby-nutrition > baby-food-processors"
+ },
+ {
+  "id": "L4-285",
+  "alias": "baby-food-storage",
+  "name_en": "Food Storage",
+  "name_ar": "حافظات الطعام",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-feeding > small-baby-nutrition > baby-food-storage"
+ },
+ {
+  "id": "L4-295",
+  "alias": "baby-toothbrushes",
+  "name_en": "Toothbrushes",
+  "name_ar": "فرش أسنان",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-oral-care > baby-toothbrushes"
+ },
+ {
+  "id": "L4-296",
+  "alias": "baby-toothpaste",
+  "name_en": "Toothpaste",
+  "name_ar": "معجون الأسنان",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-oral-care > baby-toothpaste"
+ },
+ {
+  "id": "L4-297",
+  "alias": "baby-teeth-care-products",
+  "name_en": "Baby Teeth Care",
+  "name_ar": "منتجات العناية بأسنان الأطفال",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > baby-oral-care > baby-teeth-care-products"
+ },
+ {
+  "id": "L3-258",
+  "alias": "cleaning-brushes",
+  "name_en": "Cleaning Brushes",
+  "name_ar": "فرش التنظيف",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > cleaning-tools > cleaning-brushes"
+ },
+ {
+  "id": "L4-307",
+  "alias": "dishwashing-sponges",
+  "name_en": "Sponges",
+  "name_ar": "اسفنجة الجلي",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > dish-washing > dish-washing-tools > dishwashing-sponges"
+ },
+ {
+  "id": "L4-308",
+  "alias": "sink-supplies-and-accessories",
+  "name_en": "Sink Supplies & Accessories",
+  "name_ar": "ملحقات حوض الغسيل",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > dish-washing > dish-washing-tools > sink-supplies-and-accessories"
+ },
+ {
+  "id": "L4-321",
+  "alias": "kitchen-oven-stove-cleaners",
+  "name_en": "Oven & Stove Cleaners",
+  "name_ar": "منظفات الأفران والطباخات",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > kitchen-detergents > kitchen-oven-stove-cleaners"
+ },
+ {
+  "id": "L4-322",
+  "alias": "kitchen-multipurpose-cleaners",
+  "name_en": "Kitchen Multipurpose Cleaners",
+  "name_ar": "منتجات تنظيف المطبخ",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > kitchen-detergents > kitchen-multipurpose-cleaners"
+ },
+ {
+  "id": "L3-261",
+  "alias": "carpet-detergents",
+  "name_en": "Carpet Cleaners",
+  "name_ar": "منظفات السجاد",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > carpet-detergents"
+ },
+ {
+  "id": "L4-342",
+  "alias": "sketching-pencils",
+  "name_en": "Sketching Pencils",
+  "name_ar": "أقلام رصاص للتظليل",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > shading-charcoal-pencils > sketching-pencils"
+ },
+ {
+  "id": "L4-343",
+  "alias": "charcoal-pencils",
+  "name_en": "Charcoal Pencils",
+  "name_ar": "أقلام الفحم",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > shading-charcoal-pencils > charcoal-pencils"
+ },
+ {
+  "id": "L4-341",
+  "alias": "crafting-paints",
+  "name_en": "Crafting Paints",
+  "name_ar": "ألوان الرسم على الأسطح المختلفة",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > multipurpose-paints > crafting-paints"
+ },
+ {
+  "id": "L4-344",
+  "alias": "fabric-paints",
+  "name_en": "Fabric Paints",
+  "name_ar": "ألوان الرسم على الأقمشة",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > multipurpose-paints > fabric-paints"
+ },
+ {
+  "id": "L4-345",
+  "alias": "face-body-paints",
+  "name_en": "Face & Body Paints",
+  "name_ar": "ألوان الرسم على الوجه والجسم",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > paints > multipurpose-paints > face-body-paints"
+ },
+ {
+  "id": "L3-265",
+  "alias": "painting-medium",
+  "name_en": "Painting Mediums",
+  "name_ar": "منتجات ومواد الرسم",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > brushes-tools > painting-medium"
+ },
+ {
+  "id": "L4-478",
+  "alias": "personal-use-tissues",
+  "name_en": "Personal Use Tissues",
+  "name_ar": "مناديل ورقية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > tissues-wet-wipes > personal-use-tissues"
+ },
+ {
+  "id": "L4-479",
+  "alias": "21313141",
+  "name_en": null,
+  "name_ar": null,
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > tissues-wet-wipes > 21313141"
+ },
+ {
+  "id": "L4-417",
+  "alias": "cooking-oil",
+  "name_en": "Cooking Oils",
+  "name_ar": "زيوت الطبخ",
+  "description": "",
+  "active": true,
+  "path": "grocery-and-food > basic-groceries > cooking-oil-ghee > cooking-oil"
+ },
+ {
+  "id": "L4-449",
+  "alias": "shows-movies-clothes",
+  "name_en": "Shows & Movies Clothes",
+  "name_ar": "ملابس الأفلام والمسلسلات",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-clothes > shows-movies-clothes"
+ },
+ {
+  "id": "L4-451",
+  "alias": "anime-clothes",
+  "name_en": "Anime Clothes",
+  "name_ar": "ملابس الأنيمي",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > merchandise-fandoms > fandom-clothes > anime-clothes"
+ },
+ {
+  "id": "L3-283",
+  "alias": "boards-whiteboards",
+  "name_en": "Boards & Whiteboards",
+  "name_ar": "ألواح وسبورات",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > boards-whiteboards"
+ },
+ {
+  "id": "L3-284",
+  "alias": "stationary-set",
+  "name_en": "Stationary Set",
+  "name_ar": "سيت قرطاسية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > stationary-set"
+ },
+ {
+  "id": "L4-461",
+  "alias": "stationary-pencils",
+  "name_en": "Stationary Pencils",
+  "name_ar": "أقلام رصاص",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > stationary-pens > stationary-pencils"
+ },
+ {
+  "id": "L4-462",
+  "alias": "ink-pen-ball-pen",
+  "name_en": "Ink Pens & Ball Pens",
+  "name_ar": "أقلام حبر وحبر جاف",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > stationary-pens > ink-pen-ball-pen"
+ },
+ {
+  "id": "L4-463",
+  "alias": "highlighter-marker",
+  "name_en": "Highlighter Marker",
+  "name_ar": "أقلام ماركر",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > stationary-pens > highlighter-marker"
+ },
+ {
+  "id": "L3-286",
+  "alias": "office-stationary",
+  "name_en": "Office Stationary",
+  "name_ar": "معدات مكتبية",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > office-stationary"
+ },
+ {
+  "id": "L3-287",
+  "alias": "stationary-notebooks",
+  "name_en": "Stationary Notebooks",
+  "name_ar": "دفاتر",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > stationary-notebooks"
+ },
+ {
+  "id": "L4-480",
+  "alias": "eraser",
+  "name_en": "Eraser",
+  "name_ar": "ممحاة",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > eraser-sharpener > eraser"
+ },
+ {
+  "id": "L4-481",
+  "alias": "sharpener",
+  "name_en": "Sharpener",
+  "name_ar": "مبراة",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > eraser-sharpener > sharpener"
+ },
+ {
+  "id": "L3-290",
+  "alias": "glass-detergents",
+  "name_en": "Glass Cleaners",
+  "name_ar": "منظفات الزجاج",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > glass-detergents"
+ },
+ {
+  "id": "L3-291",
+  "alias": "shoes-cleaning",
+  "name_en": "Shoes Cleaning",
+  "name_ar": "أصباغ وملمعات الأحذية",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > shoes-cleaning"
+ },
+ {
+  "id": "L4-483",
+  "alias": "lip-mask",
+  "name_en": "Lip Mask",
+  "name_ar": "ماسك",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > lip-care > lip-mask"
+ },
+ {
+  "id": "L4-484",
+  "alias": "lip-scrub",
+  "name_en": "Lip Scrub",
+  "name_ar": "مقشر",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > lip-care > lip-scrub"
+ },
+ {
+  "id": "L4-485",
+  "alias": "lip-balm",
+  "name_en": "Lip Balm",
+  "name_ar": "مرطب",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > lip-care > lip-balm"
+ },
+ {
+  "id": "L3-293",
+  "alias": "eye-care",
+  "name_en": "Eye Care",
+  "name_ar": "العناية بالعين",
+  "description": "",
+  "active": true,
+  "path": "beauty > skincare > eye-care"
+ },
+ {
+  "id": "L3-296",
+  "alias": "soap-bars",
+  "name_en": "Soap",
+  "name_ar": "صابون",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > hygiene-and-hand-wash > soap-bars"
+ },
+ {
+  "id": "L3-297",
+  "alias": "liquid-hand-wash",
+  "name_en": "Liquid Hand Wash",
+  "name_ar": "غسول الأيدي",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > hygiene-and-hand-wash > liquid-hand-wash"
+ },
+ {
+  "id": "L3-299",
+  "alias": "hygiene-gel",
+  "name_en": "Hand Sanitizer",
+  "name_ar": "معقم لليدين",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > hygiene-and-hand-wash > hygiene-gel"
+ },
+ {
+  "id": "L3-300",
+  "alias": "anti-bugs-appliances",
+  "name_en": "Anti Bugs Appliances",
+  "name_ar": "أجهزة الحماية من الحشرات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > vaccums-and-laundry > anti-bugs-appliances"
+ },
+ {
+  "id": "L3-301",
+  "alias": "anti-bugs-products",
+  "name_en": "Anti Bugs Products",
+  "name_ar": "المنتجات المضادة للحشرات",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > household-cleaning-supplies > anti-bugs-products"
+ },
+ {
+  "id": "L4-518",
+  "alias": "comics",
+  "name_en": "Comics",
+  "name_ar": "قصص مصورة",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > comics-manga > comics"
+ },
+ {
+  "id": "L3-303",
+  "alias": "unisex-watches",
+  "name_en": "Unisex Watches",
+  "name_ar": "ساعات للجنسين",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > watches-and-clocks > unisex-watches"
+ },
+ {
+  "id": "L3-306",
+  "alias": "chocolate-drinks",
+  "name_en": "Chocolate Drinks",
+  "name_ar": "مشروبات الشوكولاتة",
+  "description": "",
+  "active": true,
+  "path": "grocery-and-food > drinks > chocolate-drinks"
+ },
+ {
+  "id": "L3-307",
+  "alias": "shoes-accessories",
+  "name_en": "Shoes Accessories",
+  "name_ar": "ملحقات الأحذية",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > shoes-accessories"
+ },
+ {
+  "id": "L3-311",
+  "alias": "medical-gloves-masks",
+  "name_en": "Medical Gloves & Masks",
+  "name_ar": "قفازات وكمامات طبية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > medical-gloves-masks"
+ },
+ {
+  "id": "L4-765",
+  "alias": "spraypump",
+  "name_en": "spray pump ",
+  "name_ar": "مضخة رش ( فارة )",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > water-pumps > spraypump"
+ },
+ {
+  "id": "L4-766",
+  "alias": "waterpumpmotor",
+  "name_en": "water pump motor ",
+  "name_ar": "ماطور ضخ الماء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > water-pumps > waterpumpmotor"
+ },
+ {
+  "id": "L3-316",
+  "alias": "newborn-toys",
+  "name_en": "Newborn Toys",
+  "name_ar": "العاب حديثي الولادة",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > newborn-toys"
+ },
+ {
+  "id": "L3-317",
+  "alias": "laundry-accessories",
+  "name_en": "Laundry Accessories",
+  "name_ar": "إكسسوارات غسيل وتجفيف الملابس",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > laundry > laundry-accessories"
+ },
+ {
+  "id": "L3-319",
+  "alias": "inflatable-pools",
+  "name_en": "Inflatable Pools",
+  "name_ar": "مسابح نفخ",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > swimming-pools > inflatable-pools"
+ },
+ {
+  "id": "L4-531",
+  "alias": "pool-air-pumps",
+  "name_en": "Pool Air Pumps",
+  "name_ar": "منفاخ",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > swimming-pools > swimming-pools-accessories > pool-air-pumps"
+ },
+ {
+  "id": "L3-323",
+  "alias": "inflatable-toys",
+  "name_en": "Inflatable Toys",
+  "name_ar": "ألعاب قابلة للنفخ",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > toys-collection > inflatable-toys"
+ },
+ {
+  "id": "L3-324",
+  "alias": "itercom-system",
+  "name_en": "Intercom Systems",
+  "name_ar": "أنظمة الإتصال الداخلي",
+  "description": "",
+  "active": true,
+  "path": "electronics > audio-video-electronics > itercom-system"
+ },
+ {
+  "id": "L3-325",
+  "alias": "projectors",
+  "name_en": "Projectors",
+  "name_ar": "أجهزة العرض",
+  "description": "",
+  "active": true,
+  "path": "electronics > audio-video-electronics > projectors"
+ },
+ {
+  "id": "L3-326",
+  "alias": "engine-oils",
+  "name_en": "Engine Oils",
+  "name_ar": "زيوت محركات",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-oils > engine-oils"
+ },
+ {
+  "id": "L3-327",
+  "alias": "transmission-fluid",
+  "name_en": "Transmission Fluid",
+  "name_ar": "زيوت ناقل الحركة",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-oils > transmission-fluid"
+ },
+ {
+  "id": "L3-336",
+  "alias": "maternity-care",
+  "name_en": "Maternity Care",
+  "name_ar": "العناية بالحوامل",
+  "description": "",
+  "active": true,
+  "path": "kids > baby-hygiene-and-care > maternity-care"
+ },
+ {
+  "id": "L3-337",
+  "alias": "audio-recording-playing-equipment",
+  "name_en": "Audio Recorders & Players",
+  "name_ar": "أجهزة تشغيل وتسجيل الصوت",
+  "description": "",
+  "active": true,
+  "path": "electronics > audio-video-electronics > audio-recording-playing-equipment"
+ },
+ {
+  "id": "L4-716",
+  "alias": "unisex-tshirts",
+  "name_en": "Unisex T-Shirts",
+  "name_ar": "تيشيرت لكلا الجنسين",
+  "description": "تيشيرت لكلا الجنسين",
+  "active": true,
+  "path": "fashion > unisex-clothing > unisex-blouses > unisex-tshirts"
+ },
+ {
+  "id": "L3-339",
+  "alias": "refridgerator",
+  "name_en": "Refridgerators",
+  "name_ar": "ثلاجات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > refridgerator"
+ },
+ {
+  "id": "L3-342",
+  "alias": "crafts-tools",
+  "name_en": "Crafts Tools",
+  "name_ar": "ملحقات الأعمال اليدوية",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sculpting-crafts > crafts-tools"
+ },
+ {
+  "id": "L4-545",
+  "alias": "vehicles-cleaning-care",
+  "name_en": "Vehicles Cleaning & Care",
+  "name_ar": "منتجات التنظيف والعناية",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-accessories-appliances > vehicles-care-cleaning > vehicles-cleaning-care"
+ },
+ {
+  "id": "L4-546",
+  "alias": "car-air-freshners",
+  "name_en": "Car Air Freshners",
+  "name_ar": "معطرات السيارات",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-accessories-appliances > vehicles-care-cleaning > car-air-freshners"
+ },
+ {
+  "id": "L4-547",
+  "alias": "vehicles-cleaning-tools",
+  "name_en": "Vehicles Cleaning Tools",
+  "name_ar": "أدوات التنظيف والعناية بالسيارات",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-accessories-appliances > vehicles-care-cleaning > vehicles-cleaning-tools"
+ },
+ {
+  "id": "L3-346",
+  "alias": "vehicles-accessories",
+  "name_en": "Vehicles Accessories",
+  "name_ar": "إكسسوارات السيارات",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-accessories-appliances > vehicles-accessories"
+ },
+ {
+  "id": "L3-347",
+  "alias": "vehicles-security",
+  "name_en": "Vehicles Security",
+  "name_ar": "الحماية والأمان",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-accessories-appliances > vehicles-security"
+ },
+ {
+  "id": "L3-351",
+  "alias": "teenager-boys-jackets",
+  "name_en": "Boys Jackets",
+  "name_ar": "جاكيت",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-boys-clothing > teenager-boys-jackets"
+ },
+ {
+  "id": "L3-352",
+  "alias": "teenager-boys-pants",
+  "name_en": "Boys Pants",
+  "name_ar": "بنطلون",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-boys-clothing > teenager-boys-pants"
+ },
+ {
+  "id": "L3-353",
+  "alias": "teenager-boys-blouses",
+  "name_en": "Boys Tops & T-shirts",
+  "name_ar": "بلوز وتيشيرت",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-boys-clothing > teenager-boys-blouses"
+ },
+ {
+  "id": "L4-555",
+  "alias": "teenagers-boxers",
+  "name_en": "Teenager Boys' Boxers",
+  "name_ar": "بوكسر لليافعين",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-boys-clothing > teenagers-underwear > teenagers-boxers"
+ },
+ {
+  "id": "L4-557",
+  "alias": "teenager-boys-tank-top",
+  "name_en": "Boys Tank Tops",
+  "name_ar": "فانيلة",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-boys-clothing > teenagers-underwear > teenager-boys-tank-top"
+ },
+ {
+  "id": "L3-357",
+  "alias": "teenager-boys-homewear",
+  "name_en": "Boys Homewear",
+  "name_ar": "ملابس بيت",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-boys-clothing > teenager-boys-homewear"
+ },
+ {
+  "id": "L3-359",
+  "alias": "contact-lenses",
+  "name_en": "Contact Lenses",
+  "name_ar": "عدسات تجميلية",
+  "description": "",
+  "active": true,
+  "path": "beauty > lenses-and-lashes > contact-lenses"
+ },
+ {
+  "id": "L3-360",
+  "alias": "sketching-notebooks",
+  "name_en": "Sketching Notebooks",
+  "name_ar": "دفاتر الرسم",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sketchbooks-canvases > sketching-notebooks"
+ },
+ {
+  "id": "L3-363",
+  "alias": "drawing-tablets",
+  "name_en": "Drawing Tablets",
+  "name_ar": "أجهزة رسم لوحية",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > drawing-tablets"
+ },
+ {
+  "id": "L3-365",
+  "alias": "teenager-girls-pants",
+  "name_en": "Girls Pants",
+  "name_ar": "بنطلون",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-girls-clothing > teenager-girls-pants"
+ },
+ {
+  "id": "L3-366",
+  "alias": "teenager-girls-blouses",
+  "name_en": "Girls Tops & T-shirts",
+  "name_ar": "بلوز وتيشيرت",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-girls-clothing > teenager-girls-blouses"
+ },
+ {
+  "id": "L3-367",
+  "alias": "teenager-girls-sportswear",
+  "name_en": "Girls Sportswear",
+  "name_ar": "ملابس رياضية",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-girls-clothing > teenager-girls-sportswear"
+ },
+ {
+  "id": "L4-576",
+  "alias": "teenager-girls-tank-top",
+  "name_en": "Girls Tank Tops",
+  "name_ar": "فانيلة",
+  "description": "",
+  "active": true,
+  "path": "fashion > teenager-girls-clothing > teenager-girls-underwear > teenager-girls-tank-top"
+ },
+ {
+  "id": "L3-372",
+  "alias": "teenagers-blouses",
+  "name_en": "Blouses & T-shirts",
+  "name_ar": "بلوز وتيشيرت",
+  "description": "",
+  "active": true,
+  "path": "fashion > unisex-teenagers-clothing > teenagers-blouses"
+ },
+ {
+  "id": "L3-374",
+  "alias": "teenagers-socks",
+  "name_en": "Socks",
+  "name_ar": "جوارب",
+  "description": "",
+  "active": true,
+  "path": "fashion > unisex-teenagers-clothing > teenagers-socks"
+ },
+ {
+  "id": "L3-375",
+  "alias": "teenager-girls-homewear",
+  "name_en": "Girls Homewear",
+  "name_ar": "ملابس بيت",
+  "description": "ملابس بيت للفتيات اليافعات",
+  "active": true,
+  "path": "fashion > teenager-girls-clothing > teenager-girls-homewear"
+ },
+ {
+  "id": "L4-578",
+  "alias": "gaming-chairs",
+  "name_en": "Gaming Chairs",
+  "name_ar": "كراسي ألعاب",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > gaming-chairs-desks > gaming-chairs"
+ },
+ {
+  "id": "L4-579",
+  "alias": "gaming-desks",
+  "name_en": "Desks",
+  "name_ar": "طاولات",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > gaming-chairs-desks > gaming-desks"
+ },
+ {
+  "id": "L4-580",
+  "alias": "unisex-sneakers",
+  "name_en": "Sneakers",
+  "name_ar": "أحذية رياضية",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > unisex-shoes > unisex-sneakers"
+ },
+ {
+  "id": "L4-581",
+  "alias": "unisex-sandals",
+  "name_en": "Sandals",
+  "name_ar": "صندل",
+  "description": "",
+  "active": true,
+  "path": "fashion > shoes > unisex-shoes > unisex-sandals"
+ },
+ {
+  "id": "L4-582",
+  "alias": "women-niche-perfumes",
+  "name_en": "Women Niche Perfumes",
+  "name_ar": "عطور نيش نسائية",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > niche-perfumes > women-niche-perfumes"
+ },
+ {
+  "id": "L4-583",
+  "alias": "men-niche-perfumes",
+  "name_en": "Men Niche Perfumes",
+  "name_ar": "عطور نيش رجالية",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > niche-perfumes > men-niche-perfumes"
+ },
+ {
+  "id": "L4-584",
+  "alias": "unisex-niche-perfumes",
+  "name_en": "Unisex Niche Perfumes",
+  "name_ar": "عطور نيش لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "beauty > fragrance > niche-perfumes > unisex-niche-perfumes"
+ },
+ {
+  "id": "L3-381",
+  "alias": "ironing-tables",
+  "name_en": "Ironing Tables",
+  "name_ar": "ملحقات كي الملابس",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > laundry > ironing-tables"
+ },
+ {
+  "id": "L3-382",
+  "alias": "kids-bags",
+  "name_en": "Kids' Bags",
+  "name_ar": "حقائب للأطفال",
+  "description": "",
+  "active": true,
+  "path": "fashion > bags > kids-bags"
+ },
+ {
+  "id": "L3-383",
+  "alias": "freezer",
+  "name_en": "Freezers",
+  "name_ar": "مجمدات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > freezer"
+ },
+ {
+  "id": "L3-384",
+  "alias": "cufflinks",
+  "name_en": "Cufflinks",
+  "name_ar": "أزرار أكمام",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > cufflinks"
+ },
+ {
+  "id": "L3-386",
+  "alias": "safety-security",
+  "name_en": "Safety & Security",
+  "name_ar": "الحماية والأمان",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > home-divisions > safety-security"
+ },
+ {
+  "id": "L3-387",
+  "alias": "remote-controls",
+  "name_en": "Remote Controls",
+  "name_ar": "أجهزة التحكم عن بعد",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > tv-video-and-audio > remote-controls"
+ },
+ {
+  "id": "L4-602",
+  "alias": "picnics",
+  "name_en": "Picnics",
+  "name_ar": "النزهات",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > garden-and-outdoor > barbeque-picnic > picnics"
+ },
+ {
+  "id": "L4-603",
+  "alias": "barbeque",
+  "name_en": "Barbeque",
+  "name_ar": "الشواء",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > garden-and-outdoor > barbeque-picnic > barbeque"
+ },
+ {
+  "id": "L3-389",
+  "alias": "softwear-activation-keys",
+  "name_en": "Software Activation Keys",
+  "name_ar": "كودات تفعيل البرمجيات",
+  "description": "",
+  "active": true,
+  "path": "electronics > computers-and-peripherals > softwear-activation-keys"
+ },
+ {
+  "id": "L4-609",
+  "alias": "kids-educational-books",
+  "name_en": "Kids Educational Books",
+  "name_ar": "كتب تعليمية للأطفال",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > kids--books-stories > kids-educational-books"
+ },
+ {
+  "id": "L4-610",
+  "alias": "kids-stories",
+  "name_en": "Kids Stories",
+  "name_ar": "قصص للأطفال",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > book-novel > kids--books-stories > kids-stories"
+ },
+ {
+  "id": "L4-616",
+  "alias": "household-personal-use-tissues",
+  "name_en": "Household & Personal Use Tissues",
+  "name_ar": "مناديل منزل واستخدام شخصي",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > tissues-and-wetwipes > household-and-personal-use-tissues > household-personal-use-tissues"
+ },
+ {
+  "id": "L4-619",
+  "alias": "personal-use-wet-wipes",
+  "name_en": "Personal Use Wet Wipes",
+  "name_ar": "مناديل مبللة للإستخدام الشخصي",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > tissues-and-wetwipes > household-and-personal-use-wipes > personal-use-wet-wipes"
+ },
+ {
+  "id": "L4-620",
+  "alias": "household-cleaning-wipes",
+  "name_en": "Household Cleaning Wet Wipes",
+  "name_ar": "مناديل مبللة لتنظيف المنزل",
+  "description": "",
+  "active": true,
+  "path": "cleaning-supplies > tissues-and-wetwipes > household-and-personal-use-wipes > household-cleaning-wipes"
+ },
+ {
+  "id": "L4-621",
+  "alias": "gifting-cards",
+  "name_en": "Gifting Cards",
+  "name_ar": "بطاقات المعايدة",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > gifts > gifting-cards"
+ },
+ {
+  "id": "L3-394",
+  "alias": "adults-unisex-socks",
+  "name_en": "Unisex Socks",
+  "name_ar": "جوارب لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "fashion > unisex-clothing > adults-unisex-socks"
+ },
+ {
+  "id": "L4-627",
+  "alias": "unisex-hats",
+  "name_en": "Unisex Hats",
+  "name_ar": "قبعات لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > unisex-accessories > unisex-hats"
+ },
+ {
+  "id": "L4-714",
+  "alias": "unisex-scarves-gloves",
+  "name_en": "Unisex Scarves & Gloves",
+  "name_ar": "سكارف وقفازات",
+  "description": "سكارف وقفازات",
+  "active": true,
+  "path": "accessories-and-watches > accessories > unisex-accessories > unisex-scarves-gloves"
+ },
+ {
+  "id": "L3-397",
+  "alias": "sticky-paper-notes",
+  "name_en": "Sticky Notes Paper",
+  "name_ar": "أوراق ملاحظات",
+  "description": "",
+  "active": true,
+  "path": "books-and-stationery > stationary > sticky-paper-notes"
+ },
+ {
+  "id": "L3-399",
+  "alias": "miswag-bundles",
+  "name_en": "Miswag Bundles",
+  "name_ar": "باقات مسواگ",
+  "description": "باقات مسواگ-مواد غذائية-سلات غذائية",
+  "active": true,
+  "path": "grocery-and-food > basic-groceries > miswag-bundles"
+ },
+ {
+  "id": "L4-635",
+  "alias": "roll-on-deodorants",
+  "name_en": "Roll On Deodorants",
+  "name_ar": "رول مزيل للتعرق",
+  "description": "رول مزيل للتعرق",
+  "active": true,
+  "path": "beauty > fragrance > body-deodorants > roll-on-deodorants"
+ },
+ {
+  "id": "L4-636",
+  "alias": "stick-deodorants",
+  "name_en": "Deodorant Sticks",
+  "name_ar": "صابون مزيل للتعرق",
+  "description": "صابون مزيل للتعرق",
+  "active": true,
+  "path": "beauty > fragrance > body-deodorants > stick-deodorants"
+ },
+ {
+  "id": "L4-637",
+  "alias": "spray-deodorants",
+  "name_en": "Deodorant Spray",
+  "name_ar": "بخاخ مزيل للتعرق",
+  "description": "بخاخ مزيل للتعرق",
+  "active": true,
+  "path": "beauty > fragrance > body-deodorants > spray-deodorants"
+ },
+ {
+  "id": "L3-401",
+  "alias": "musical-instruments1",
+  "name_en": "Musical Instruments",
+  "name_ar": "الآلات الموسيقية",
+  "description": "قسم يضم جميع الآلات الموسيقية",
+  "active": true,
+  "path": "art-and-crafts > musical-instruments > musical-instruments1"
+ },
+ {
+  "id": "L3-402",
+  "alias": "musical-instruments-accessories",
+  "name_en": "Musical Instruments Accessories",
+  "name_ar": "ملحقات الآلات الموسيقية",
+  "description": "قسم يضم ملحقات واكسسورات الآلات الموسيقية",
+  "active": true,
+  "path": "art-and-crafts > musical-instruments > musical-instruments-accessories"
+ },
+ {
+  "id": "L3-403",
+  "alias": "women-jeans",
+  "name_en": "Women's jeans",
+  "name_ar": "جينز نسائي",
+  "description": "This division is for Women Jeans.",
+  "active": true,
+  "path": "fashion > women-clothing > women-jeans"
+ },
+ {
+  "id": "L3-404",
+  "alias": "miswag-gift-cards",
+  "name_en": "miswag-gift-cards",
+  "name_ar": "بطاقات هدايا مسواگ",
+  "description": "بطاقات هدايا مسواگ",
+  "active": true,
+  "path": "electronics > digital-cards > miswag-gift-cards"
+ },
+ {
+  "id": "L3-405",
+  "alias": "men-short-and-capri",
+  "name_en": "Men Short and Capri",
+  "name_ar": "شورت وبرمودا رجالي",
+  "description": "contains all Men Short and Capri",
+  "active": true,
+  "path": "fashion > men-clothing > men-short-and-capri"
+ },
+ {
+  "id": "L3-406",
+  "alias": "women-outfits-jumpsuits",
+  "name_en": "Women Sets & Jumpsuits  ",
+  "name_ar": "أطقم ملابس وجمبسوت نسائي ",
+  "description": "it contains all Women Outfits",
+  "active": true,
+  "path": "fashion > women-clothing > women-outfits-jumpsuits"
+ },
+ {
+  "id": "L3-407",
+  "alias": "tote-bags",
+  "name_en": "Tote Bags ",
+  "name_ar": "حقائب قماشية ",
+  "description": "contains all tote bags ",
+  "active": true,
+  "path": "fashion > bags > tote-bags"
+ },
+ {
+  "id": "L4-661",
+  "alias": "women-sweaters",
+  "name_en": "Women Sweaters",
+  "name_ar": "سويتر نسائي",
+  "description": "سويتر نسائي",
+  "active": true,
+  "path": "fashion > women-clothing > sweatshirts-hoodies > women-sweaters"
+ },
+ {
+  "id": "L4-662",
+  "alias": "women-hoodies",
+  "name_en": "Women Hoodies ",
+  "name_ar": "هودي نسائي",
+  "description": "هودي نسائي",
+  "active": true,
+  "path": "fashion > women-clothing > sweatshirts-hoodies > women-hoodies"
+ },
+ {
+  "id": "L4-663",
+  "alias": "men-sweaters",
+  "name_en": "Men Sweaters",
+  "name_ar": "سويتر رجالي",
+  "description": "Men Sweaters",
+  "active": true,
+  "path": "fashion > men-clothing > men-sweatshirt-hoodies > men-sweaters"
+ },
+ {
+  "id": "L4-664",
+  "alias": "men-hoodies",
+  "name_en": "Men Hoodies",
+  "name_ar": "هودي رجالي",
+  "description": "Men Hoodies",
+  "active": true,
+  "path": "fashion > men-clothing > men-sweatshirt-hoodies > men-hoodies"
+ },
+ {
+  "id": "L3-411",
+  "alias": "men-jeans",
+  "name_en": "Men Jeans",
+  "name_ar": "جينز رجالي",
+  "description": "Men Jeans",
+  "active": true,
+  "path": "fashion > men-clothing > men-jeans"
+ },
+ {
+  "id": "L4-675",
+  "alias": "kingbedrooms",
+  "name_en": "King Bedrooms",
+  "name_ar": "غرف نوم نفرين",
+  "description": "contains all the king bedrooms & it's accessories",
+  "active": true,
+  "path": "home-kitchen-and-garden > furniture > bedrooms > kingbedrooms"
+ },
+ {
+  "id": "L4-678",
+  "alias": "bedsmattresses",
+  "name_en": "Beds Mattresses",
+  "name_ar": "مراتب الأسّرة",
+  "description": "ontains all the Beds Mattresses",
+  "active": true,
+  "path": "home-kitchen-and-garden > furniture > bedrooms > bedsmattresses"
+ },
+ {
+  "id": "L4-679",
+  "alias": "small-center-tables",
+  "name_en": "Coffee & Side Tables",
+  "name_ar": "طبلات وطاولات وسطية",
+  "description": "Contains Small & Center Tables",
+  "active": true,
+  "path": "home-kitchen-and-garden > furniture > livingrooms > small-center-tables"
+ },
+ {
+  "id": "L4-794",
+  "alias": "singlechair",
+  "name_en": "Single Chair",
+  "name_ar": "كراسي مفردة",
+  "description": "",
+  "active": true,
+  "path": "home-kitchen-and-garden > furniture > livingrooms > singlechair"
+ },
+ {
+  "id": "L4-685",
+  "alias": "bean-bags",
+  "name_en": "Bean Bags",
+  "name_ar": "آرائك",
+  "description": "contains all the bean bags and related items",
+  "active": true,
+  "path": "home-kitchen-and-garden > furniture > home-furniture-accessories > bean-bags"
+ },
+ {
+  "id": "L4-686",
+  "alias": "shelvesandclosets",
+  "name_en": "Shelves And Closets",
+  "name_ar": "رفوف وخزائن",
+  "description": "contains all home shelves ",
+  "active": true,
+  "path": "home-kitchen-and-garden > furniture > home-furniture-accessories > shelvesandclosets"
+ },
+ {
+  "id": "L3-424",
+  "alias": "costumes-clothing",
+  "name_en": "Costumes Outfits",
+  "name_ar": "ملابس التنكر",
+  "description": "ملابس التنكر",
+  "active": true,
+  "path": "fashion > seasonal-customes-cosplay > costumes-clothing"
+ },
+ {
+  "id": "L3-425",
+  "alias": "costumes-accessories",
+  "name_en": "Costumes Accessories ",
+  "name_ar": "إكسسوارات وملحقات التنكر",
+  "description": "إكسسوارات وملحقات التنكر",
+  "active": true,
+  "path": "fashion > seasonal-customes-cosplay > costumes-accessories"
+ },
+ {
+  "id": "L3-426",
+  "alias": "building-bricks",
+  "name_en": "Building Bricks",
+  "name_ar": "المكعبات",
+  "description": "contains all LEGO Toys",
+  "active": true,
+  "path": "toys-and-entertainment > lego > building-bricks"
+ },
+ {
+  "id": "L3-427",
+  "alias": "games-gift-cards",
+  "name_en": "Online Games Gift Cards",
+  "name_ar": "بطاقات الألعاب",
+  "description": "بطاقات الألعاب",
+  "active": true,
+  "path": "electronics > digital-cards > games-gift-cards"
+ },
+ {
+  "id": "L3-428",
+  "alias": "other-digital-cards",
+  "name_en": "Other Digital Card",
+  "name_ar": "بطاقات رقمية اخرى",
+  "description": "بطاقات رقمية اخرى",
+  "active": true,
+  "path": "electronics > digital-cards > other-digital-cards"
+ },
+ {
+  "id": "L3-431",
+  "alias": "air-purifiers",
+  "name_en": "Air Purifiers",
+  "name_ar": "منقيات الهواء",
+  "description": "منقيات الهواء",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > air-purifiers"
+ },
+ {
+  "id": "L3-433",
+  "alias": "men-suits",
+  "name_en": "Mens Suit",
+  "name_ar": "بدلة رسمية",
+  "description": "",
+  "active": true,
+  "path": "fashion > men-clothing > men-suits"
+ },
+ {
+  "id": "L3-440",
+  "alias": "women-jeans-newtemp",
+  "name_en": "Jeans",
+  "name_ar": "جينز نسائي ",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-jeans > women-jeans-newtemp"
+ },
+ {
+  "id": "L3-441",
+  "alias": "women-pants-trousers-new",
+  "name_en": "Casual Pants & Sweatpants ",
+  "name_ar": "بنطلون قماش للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-pants > women-pants-trousers-new"
+ },
+ {
+  "id": "L3-442",
+  "alias": "women-tshirt-top-newtemp",
+  "name_en": "T-Shirt & Top",
+  "name_ar": "تيشيرت وتوب",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-tshirts > women-tshirt-top-newtemp"
+ },
+ {
+  "id": "L3-443",
+  "alias": "women-dress-newtemp",
+  "name_en": "Dresses",
+  "name_ar": "فستان",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-dresses > women-dress-newtemp"
+ },
+ {
+  "id": "L3-444",
+  "alias": "women-shirt-newtemp",
+  "name_en": "Women Shirts",
+  "name_ar": "قميص نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-shirts > women-shirt-newtemp"
+ },
+ {
+  "id": "L3-445",
+  "alias": "women-skirt-newtemp",
+  "name_en": "Skirt",
+  "name_ar": "تنورة",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-skirts > women-skirt-newtemp"
+ },
+ {
+  "id": "L3-447",
+  "alias": "women-pajama-set-new",
+  "name_en": "Women Pajama Set ",
+  "name_ar": "سيت بيجاما نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-homewear > women-pajama-set-new"
+ },
+ {
+  "id": "L3-448",
+  "alias": "women-short-pajama-set-new",
+  "name_en": "Women Short Pajamas Set",
+  "name_ar": "سيت بيجاما شورت نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-homewear > women-short-pajama-set-new"
+ },
+ {
+  "id": "L3-449",
+  "alias": "women-pajama-top-new",
+  "name_en": "Women Pajama Top",
+  "name_ar": "توب بيجاما نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-homewear > women-pajama-top-new"
+ },
+ {
+  "id": "L3-450",
+  "alias": "women-pajama-bottom-new",
+  "name_en": "Women Pajama Bottoms",
+  "name_ar": "بنطلون بيجاما نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-homewear > women-pajama-bottom-new"
+ },
+ {
+  "id": "L3-451",
+  "alias": "women-nightgown-new",
+  "name_en": "Night Gown",
+  "name_ar": "دشداشة",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-homewear > women-nightgown-new"
+ },
+ {
+  "id": "L3-452",
+  "alias": "women-heels-new",
+  "name_en": "Heels",
+  "name_ar": "حذاء كعب",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-shoes > women-heels-new"
+ },
+ {
+  "id": "L3-453",
+  "alias": "women-casual-flat-shoes-new",
+  "name_en": "Women Casual Flat Shoes",
+  "name_ar": "حذاء يومي مريح نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-shoes > women-casual-flat-shoes-new"
+ },
+ {
+  "id": "L3-454",
+  "alias": "women-sandals-new",
+  "name_en": "Women Sandals ",
+  "name_ar": "صندل وشحاطة نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-shoes > women-sandals-new"
+ },
+ {
+  "id": "L3-455",
+  "alias": "women-sport-shoes-new",
+  "name_en": "Women Sport Shoes ",
+  "name_ar": "أحذية رياضية للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-shoes > women-sport-shoes-new"
+ },
+ {
+  "id": "L3-457",
+  "alias": "women-boots-new",
+  "name_en": "Women Boots",
+  "name_ar": "بوت نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-shoes > women-boots-new"
+ },
+ {
+  "id": "L3-459",
+  "alias": "women-long-dress-new",
+  "name_en": "Long Dresses",
+  "name_ar": "فستان طويل",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-dresses > women-long-dress-new"
+ },
+ {
+  "id": "L3-460",
+  "alias": "women-evening-dress-new",
+  "name_en": "Evening Dress",
+  "name_ar": "فساتين سهرة ومناسبات",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-dresses > women-evening-dress-new"
+ },
+ {
+  "id": "L3-461",
+  "alias": "men-tshirt-new",
+  "name_en": "T-Shirt",
+  "name_ar": "تيشيرت رجالي",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-tshirts > men-tshirt-new"
+ },
+ {
+  "id": "L3-464",
+  "alias": "women-bags-new-temp",
+  "name_en": "Women Bags",
+  "name_ar": "حقائب نسائية",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-bags > women-bags-new-temp"
+ },
+ {
+  "id": "L3-468",
+  "alias": "women-tops",
+  "name_en": "Women Tops",
+  "name_ar": "توب نسائي",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-tshirts > women-tops"
+ },
+ {
+  "id": "L3-471",
+  "alias": "men-belts-new",
+  "name_en": "Men Belts",
+  "name_ar": "أحزمة للرجال",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-accessories-new > men-belts-new"
+ },
+ {
+  "id": "L3-476",
+  "alias": "women-belts-new",
+  "name_en": "Women Belts",
+  "name_ar": "أحزمة للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-accessories-new > women-belts-new"
+ },
+ {
+  "id": "L3-478",
+  "alias": "women-clothing-set-new",
+  "name_en": "Women Sets",
+  "name_ar": "سيت ملابس للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-sets-jumpsuits > women-clothing-set-new"
+ },
+ {
+  "id": "L3-480",
+  "alias": "women-headscarf-new",
+  "name_en": "Headscarf ",
+  "name_ar": "شال وشيلة ",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-hijab-scarf-new > women-headscarf-new"
+ },
+ {
+  "id": "L3-483",
+  "alias": "men-casual-jackets-new",
+  "name_en": "Men Jackets ",
+  "name_ar": "قمصلة وجاكيت رجالي ",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-jackets-new > men-casual-jackets-new"
+ },
+ {
+  "id": "L3-484",
+  "alias": "men-capri-new",
+  "name_en": "Men's Capri",
+  "name_ar": "برمودة رجالي",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-shorts-capri-new > men-capri-new"
+ },
+ {
+  "id": "L3-487",
+  "alias": "men-tanktops-undershirts",
+  "name_en": "Men Tank tops & Undershirts ",
+  "name_ar": "فانيلة وتيشيرت داخلي للرجال",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-underwear-new > men-tanktops-undershirts"
+ },
+ {
+  "id": "L3-489",
+  "alias": "men-boxers-new",
+  "name_en": "Men Boxers",
+  "name_ar": "بوكسر",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-underwear-new > men-boxers-new"
+ },
+ {
+  "id": "L3-492",
+  "alias": "men-hoodies-new",
+  "name_en": "Men Hoodies",
+  "name_ar": "هودي رجالي",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-sweaters-hoodies-new > men-hoodies-new"
+ },
+ {
+  "id": "L3-493",
+  "alias": "men-briefs-jockstrap",
+  "name_en": "Men Briefs & Jockstrap Underwear",
+  "name_ar": "بريف وجوكي رجالي",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-underwear-new > men-briefs-jockstrap"
+ },
+ {
+  "id": "L3-495",
+  "alias": "men-pajama-set",
+  "name_en": "Men's Pajama Set",
+  "name_ar": "سيت بيجاما رجالي",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-homewear-new > men-pajama-set"
+ },
+ {
+  "id": "L3-496",
+  "alias": "men-swimwear-new",
+  "name_en": "Men Swimwear ",
+  "name_ar": "ملابس السباحة للرجال",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-sportswear-swimwear > men-swimwear-new"
+ },
+ {
+  "id": "L4-735",
+  "alias": "men-sports-sweatpants-leggings",
+  "name_en": "Men Sports Sweatpants & Leggings",
+  "name_ar": "بيجاما وسروال رياضي للرجال",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-sportswear-swimwear > men-sportswear-new > men-sports-sweatpants-leggings"
+ },
+ {
+  "id": "L4-736",
+  "alias": "men-sports-shorts-new",
+  "name_en": "Men Sports Shorts ",
+  "name_ar": "شورت رياضي للرجال",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-sportswear-swimwear > men-sportswear-new > men-sports-shorts-new"
+ },
+ {
+  "id": "L4-738",
+  "alias": "men-sports-tops-new",
+  "name_en": "Men Sports Tops",
+  "name_ar": "تيشيرت وتوب رياضي للرجال",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-sportswear-swimwear > men-sportswear-new > men-sports-tops-new"
+ },
+ {
+  "id": "L3-498",
+  "alias": "men-socks-new-l3",
+  "name_en": "Men Socks",
+  "name_ar": "جوارب رجالية ",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-socks-new-l2 > men-socks-new-l3"
+ },
+ {
+  "id": "L3-499",
+  "alias": "men-sports-shoes-sneakers",
+  "name_en": "Men Sports Shoes",
+  "name_ar": "حذاء رياضي للرجال",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-shoes-new > men-sports-shoes-sneakers"
+ },
+ {
+  "id": "L3-502",
+  "alias": "causal-men-shoes-new",
+  "name_en": "Casual Men Shoes",
+  "name_ar": "حذاء يومي مريح",
+  "description": "",
+  "active": true,
+  "path": "men-fashion > men-shoes-new > causal-men-shoes-new"
+ },
+ {
+  "id": "L3-507",
+  "alias": "women-hoodies-new",
+  "name_en": "Women Hoodies",
+  "name_ar": "هودي للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > womens-sweaters-hoodies-new > women-hoodies-new"
+ },
+ {
+  "id": "L3-508",
+  "alias": "women-sweaters-new",
+  "name_en": "Women Sweaters",
+  "name_ar": "سويتر للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > womens-sweaters-hoodies-new > women-sweaters-new"
+ },
+ {
+  "id": "L4-745",
+  "alias": "women-sports-bottoms-new",
+  "name_en": "Women Sports Leggings & Shorts",
+  "name_ar": "سروال وستريج رياضي للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-sportswear-swimwear > women-sportswear-new > women-sports-bottoms-new"
+ },
+ {
+  "id": "L4-746",
+  "alias": "women-sport-tops-new",
+  "name_en": "Women Sports Tops",
+  "name_ar": "تيشيرت وتوب رياضي للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-sportswear-swimwear > women-sportswear-new > women-sport-tops-new"
+ },
+ {
+  "id": "L4-747",
+  "alias": "women-sports-bra-new",
+  "name_en": "Women Sports Bra",
+  "name_ar": "حمالة صدر رياضية",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-sportswear-swimwear > women-sportswear-new > women-sports-bra-new"
+ },
+ {
+  "id": "L3-511",
+  "alias": "women-swimwear-new",
+  "name_en": "Women Swimming Attire ",
+  "name_ar": "ملابس السباحة للنساء",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-sportswear-swimwear > women-swimwear-new"
+ },
+ {
+  "id": "L4-749",
+  "alias": "ceilingfan",
+  "name_en": "ceiling fan",
+  "name_ar": "مروحة سقفية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > airrecyclingdevices > ceilingfan"
+ },
+ {
+  "id": "L4-750",
+  "alias": "standfans",
+  "name_en": "table fans",
+  "name_ar": "مراوح منضدية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > airrecyclingdevices > standfans"
+ },
+ {
+  "id": "L4-752",
+  "alias": "standfans2",
+  "name_en": "stand fans",
+  "name_ar": "مراوح عمودية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > airrecyclingdevices > standfans2"
+ },
+ {
+  "id": "L4-811",
+  "alias": "wallfan",
+  "name_en": "Wall mounted fan",
+  "name_ar": "مروحة جدارية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > heating-and-air-conditioning > airrecyclingdevices > wallfan"
+ },
+ {
+  "id": "L3-514",
+  "alias": "waterpurificationdevices",
+  "name_en": "water purification devices ",
+  "name_ar": "أجهزة تنقية الماء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > waterpurificationdevices"
+ },
+ {
+  "id": "L3-516",
+  "alias": "airfilters",
+  "name_en": "air filters",
+  "name_ar": "مرشحات الهواء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > airfilters"
+ },
+ {
+  "id": "L3-517",
+  "alias": "watercooler",
+  "name_en": "water dispenser ",
+  "name_ar": "براد ماء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > kitchen-appliances > watercooler"
+ },
+ {
+  "id": "L3-518",
+  "alias": "tvstands",
+  "name_en": "tv stands",
+  "name_ar": "ستاندات الشاشات",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > tv-video-and-audio > tvstands"
+ },
+ {
+  "id": "L3-519",
+  "alias": "waterheater",
+  "name_en": "water heater",
+  "name_ar": "سخان الماء",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > electrical-supplies > waterheater"
+ },
+ {
+  "id": "L4-767",
+  "alias": "smart-watches-new",
+  "name_en": "Smart Watches",
+  "name_ar": "الساعات الذكية",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > smart-watches-and-accessories > smart-watches-new"
+ },
+ {
+  "id": "L4-768",
+  "alias": "smart-watches-accessories-new",
+  "name_en": "Smart Watches Accessories",
+  "name_ar": "ملحقات الساعات الذكية",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > smart-watches-and-accessories > smart-watches-accessories-new"
+ },
+ {
+  "id": "L4-769",
+  "alias": "mobile-covers-new",
+  "name_en": "Mobile Covers",
+  "name_ar": "كفرات وحافظات الموبايل",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > cases-and-covers-accessories > mobile-covers-new"
+ },
+ {
+  "id": "L4-770",
+  "alias": "airpods-headsets-covers",
+  "name_en": "Airpds and headsets covers",
+  "name_ar": "كفرات وحافظات السماعات",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > cases-and-covers-accessories > airpods-headsets-covers"
+ },
+ {
+  "id": "L4-771",
+  "alias": "tablets-ipad-covers",
+  "name_en": "Tablets and iPad Covers",
+  "name_ar": "كفرات وكيبوردات التابلت والايباد",
+  "description": "",
+  "active": true,
+  "path": "electronics > handheld-devices > cases-and-covers-accessories > tablets-ipad-covers"
+ },
+ {
+  "id": "L3-522",
+  "alias": "ups-devices",
+  "name_en": "ups and inverters",
+  "name_ar": "يو بي اس وعاكسات",
+  "description": "",
+  "active": true,
+  "path": "electronics > power-solutions > ups-devices"
+ },
+ {
+  "id": "L3-523",
+  "alias": "ups-batteries-and-accessoires",
+  "name_en": "UPS Batteries and accessories ",
+  "name_ar": "بطاريات وملحقات",
+  "description": "",
+  "active": true,
+  "path": "electronics > power-solutions > ups-batteries-and-accessoires"
+ },
+ {
+  "id": "L3-524",
+  "alias": "gold-hand-chain",
+  "name_en": "Hand Chain",
+  "name_ar": "شباحية",
+  "description": "",
+  "active": true,
+  "path": "gold > gold-bracelets > gold-hand-chain"
+ },
+ {
+  "id": "L3-525",
+  "alias": "gold-bangles-bracelets",
+  "name_en": "Bangles Bracelets",
+  "name_ar": "اساور ثابتة",
+  "description": "",
+  "active": true,
+  "path": "gold > gold-bracelets > gold-bangles-bracelets"
+ },
+ {
+  "id": "L3-526",
+  "alias": "gold-charm-bracelets",
+  "name_en": "Charm Bracelets",
+  "name_ar": "اساور متحركة",
+  "description": "",
+  "active": true,
+  "path": "gold > gold-bracelets > gold-charm-bracelets"
+ },
+ {
+  "id": "L3-527",
+  "alias": "plain-gold-rings",
+  "name_en": "Plain Gold Rings",
+  "name_ar": "حلقات",
+  "description": "",
+  "active": true,
+  "path": "gold > gold-rings > plain-gold-rings"
+ },
+ {
+  "id": "L3-528",
+  "alias": "gold-bands",
+  "name_en": "Gold Bands",
+  "name_ar": "محابس",
+  "description": "",
+  "active": true,
+  "path": "gold > gold-rings > gold-bands"
+ },
+ {
+  "id": "L3-529",
+  "alias": "casting-bar",
+  "name_en": "Casting Bar",
+  "name_ar": "كاستنك بار",
+  "description": "",
+  "active": true,
+  "path": "gold > goldbars > casting-bar"
+ },
+ {
+  "id": "L3-530",
+  "alias": "maintining-bar",
+  "name_en": "Maintining Bar",
+  "name_ar": "مينتنك بار",
+  "description": "",
+  "active": true,
+  "path": "gold > goldbars > maintining-bar"
+ },
+ {
+  "id": "L3-536",
+  "alias": "gaming-accessories1",
+  "name_en": "Video Game Accessories",
+  "name_ar": "ملحقات العاب الفيديو",
+  "description": "",
+  "active": true,
+  "path": "electronics > video-gaming1 > gaming-accessories1"
+ },
+ {
+  "id": "L3-538",
+  "alias": "various-electronic-accessories",
+  "name_en": "Various Electronic Devices & Accessories",
+  "name_ar": "اجهزة و ملحقات متنوعة",
+  "description": "",
+  "active": true,
+  "path": "electronics > electronic-accessories > various-electronic-accessories"
+ },
+ {
+  "id": "L3-539",
+  "alias": "smart-home-devices-and-accessories",
+  "name_en": "Smart Home Devices & Accessories",
+  "name_ar": "المنزل الذكي",
+  "description": "",
+  "active": true,
+  "path": "electronics > electronic-accessories > smart-home-devices-and-accessories"
+ },
+ {
+  "id": "L3-540",
+  "alias": "sewing-machines",
+  "name_en": "Sewing Machines",
+  "name_ar": "مكائن الخياطة",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sewing-and-embroidery > sewing-machines"
+ },
+ {
+  "id": "L3-541",
+  "alias": "sewing-machines-accessories",
+  "name_en": "Sewing Machines Accessories ",
+  "name_ar": "ملحقات مكائن الخياطة",
+  "description": "",
+  "active": true,
+  "path": "art-and-crafts > sewing-and-embroidery > sewing-machines-accessories"
+ },
+ {
+  "id": "L3-542",
+  "alias": "women-lingerie-new25",
+  "name_en": "Women Lingerie",
+  "name_ar": "ملابس نوم",
+  "description": "",
+  "active": true,
+  "path": "women-fashion > women-underwear > women-lingerie-new25"
+ },
+ {
+  "id": "L3-543",
+  "alias": "brake-oil",
+  "name_en": "Brake Oil",
+  "name_ar": "زيوت بريك",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > vehicles-oils > brake-oil"
+ },
+ {
+  "id": "L3-544",
+  "alias": "multipurpose-makeup-bags",
+  "name_en": "Multipurpose & Makeup Bags",
+  "name_ar": "حقائب إكسسوارات ومكياج",
+  "description": "",
+  "active": true,
+  "path": "fashion > bags > multipurpose-makeup-bags"
+ },
+ {
+  "id": "L3-545",
+  "alias": "unisex-medical-apparel",
+  "name_en": "Unisex medical Apparel",
+  "name_ar": "ملابس طبية لكلا الجنسين",
+  "description": "",
+  "active": true,
+  "path": "fashion > medical-apparel > unisex-medical-apparel"
+ },
+ {
+  "id": "L3-546",
+  "alias": "challenges",
+  "name_en": "Challenges",
+  "name_ar": "تحديات ",
+  "description": "",
+  "active": true,
+  "path": "toys-and-entertainment > 1670937145 > challenges"
+ },
+ {
+  "id": "L3-547",
+  "alias": "doorscratcher",
+  "name_en": "Video Doorphone",
+  "name_ar": "حاكية باب",
+  "description": "",
+  "active": true,
+  "path": "electronics > security-systems > doorscratcher"
+ },
+ {
+  "id": "L3-548",
+  "alias": "videodoorphone",
+  "name_en": "Video Doorphone",
+  "name_ar": "حاكية باب",
+  "description": "",
+  "active": true,
+  "path": "electronics > security-systems > videodoorphone"
+ },
+ {
+  "id": "L3-549",
+  "alias": "pbxcentral",
+  "name_en": "PBX central",
+  "name_ar": "البدالة",
+  "description": "",
+  "active": true,
+  "path": "electronics > audio-video-electronics > pbxcentral"
+ },
+ {
+  "id": "L3-550",
+  "alias": "motorcycless",
+  "name_en": "Motorcycles",
+  "name_ar": "دراجات",
+  "description": "",
+  "active": true,
+  "path": "cars-and-vehicles > motorcycles > motorcycless"
+ },
+ {
+  "id": "L3-551",
+  "alias": "solar-batteries",
+  "name_en": "Solar Batteries",
+  "name_ar": "بطاريات الطاقة الشمسية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > solarsystems > solar-batteries"
+ },
+ {
+  "id": "L3-552",
+  "alias": "solar-panels",
+  "name_en": "Solar Panels",
+  "name_ar": "الواح الطاقة الشمسية",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > solarsystems > solar-panels"
+ },
+ {
+  "id": "L3-553",
+  "alias": "multiple-accessories-and-devices",
+  "name_en": "Multiple Accessories and Devices",
+  "name_ar": "ملحقات واجهزة متعددة",
+  "description": "",
+  "active": true,
+  "path": "home-appliances > solarsystems > multiple-accessories-and-devices"
+ },
+ {
+  "id": "L3-554",
+  "alias": "silver",
+  "name_en": "Silver Bars",
+  "name_ar": "سبائك الفضة",
+  "description": "",
+  "active": true,
+  "path": "accessories-and-watches > accessories > silver"
+ },
+ {
+  "id": "L4-820",
+  "alias": "manualwheelchairs",
+  "name_en": "Manual Wheelchairs",
+  "name_ar": "الكراسي المتحركة اليدوية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > weelchair > manualwheelchairs"
+ },
+ {
+  "id": "L4-821",
+  "alias": "electricwheelchairs",
+  "name_en": "Electric Wheelchairs",
+  "name_ar": "الكراسي المتحركة الكهربائية",
+  "description": "",
+  "active": true,
+  "path": "health-and-personal-care > personal-medical-care > weelchair > electricwheelchairs"
+ }
+]

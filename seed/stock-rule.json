@@ -1,0 +1,10 @@
+{
+  "_note": "Quantity shown on Miswag. fixed_quantity applies to every synced listing. exceptions: Shopify product id or variant id -> \"real\" (real Shopify stock) or a number. Delete this file to go back to real stock everywhere. zero_when_sold_out: real stock 0 -> 0 on Miswag.",
+  "approved": {
+    "2026-11-06": "Owner: all Miswag products show 3 pieces; sold out on the website -> 0 on Miswag; except products she sends.",
+    "2026-11-07": "Owner: REPLACES the 3-piece rule. Miswag shows the real Shopify stock (fixed_quantity null). Sold-out items are taken off Miswag."
+  },
+  "fixed_quantity": null,
+  "zero_when_sold_out": true,
+  "exceptions": {}
+}

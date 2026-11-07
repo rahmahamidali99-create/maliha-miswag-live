@@ -1,0 +1,9 @@
+data/
+node_modules/
+.env
+*.env
+
+# Owner-approved Miswag prices: kept private in the MISWAG_PRICE_OVERRIDES repo secret
+seed/price-overrides.json
+run.log
+__pycache__/

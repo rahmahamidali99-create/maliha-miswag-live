@@ -1,0 +1,70 @@
+name: Maliha -> Miswag sync
+
+# The repo is public (free, unlimited Actions minutes), so this job can loop:
+# it syncs Shopify -> Miswag every 2 minutes for about 5.5 hours, then the next queued run takes over.
+# The hourly schedule only restarts the loop if it ever stops; extra runs wait in the queue.
+# Logs show only counts (no prices, no secrets).
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch: {}
+  repository_dispatch:
+    types: [shopify-stock]
+
+concurrency:
+  group: miswag-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  actions: write   # only to keep the schedule switched on (public repos pause schedules after 60 quiet days)
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Restore sync state
+        uses: actions/cache/restore@v4
+        with:
+          path: data/state.json
+          key: miswag-state-${{ github.run_id }}
+          restore-keys: miswag-state-
+      - name: Seed state on first run
+        run: mkdir -p data && [ -f data/state.json ] || cp seed/state.json data/state.json
+      - name: Owner-approved Miswag prices (kept in a secret, never in the repo)
+        env:
+          PRICE_OVERRIDES: ${{ secrets.MISWAG_PRICE_OVERRIDES }}
+        run: |
+          [ -n "$PRICE_OVERRIDES" ] || { echo "MISWAG_PRICE_OVERRIDES secret is missing - refusing to sync (prices would fall back)"; exit 1; }
+          printf '%s' "$PRICE_OVERRIDES" > seed/price-overrides.json
+          node -e "const j=JSON.parse(require('fs').readFileSync('seed/price-overrides.json','utf8')); if(!Object.keys(j.prices||{}).length) process.exit(1)"
+      - name: Keep the schedule switched on
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/miswag-sync.yml/enable" >/dev/null 2>&1 || true
+      - name: Sync every 2 minutes
+        env:
+          MISWAG_API_KEY: ${{ secrets.MISWAG_API_KEY }}
+          MISWAG_API_SECRET: ${{ secrets.MISWAG_API_SECRET }}
+          SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
+          SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
+        run: |
+          end=$((SECONDS + 330*60)); n=0
+          while [ $SECONDS -lt $end ]; do
+            start=$SECONDS; n=$((n+1))
+            node sync.mjs --live --all > run.log 2>&1 || true
+            echo "run $n $(date -u +%H:%M) $(grep -oE '"(stock_updates|price_updates|unpublished|published|created_or_updated|errors)": [0-9]+' data/last-run.json 2>/dev/null | tr -d '"' | tr '\n' ' ')"
+            grep -q 'ABORT' run.log && { echo "sync aborted itself (safety check) - stopping"; exit 1; }
+            left=$((120 - (SECONDS - start))); [ $left -gt 0 ] && sleep $left
+          done
+      - name: Save sync state
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data/state.json
+          key: miswag-state-${{ github.run_id }}
