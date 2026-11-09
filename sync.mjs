@@ -7,7 +7,7 @@ import { loadEnv } from './lib/env.mjs';
 import { shopifyClient, fetchProducts, fetchWholesaleIds } from './lib/shopify.mjs';
 import { miswagClient } from './lib/miswag.mjs';
 import { isWholesale, isCeraVe } from './lib/rules.mjs';
-import { buildPayloads } from './lib/build.mjs';
+import { buildPayloads, miswagPrice, shopRetailPrice } from './lib/build.mjs';
 import { syncOrders } from './lib/orders.mjs';
 
 const args = Object.fromEntries(process.argv.slice(2).map((a) => { const [k, v] = a.replace(/^--/, '').split('='); return [k, v ?? true]; }));
@@ -187,15 +187,20 @@ async function pushToMiswag() {
   }
 
   // Hand-listed items (CeraVe + La Roche-Posay C12, numeric Miswag ids) linked in seed/hand-map.json:
-  // they get the real Shopify stock too (owner-approved 2026-11-07). Only stock is sent; the listings stay as the owner made them.
+  // they get the real Shopify stock (owner-approved 2026-11-07) and, since 2026-11-09, the same price rule as the synced items
+  // (miswagPrice: approved markup over the website price, never below it). Nothing else on these listings is changed.
   const handPath = new URL('./seed/hand-map.json', import.meta.url);
   if (!ONLY && existsSync(handPath)) {
     const hand = JSON.parse(readFileSync(handPath, 'utf8')).variations || {};
     const ids = [...new Set(Object.values(hand).map((h) => `gid://shopify/ProductVariant/${h.shopify_variant}`))];
-    const qty = {};
+    const qty = {}, price = {};
     for (let i = 0; i < ids.length; i += 50) {
-      const d = await shop.gql(`query($ids:[ID!]!){ nodes(ids:$ids){ ... on ProductVariant { id inventoryQuantity inventoryItem { tracked } } } }`, { ids: ids.slice(i, i + 50) });
-      for (const n of d.nodes) if (n) qty[n.id.split('/').pop()] = n.inventoryItem?.tracked ? Math.max(0, n.inventoryQuantity || 0) : 0;
+      const d = await shop.gql(`query($ids:[ID!]!){ nodes(ids:$ids){ ... on ProductVariant { id price compareAtPrice inventoryQuantity inventoryItem { tracked } } } }`, { ids: ids.slice(i, i + 50) });
+      for (const n of d.nodes) if (n) {
+        const vid = n.id.split('/').pop();
+        qty[vid] = n.inventoryItem?.tracked ? Math.max(0, n.inventoryQuantity || 0) : 0;
+        if (+n.price > 0) price[vid] = miswagPrice(vid, shopRetailPrice(n));
+      }
     }
     state.hand ??= {};
     log.hand_stock_updates = 0;
@@ -204,6 +209,14 @@ async function pushToMiswag() {
       if (q === undefined || state.hand[variation] === q) continue;
       const r = await miswag.call('PATCH', `/v1/items/${h.item}/stock`, { variations: [{ id: variation, sizes: [{ id: h.size, quantity: q }] }] });
       if (r.status >= 300) err(`hand stock ${h.item}`, r); else { state.hand[variation] = q; log.hand_stock_updates++; }
+    }
+    state.handPrice ??= {};
+    log.hand_price_updates = 0;
+    for (const h of Object.values(hand)) {
+      const p = price[h.shopify_variant];
+      if (!Number.isInteger(p) || state.handPrice[h.item] === p) continue;
+      const r = await miswag.call('PATCH', `/v1/items/${h.item}/price`, { price: p });
+      if (r.status >= 300) err(`hand price ${h.item}`, r); else { state.handPrice[h.item] = p; log.hand_price_updates++; }
     }
   }
 
